@@ -1,6 +1,7 @@
-#!
+#!/bin/bash
+
 echo "__________________________________________________________________"
-echo  "\t \t Parity of a Number"
+echo  " \t\t Parity of a Number"
 echo "__________________________________________________________________"
 echo -e "Enter the number:"
 read n
