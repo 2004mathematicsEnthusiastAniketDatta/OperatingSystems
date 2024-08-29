@@ -1,0 +1,851 @@
+ls -l
+echo "hello world"
+exit
+su
+pulseaudio --kill
+pulseaudio --start
+sudo dnf install dnf-automatic
+su
+exit
+su
+/bin/python3 /home/aniketdatta/.vscode/extensions/ms-python.python-2024.10.0-linux-x64/python_files/printEnvVariablesToFile.py /home/aniketdatta/.vscode/extensions/ms-python.python-2024.10.0-linux-x64/python_files/deactivate/bash/envVars.txt
+clear
+su
+git
+tsc --v
+/bin/python3 /home/aniketdatta/.vscode/extensions/ms-python.python-2024.10.0-linux-x64/python_files/printEnvVariablesToFile.py /home/aniketdatta/.vscode/extensions/ms-python.python-2024.10.0-linux-x64/python_files/deactivate/bash/envVars.txt
+/bin/python3 /home/aniketdatta/.vscode/extensions/ms-python.python-2024.10.0-linux-x64/python_files/printEnvVariablesToFile.py /home/aniketdatta/.vscode/extensions/ms-python.python-2024.10.0-linux-x64/python_files/deactivate/bash/envVars.txt
+xdg-open http://localhost:undefinedundefined
+su
+wine --help
+wine
+apt remove wine
+su
+lslbk
+su
+nslookup www.google.com
+tcptraceroute 1.1.1.1
+tcpdump 1.1.1.1
+su
+wine --version
+su
+sudo chown -R your_username /home/aniketdatta/.git
+su
+exit
+cd Downloads
+ls
+apt reinstall google chrome
+su
+git --config list
+git --config ls
+git config ls
+git config list
+git --config list
+git
+git --config List
+git config -list
+git config --list
+su
+git add .
+git commit -m "letsdo"
+git push
+ssh-keygen-t ed25519-C 2004aniketdatta@gmail.com
+ssh -keygen -t ed25519-C 2004aniketdatta@gmail.com
+ssh -keygen-t ed25519-C 2004aniketdatta@gmail.com
+ssh -keygen-t ed25519-C 2004aniketdatta@gmail.comgh repo clone 2004mathematicsEnthusiastAniketDatta/CHESS_FUNDAMENTALS
+ssh -keygen-t ed25519-C 2004aniketdatta@gmail.comgh repo clone 2004mathematicsEnthusiastAniketDatta/CHESS_FUNDAMENTALSgh repo clone 2004mathematicsEnthusiastAniketDatta/CHESS_FUNDAMENTALS
+gh repo clone 2004mathematicsEnthusiastAniketDatta/CHESS_FUNDAMENTALS
+gh auth login
+git clone
+git@github.com:2004mathematicsEnthusiastAniketDatta
+ssh -T git@github.com
+git@github.com:2004mathematicsEnthusiastAniketDatta
+git@github.com:2004mathematicsEnthusiastAniketDatta git init
+mkdir github
+cd github
+mkdir my_proj
+cd my_proj/
+git init
+git remote add origin https://github.com/2004mathematicsEnthusiastAniketDatta/2004mathematicsEnthusiastAniketDatta.git
+git remote -v
+git remote set-url origin https://2004mathematicsEnthusiastAniketDatta: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@github.com/2004mathematicsEnthusiastAniketDatta/2004mathematicsEnthusiastAniketDatta.git
+fetch origin
+git fetch origin
+git log
+git switch main
+git pull origin
+git log
+git push
+su
+sudo apt update
+sudo apt install --reinstall python3-pip
+su
+pip install jupter
+su
+apt install default-jre
+su
+tcpdump --help
+sudo apt update && sudo apt upgrade -y
+SU
+su
+GIT ADD .
+git add .
+git commit -m "Updates"
+git push
+git push origin
+git push --set-upstream origin master
+git config --global push.autoSetupRemote true
+git push 
+git push --set-upstream origin master
+git remote -v
+https://github.com/2004mathematicsEnthusiastAniketDatta/CHESS_FUNDAMENTALS
+git remote add origin https://github.com/2004mathematicsEnthusiastAniketDatta/CHESS_FUNDAMENTALS
+git remote add origin https://github.com/username/CHESS_FUNDAMENTALS.git
+git remote -v
+git push --set-upstream origin master
+git add .
+git commit -m "upgrades"
+git push
+su
+su
+screenfetch
+su
+screenfetch
+sudo apt update
+sudo apt install lm-sensors fancontrol
+su
+systemctl reboot
+code .
+[200~curl --request GET 'https://api.apilayer.com/exchangerates_data/live?base=USD&symbols=EUR,GBP' curl --request GET 'https://api.apilayer.com/exchangerates_data/live?base=USD&symbols=EUR,GBP' \--header 'apikey:nz40VwarckJLRTHwDbUAJ9lcXuPJvFwM'
+curl --request GET 'https://api.apilayer.com/exchangerates_data/live?base=USD&symbols=EUR,GBP' curl --request GET 'https://api.apilayer.com/exchangerates_data/live?base=USD&symbols=EUR,GBP' \--header 'apikey:nz40VwarckJLRTHwDbUAJ9lcXuPJvFwM'
+curl --request GET 'https://api.apilayer.com/currency_data/convert?base=USD&symbols=EUR,GBP,JPY&amount=5&date=2018-01-01' --header 'apikey:nz40VwarckJLRTHwDbUAJ9lcXuPJvFwM'
+curl --request GET 'https://api.apilayer.com/currency_data/convert?base=USD&symbols=EUR,GBP,JPY&amount=5&date=2018-01-01' --header 'apikey:nz40VwarckJLRTHwDb24-07-29PJvFwM'
+npm i --save axios
+npm init
+tsc currency_converter.ts 
+ts currency_converter.ts 
+tsc currency_converter.ts 
+tsc --init
+npm i inquirer
+npm i --save-dev 
+npm i --save-dev @types/inquirer
+ls
+cd TypeScript/
+cd Currency_Converter/
+ls
+tsc .\currency_converter.ts
+tsc currency_converter.
+tsc currency_converter.ts
+txc --init
+tsc currency_converter.ts
+npm i typescript -g
+tsc main.ts
+tsc --init
+tsc main.ts -w
+tsc -w
+npm install typescript --save-dev
+npx tsc
+tsc -w
+tsc --init
+npm --init
+npm --i
+npm -i
+npm init
+npm i inquirer
+npm i --save-dev 
+npm i --save-dev @types/inquirer
+SU
+su
+exit
+su
+exit
+tsc main.ts
+SU
+su
+CD Desktop/
+cd Desktop/
+rmdir TYPESCRIPT_CONFIG_BASICS
+su
+exit
+cd ..
+cd TYPESCRIPT/
+tsc --init
+npm --init
+npm -i
+npm init
+npm i inquirer
+npm i --save-dev 
+npm i --save-dev @types/inquirer
+javac Student_management.java 
+java Student_management.java
+tsc main.ts
+node main.js
+cd .devcontainer/server/TYPESCRIPT/
+tsc
+gh repo clone 2004mathematicsEnthusiastAniketDatta/TYPESCRIPT_TWO
+sy
+su
+javac calls.java
+java calls.java
+jupyter notebook
+java --version
+javac --version
+sudo update-alternatives --install /usr/bin/java java /usr//home/aniketdatta/.wine/dosdevices/z:/usr/lib/jvm/java-17-openjdk-amd64/bin/java
+su
+javac --version
+java --version
+su
+LS
+ls
+cd Desktop
+cd JAVA-BASICS
+javac CallByValueAndReference.java 
+java CallByValueAndReference.java
+javacstudent_management.java
+javac student_management.java
+javac Student_management.java
+java Student_management.java
+javac calls.java
+[200~javac CallByValueAndReference.java
+~javac CallByValueAndReference.java 
+javac CallByValueAndReference.java 
+javac CallByValueAndReference.java
+
+javac CallByValueAndReference.java
+ls -lh
+ls *
+ls -;a
+ls -la
+ls -R
+ls
+cd Desktop
+mkdir Shell_Scripting
+cd Shell_Scripting/
+nano factorial.sh
+chmod +x factorial.sh
+./factorial.sh
+nano factorial.sh
+./factorial.sh
+nano factorial.sh
+./factorial.sh
+nano even_odd.sh
+chmod +x even_odd.sh
+./even_odd.sh
+nano leapyear.sh
+chmod +x leapyear.sh
+./leapyear.sh
+pwd
+whoami
+#date
+date
+date +%D
+date +%T
+date +%H:%M
+ls -lt
+ls -ltr
+ls -lh
+cat leapyear.sh
+less even_odd.sh
+cd Desktop
+cd Shell_Scripting/
+cat even_odd.sh
+./even_odd.sh
+less even_odd.sh
+more test.csv
+touch helloworld.sh
+
+chmod +x helloworld.sh
+./helloworld.sh
+rm helloworld.sh 
+ls
+ls -a
+mkdir files
+ls
+cd files
+cat > file1.txt
+sort file1.txt
+split -l 1 file$.txt
+split -l 1 file1.txt
+ls
+cat xaa
+cat xab
+cat xac
+grep "shell" file1.txt
+egrep "shell|kernel" file1.txt
+ls x*
+ls *.txt
+touch file{1.....10}
+ls
+touch file{1..10}
+ls
+rm file{1.....10} 
+ls
+wc -l file1.txt
+find ./ -name file1.txt
+find ./ -name*.txt : searches for the file or the associated parent folder and keeps searching until the file is received.
+updatedb
+locate searches in the database of the cache
+locate file1.txt
+after creating new files , updatedb before locating the file with locate command
+sudo updatedb
+    1  sudo mkdir -pm755 /etc/apt/keyrings
+    2  sudo wget -O /etc/apt/keyrings/winehq-archive.key https://dl.winehq.org/wine-builds/winehq.key
+    3  sudo wget -NP /etc/apt/sources.list.d/ https://dl.winehq.org/wine-builds/debian/dists/bookworm/winehq-bookworm.sources
+    4  apt update
+    5  sudo apt install --install-recommends winehq-stable
+    6  wine
+    7  sudo apt reinstall --install-recommends winehq-stable
+    8  wine
+    9  wine --version
+   10  exit
+   11  apt remove wine
+   12  apt uninstall wine
+   13  wine
+   14  apt update
+   15  apt rm wine
+   16  sudo apt uninstall --install-recommends winehq-stable
+   17  sudo apt uninstall --uninstall-recommends winehq-stable
+   18  sudo apt uninstall recommends winehq-stable
+   19  sudo apt uninstall wine
+   20  apt uninstall wine
+   21  sudo apt reinstall --install-recommends winehq-stable
+   22  sudo dpkg --add-architecture i386
+   23  sudo mkdir -pm755 /etc/apt/keyrings
+   24  sudo wget -O /etc/apt/keyrings/winehq-archive.key https://dl.winehq.org/wine-builds/winehq.key
+   25  sudo wget -NP /etc/apt/sources.list.d/ https://dl.winehq.org/wine-builds/debian/dists/bookworm/winehq-bookworm.sources
+   26  sudo wget -NP /etc/apt/sources.list.d/ https://dl.winehq.org/wine-builds/debian/dists/bookworm/winehq-bookworm.sources
+   27  nano
+   28  cd Downloads
+   29  lslbk
+   30  fdisk -ll
+   31  fdisk -ls
+   32  fdisk
+   33  tcpdump 1.1.1.1
+   34  tcpdump -n -v -i wlan0 google.com
+   35  tcpdump -n -v -i en0 google.com
+   36  tcpdump -n -v -i  1.1.1.1
+   37  tcpdump -n -v -i eth0  1.1.1.1
+   38  tcpdump -n -v -i en1  1.1.1.1
+   39  tcpdump -n -v -i en0  1.1.1.1
+   40  tcpdump -n -v -i en0  192.168.2.1
+   41  tcpdump -D
+   42  tcpdump -n -v -i wlo1  192.168.2.1
+   43  tcpdump -n -v -i any  192.168.2.1
+   44  cd Downloads
+   45  ls
+   46  wine GitHubDesktopSetup-x64.exe
+   47  apt-get remove --purge wine wine64 wine32
+   48  apt-get autoremove
+   49  apt-get clean
+   50  ls
+   51  dpkg--
+   52  sudo dpkg --add-architecture i386
+   53  wget -nc https://dl.winehq.org/wine-builds/winehq.key
+   54  sudo apt-key add winehq.key
+   55  sudo apt-add-repository 'deb https://dl.winehq.org/wine-builds/debian/ bookworm main'
+   56  sudo apt update
+   57  sudo apt install --install-recommends winehq-stable
+   58  sudo apt install --install-recommends winehq-devel
+   59  sudo apt install --install-recommends winehq-staging
+   60  wine GitHubDesktopSetup-x64.exe
+   61  sudo apt install --install-recommends winehq-stable
+   62  wine GitHubDesktopSetup-x64.exe
+   63  cd Downloads/
+   64  ls
+   65  wine GitHubDesktopSetup-x64.exe
+   66  wine GitHubDesktopSetup-x64
+   67  sudo apt install --install-recommends winehq-devel
+   68  wine GitHubDesktopSetup-x64.exe
+   69  exit
+   70  sudo chown -R your_username /home/aniketdatta/.git
+   71  sudo chown -R 2004mathematicsenthusiastaniketdatta /home/aniketdatta/.git
+   72  sudo chown -R aniketdatta /home/aniketdatta/.git
+   73  git remote add origin https://github.com/2004mathematicsEnthusiastAniketDatta/CHESS_FUNDAMENTALS
+   74  git config --global user.name "2004MathematicsEnthusiastAniketDatta"
+   75  git config --global user.email "2004aniketdatta@gmail.com"
+   76  apt install support/dep
+   77  apt install dep
+   78  sudo dpkg --add-architecture i386
+   79  sudo apt update
+   80  sudo apt update
+   81  sudo apt install wine wine32 wine64
+   82  sudo apt install winetricks
+   83  sudo apt install winetrick
+   84  sudo apt install winetricks
+   85  nano etc/apt/sources.list
+   86  nano /etc/apt/sources.list
+   87  apt update
+   88  sudo apt install winetricks
+   89  winetricks corefonts vcrun6 vcrun2010
+   90  sudo apt install libvulkan1 libvulkan1:i386 libfaudio0 libfaudio0:i386
+   91  winecfg
+   92  winetricks d3dx9
+   93  sudo dpkg --add-architecture i386
+   94  sudo mkdir -pm755 /etc/apt/keyrings
+   95  sudo wget -O /etc/apt/keyrings/winehq-archive.key https://dl.winehq.org/wine-builds/winehq.key
+   96  sudo wget -NP /etc/apt/sources.list.d/ https://dl.winehq.org/wine-builds/debian/dists/bookworm/winehq-bookworm.sources
+   97  sudo apt install --install-recommends winehq-stable
+   98  cd Downloads/
+   99  cd..
+  100  cd ..
+  101  cd Down
+  102  cd ..
+  103  cd Downloads/
+  104  ls
+  105  wine
+  106  wine GithubDesktopSetup-x64.exe
+  107  wine GithubDesktopSetup-x64.exe
+  108  sudo apt update
+  109  sudo apt upgrade wine wine32 wine64
+  110  winetricks ie8
+  111  winetricks corefonts vcrun6 vcrun2010
+  112  winetricks corefonts vcrun6 vcrun2010
+  113  sudo apt update
+  114  sudo apt upgrade
+  115  sudo apt install cabextract p7zip wget
+  116  WINEPREFIX=~/.wine_new winetricks vcrun6
+  117  cp path_to_downloaded_dlls/*.dll ~/.wine/drive_c/windows/system32/
+  118  winecfg
+  119  winecfg
+  120  sudo apt update
+  121  sudo apt upgrade wine wine32 wine64
+  122  wine regsvr32 msvcp60.dll
+  123  wine regsvr32 msvcrt.dll
+  124  tomcat
+  125  ls
+  126  dpkg -i apache-tomcat-10.1.26-src
+  127  echo $PATH
+  128  export PATH=/usr/local/sbin:/usr/sbin:/sbin:$PATH
+  129  export PATH=/usr/local/sbin:/usr/sbin:/sbin:$PATH
+  130  sudo apt install libc-bin dpkg
+  131  which ldconfig
+  132  which start-stop-daemon
+  133  dpkg -i apache-tomcat-10.1.26-src
+  134  tar -xvf apache-tomcat-10.1.26-src.tar.gz 
+  135  wget https://dlcdn.apache.org/tomcat/tomcat-10/v10.1.10/bin/apache-tomcat-10.1.10.tar.gz
+  136  tar -xzf apache-tomcat-10.1.10.tar.gz
+  137  sudo mv apache-tomcat-10.1.10 /opt/tomcat
+  138   mv apache-tomcat-10.1.10 /opt/tomcat
+  139   mv apache-tomcat-10.1.26 /opt/tomcat
+  140  sudo groupadd tomcat
+  141  sudo useradd -r -g tomcat -s /bin/false tomcat
+  142  sudo chown -R tomcat: /opt/tomcat
+  143  sudo chmod +x /opt/tomcat/bin/*.sh
+  144  sudo nano /etc/systemd/system/tomcat.service
+  145  sudo systemctl daemon-reload
+  146  sudo systemctl start tomcat
+  147  sudo systemctl enable tomcat
+  148  sudo systemctl daemon-reload
+  149  sudo systemctl start tomcat
+  150  sudo nano /opt/tomcat/conf/tomcat-users.xml
+  151  sudo systemctl restart tomcat
+  152  sudo systemctl status tomcat.service
+  153  sudo journalctl -xeu tomcat.service
+  154  /usr/lib/jvm/java-17-openjdk-amd64
+  155  sudo systemctl daemon-reload
+  156  sudo chown -R tomcat: /opt/tomcat
+  157  sudo chmod +x /opt/tomcat/bin/*.sh
+  158  getent passwd tomcat
+  159  getent group tomcat
+  160  sudo apt update
+  161  sudo apt install openjdk-17-jdk
+  162  sudo apt install libc-bin dpkg
+  163  nano /opt/tomcat/conf/tomcat-users.xml
+  164  sudo cat /opt/tomcat/logs/catalina.out
+  165  sudo cat /opt/tomcat/logs/catalina.out
+  166   cat /opt/tomcat/logs/catalina.out
+  167  cat /opt/tomcat/logs/catalina.out
+  168  sudo systemctl restart tomcat
+  169  snap reinstall brave
+  170  snap install brave
+  171  apt install brave browser
+  172  snap  install brave
+  173  exit
+  174  apt reinstall google-chrome
+  175  apt reinstall chrome
+  176  sudo apt update
+  177  sudo apt upgrade
+  178  sudo apt remove brave-browser google-chrome-stable
+  179  sudo apt install brave-browser google-chrome-stable
+  180  sudo apt remove brave-browser google-chrome-stable
+  181  sudo apt install brave-browser google-chrome-stable
+  182  apt update
+  183  systemctl reboot
+  184  git config -list
+  185  git config -ls
+  186  git config-list
+  187  git config -list -show -origin
+  188  git config --list -show -origin
+  189  git config --list --show --origin
+  190  git branch master
+  191  git config --global
+  192  git config --global --list
+  193  git config --global core.editor code
+  194  git config --global --list
+  195  git remote add 2004MathematicsEnthusiastAniketDatta https://github.com/2004mathematicsEnthusiastAniketDatta/CHESS_FUNDAMENTALS  
+  196  git config --global --add safe.directory /home/aniketdatta
+  197  git master
+  198  git branch master
+  199  git branch
+  200  git branch --master
+  201  apt install python3-CMaake
+  202  apt install python3-CMake
+  203  pip install CMake
+  204  cd venv
+  205  pip install CMake
+  206  apt install python3-pip3
+  207  apt install python3-pip
+  208  apt install python3 cmake
+  209  apt install python3 dlib
+  210  apt install python3
+  211  apt install python3 dlib
+  212  apt install python3 libdlib
+  213  apt install python3 libdlib-dev
+  214  sudo apt install python3-xyz
+  215  sudo apt install python3-pip
+  216  python3 -m venv /home.aniketdatta/venv
+  217  apt install dep
+  218  apt install build-essential
+  219  sudo apt install python3-face-recognition
+  220  sudo apt install python3 face-recognition
+  221  sudo apt install  face-recognition
+  222  sudo apt install  python3-face-recognition
+  223  apt install -S cmake
+  224  apt install  cmake
+  225  apt install base-devel
+  226  apt install  face-recognition
+  227  sudo apt install  python3-face_recognition
+  228  sudo apt install  face_recognition
+  229   apt install  python3-face_recognition
+  230   apt install  python3 face_recognition
+  231   apt install  python3 face-recognition
+  232   apt install  python3 Face-recognition
+  233   apt install  python3 Face_recognition
+  234   apt install  python3-pip
+  235  apt-get install libboost-all-dev
+  236   apt install  python3 face_recognition
+  237  sudo  apt install  python3 face_recognition
+  238  sudo  apt install  python3 facerecognition
+  239  sudo  apt install  python3 face_recognition
+  240   apt install  python3 face_recognition
+  241   apt install  python3 Face_Recognition
+  242  apt update
+  243  sudo apt update
+  244  sudo apt install --reinstall python3-pip
+  245  sudo apt install python3-package-name
+  246  sudo apt update
+  247  sudo apt install --reinstall python3-pip
+  248  curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
+  249  python3 get-pip.py
+  250  curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
+  251  python3 get-pip.py
+  252  pip install --user package-name
+  253  find /aniketdatta | grep python3 | grep EXTERNALLY-MANAGED
+  254  find /USR | grep python3 | grep EXTERNALLY-MANAGED
+  255  find /usr | grep python3 | grep EXTERNALLY-MANAGED
+  256  cd /usr/lib/python3.11/
+  257  start .
+  258  gnome-open .
+  259  rm EXTERNALLY-MANAGED
+  260  pip install --user package-name
+  261  curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
+  262  pip install face_recognition
+  263  exit
+  264  pip install cmake
+  265  python3 -m venv myenv
+  266  source myenv/bin/activate
+  267  pip install pip3
+  268  pip install tensorflow
+  269  pip install --upgrade pip setuptools
+  270  lsb_release -a
+  271  apt update
+  272  apt list --upgradable
+  273  apt upgrade
+  274  apt install build-essential
+  275  pip install numpy pandas scikit-learn tensorflow torch torchvision torchaudio
+  276  reboot
+  277  systemctlreboot
+  278  systemctl reboot
+  279  pip install jupyter
+  280  apt installdefault-jdk default-jre
+  281  apt install default-jdk default-jre
+  282  mkdir /opt/tomcat
+  283  groupaddd tomcat
+  284  groupadd tomcat
+  285  groupadd tomcat
+  286  apt install groupadd
+  287  cd /opttomcat
+  288  cd /opt/tomcat
+  289  groupadd tomcat
+  290  apt autoremove
+  291  wget https://dlcdn.apache.org/tomcat/tomcat-9/v9.0.91/bin/apache-tomcat-9.0.91.tar.gz
+  292  tar -xzf apache-tomcat-9.0.91.tar.gz
+  293  ls
+  294  mkdir /opt/tomcat
+  295  mkdir /op/tomcat
+  296  rm /op/tomcat
+  297  sudo mkrdir /opt/tomcatnine
+  298  sudo mkdir /opt/tomcatnine
+  299  ls
+  300   mv apache-tomcat-9.0.91/* /opt/tomcatnine/
+  301  cd /opt/tomcatnine
+  302  ls
+  303  cd conf/
+  304  ls
+  305  nano tomcat-users.xml
+  306  cd ..
+  307  cd bin
+  308  ls
+  309  ./startup.sh
+  310  cd  ..
+  311  cd webapps
+  312  ls
+  313  cd ROOT/
+  314  LS
+  315  ls
+  316  nano test.js
+  317  nano test.jsp
+  318  nano test.jsp
+  319  nano test.jsp
+  320  cd ..
+  321  cd ..
+  322  cd ..
+  323  cd ..
+  324  systemctl reboot
+  325  cd opt/
+  326  cd opt/tomcatnine
+  327  ls
+  328  cd bin
+  329  ls
+  330  cd ..
+  331  cd apache-tomcat-9.0.91
+  332  cd /opt/tomcatnine
+  333  cd bin
+  334  ls
+  335  startup.sh
+  336  ./startup.sh
+  337  ./shutdown.sh
+  338  ./startup.sh
+  339  ls
+  340  ./shutdown.sh
+  341  cd apache-tomcat-9.0.91
+  342  cd /opt/tomcatnine
+  343  cd bin
+  344  ls
+  345  ./startup.sh
+  346  ./shutdown.sh
+  347  sudo apt update && sudo apt upgrade -y
+  348  sudo apt install wine64 wine32 -y
+  349  winecfg
+  350  winecfg
+  351  sudo apt install --reinstall wine64 wine32 -y
+  352  winecfg
+  353  apt-get install git
+  354  add-apt-repository ppa:git-core/ppa
+  355  dpkg --add-architecture i386 
+  356  sudo mkdir -pm755 /etc/apt/keyrings
+  357  sudo wget -O /etc/apt/keyrings/winehq-archive.key https://dl.winehq.org/wine-builds/winehq.key
+  358  sudo wget -NP /etc/apt/sources.list.d/ https://dl.winehq.org/wine-builds/debian/dists/bookworm/winehq-bookworm.sources
+  359  apt update
+  360  sudo apt-get remove --autoremove winehq
+  361  cd Downloads
+  362  ls
+  363  sudo apt-get remove --autoremove winehq.key 
+  364  rm winehq.key
+  365  ls
+  366  sudo wget -NP /etc/apt/sources.list.d/ https://dl.winehq.org/wine-builds/debian/dists/bookworm/winehq-bookworm.sources
+  367  sudo rm /etc/apt/sources.list.d/winehq-bookworm.sources
+  368  sudo apt update
+  369  sudo apt purge winehq*
+  370  sudo apt autoremove
+  371  sudo wget -NP /etc/apt/sources.list.d/ https://dl.winehq.org/wine-builds/debian/dists/bookworm/winehq-bookworm.sources
+  372  sudo apt update
+  373  sudo wget -NP /etc/apt/sources.list.d/ https://dl.winehq.org/wine-builds/debian/dists/bookworm/winehq-bookworm.sources
+  374  sudo apt install --install-recommends winehq-stable
+  375  sudo apt update && sudo apt upgrade -y
+  376  sudo apt install wine64 wine32 -y
+  377  winecfg
+  378  sudo apt install wine32-development wine64-development
+  379  sudo apt install  wine64-development
+  380  sudo apt install  wine64 development
+  381   apt install wine32-development wine64-development
+  382  apt install --install-recommends winehq-devel
+  383  winecfg
+  384  sudo apt install winetricks
+  385  winetricks msvcrt advapi32 gdi32 user32 shell32 shlwapi
+  386  ls
+  387  wget -O /etc/apt/keyrings/winehq-archive.key https://dl.winehq.org/wine-builds/winehq.key
+  388  apt update
+  389  apt install --install-recommends winehq-stable
+  390  apt install wine
+  391  apt install --install-recommends winehq-stable
+  392  ls
+  393  wine GitHubDesktopSetup-x64.exe
+  394  apt install --install-recommends winehq-devel
+  395  winecfg
+  396  sudo apt install winetricks
+  397  winetricks msvcrt advapi32 gdi32 user32 shell32 shlwapi
+  398  wget -O /etc/apt/keyrings/winehq-archive.key https://dl.winehq.org/wine-builds/winehq.key
+  399  wine GitHubDesktopSetup-x64.exe
+  400  exit
+  401  apt install playonlinux
+  402  wget https://www.mozilla.org/en-US/firefox/download/thanks/ && wine firefox.exe
+  403  winecfgapt update
+  404  apt update
+  405  apt update
+  406  apt install driver-manager
+  407  apt upgrade -y
+  408  apt install drive manager
+  409  apt install driver manager
+  410  apt install drivermanager
+  411  systemctl reboot
+  412  apt-mark showmanual
+  413  sudo grep -oP "Unpacking \K[^: ]+" /var/log/installer/syslog   | sort -u | comm -13 /dev/stdin <(apt-mark showmanual | sort)
+  414  comm -12 <(apt list --installed 2> /dev/null | cut -d '/' -f 1 | sort) <(history | grep -e "apt\(-get\)\? install" | grep -v -e "grep -e" | grep -v "./" | cut -d ' ' -f10 | sort)
+  415  lspci -nn | egrep -i "3d|display|vga"
+  416  nvidia-detect
+  417  apt install linux-headers-amd64
+  418  apt install -t buster-backports linux-image-amd64
+  419  systemctl reboot
+  420  sudo apt update
+  421  sudo apt install lm-sensors
+  422  sudo sensors-detect
+  423  sensors
+  424  sudo apt install fancontrol
+  425  sudo pwmconfig
+  426  apt install fancontrol
+  427  pwmconfig
+  428  sudo pwmconfig
+  429  sudo systemctl start fancontrol
+  430  sudo systemctl enable fancontrol
+  431  top
+  432  sudo apt update
+  433  sudo apt upgrade
+  434  sudo apt install tlp
+  435  sudo tlp start
+  436  sudo apt install laptop-mode-tools
+  437  systemctl reboot
+  438  sudo apt update
+  439  sudo apt install lm-sensors fancontrol
+  440  sudo systemctl status fancontrol
+  441  sudo systemctl enable fancontrol
+  442  sudo systemctl start fancontrol
+  443  sudo systemctl status fancontrol
+  444  sudo nano /etc/fancontrol
+  445  sudo nano /etc/fancontrol
+  446  mkdir src/main.py
+  447  mkdir src/main.py
+  448  nano  src/main.py
+  449  SCREENFETCH
+  450  screenfetch
+  451  exit
+  452  tsc --version
+  453  tsc --init
+  454  exit
+  455  ls
+  456  cd Desktop
+  457  /
+  458  cd Desktop/
+  459  mkdir TYPESCRIPT_INTRODUCTION
+  460  exit
+  461  
+  462  rmdir TYPESCRIPT_CONFIG_BASICS
+  463  rmdir-r  TYPESCRIPT_CONFIG_BASICS
+  464  rmdir -r  TYPESCRIPT_CONFIG_BASICS
+  465  sudo snap install outlook-for-linux --edge
+  466  exit
+  467  mkdir A
+  468  cd A
+  469  mkdir B
+  470  cd B
+  471  mkdir C
+  472  cd C
+  473  mkdir c-e
+  474  mkdir cf
+  475  cd c-e
+  476  echo PATH
+  477  update-alternatives --install /usr/bin/java java /usr//home/aniketdatta/.wine/dosdevices/z:/usr/lib/jvm/java-17-openjdk-amd64/bin/java
+  478  update-alternatives --install /usr/bin/java java /usr//home/aniketdatta/.wine/dosdevices/z:/usr/lib/jvm/java-17-openjdk-amd64/bin/java
+  479  sudo update-alternatives --install /usr/bin/java java /usr/lib/jvm/java-1.8.0-openjdk-amd64/bin/java 1
+  480  sudo update-alternatives --install /usr/bin/java java /usr/lib/jvm/jdk-17.0.12-oracle-x64/bin
+  481  sudo update-alternatives --install /usr/bin/java java /usr/lib/jvm/jdk-17.0.12-oracle-x64/bin/java 1
+  482  sudo update-alternatives --install /usr/bin/javac javac /usr/lib/jvm/jdk-17.0.12-oracle-x64/bin/javac 1
+  483  javac --version
+  484  java --version
+  485  gedit /etc/environment
+  486  source /etc/environment
+  487  gedit /etc/environment
+  488  source /etc/environment
+  489  echo $JAVA_HOME
+  490  gedit /etc/environment
+  491  source /etc/environment
+  492  echo $PATH
+  493  echo $JAVA_HOME
+  494  jshell
+  495  history
+ls --help : command --help
+ls --help | more
+man <command name> opens the manual file of the command
+which cd
+bc : basic calculator
+ncal: basic calender
+apt install ncal
+ncal 2020 
+ncal JAN 2022
+uptime: checks how long server has been running in linux
+script: records the commands in a typescript named file
+ctrl + d to stop recording
+alias l="ls-altr" : Create a shortcut of a long command in linux
+alias -p: lists files with shortcuts set 
+gzip -k file : creates a copy and keeps the compressed file in the copy of atual file : .gz files are compressed
+gzip -d file : unzips a zipped file
+gunzip: unzips a zipped file
+tar -czf foldername.tar.gz foldername: compress a folder in linux
+compressed directories behave like file
+tar -xzf myfiles.tar.gz : extract and uncompress folder 
+zip myfiles.zip file1 file2 : zip two files file1 and file2 in myfiles.zip
+mv filename absolute path of directory
+unzip -l myfiles.zip
+how to download a file from the internet: wget URL_of_file
+wget -0 opt_file.txt URL_of_file : getting specific file from the  package folder
+curl http://numbersapi.com/random: calling API on linux
+apt list : lists all the installed packages , files and directories
+apt list | grep nginx
+apt list | grep java
+dnf list
+apt search <package_name>
+systemctl start/stop service_name: starting / stopping a service in linux
+systemctl status nginx.service
+systemctl list-units --type=service --all: lists all services
+printenv : list all existing Environment Variables on linux
+export VAR_NAME="path of the file": ADDa new environment variable in Linux
+source ~/.bash_profile : Add environment variable permanently in./bashrc file
+export VARIABLE=VALUE
+awk -F , '{print $2}' file.csv : prints second column from file.csv
+cut -c1-2 file.txt : How to display starting two characters of all line
+sed -n '5p' file.txt : How to display a specific line from a file? (here 5th line is printed) 
+sed -n 's/from/to/g' file.txt : how to replace a specific word within a file?
+tr [:lower:] [:upper:] < file.txt : changing the content from lower case to upper case within file.txt
+tr [:punc:] Z <file.txt 
+tr [:digit:] Z <file.txt
+tr -d <character> < test.txt : deletes the character from the file
+tr "%" "&" < test.txt: replaces % with & in test.txt
+truncate -s 100M file.txt : Extend or shrink size of file
+echo "ABCDE" | fold -wl :print the characters in vertical lines
+su <USER_NAME>: root mode of the user
+exit
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
