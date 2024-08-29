@@ -3,7 +3,7 @@
 echo "___________________________________________________________________"
 echo "\t \t Leap Year"
 echo "___________________________________________________________________"
-echo -e "Enter the number:"
+echo -e "Enter the Year:"
 read year
 if [ `expr $year % 100` -eq 0 ]
 then 
