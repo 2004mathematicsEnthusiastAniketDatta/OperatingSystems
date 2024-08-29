@@ -1,0 +1,64 @@
+//Access Remote Servers
+ssh user@hostname
+scp file user@hostname:/tmp/ : Copying a file to a remote linux server
+rwx -read write execute x for user
+rw- read and write for group permission
+r-- read for other permission
+
+modifying permissions of a file:
+chmod a+rwx file.txt
+u-user , g -group , o - other and a - all
+#Changing ownership of a file:
+chown root file.txt
+
+#changing group ownership of a file
+#chgrp username file.txt
+
+Memory Info and System Monitor:
+free - 	RAM free memory
+top
+htop
+du -h - disk utilization
+df -h - check linux file system disk space used and available
+lsblk - list all block devices in linux
+
+System Info:
+hostname: name of host
+lscpu: checks cpu/core/thread information of your linux server
+arch: type of architecture of GNU/LINUX SERVER
+lsblk : see list of storage devices , disk partitions on your linux server
+uname -a : how to see GNU/Linux Operating System distribution name of GNU/linux server
+cat /etc/os-release: os-release information
+#Process information
+ps -ef | grep java : checking if a process like java : launching of Java Virtual Machine and further execution of java.class byte code file is running or not
+ps -ef | grep httpd 
+ps -ef | grep chron
+pgrep chron : PID of a process
+sudo kill -9 PID : force-stop process with process id
+pkill <name of process> : force-stopping process with name
+jobs: how to see all active jobs : work alloted to terminal
+root@Maths:/home/aniketdatta# sleep 5s
+root@Maths:/home/aniketdatta# sleep 5s
+^Z
+[1]+  Stopped                 sleep 5s
+root@Maths:/home/aniketdatta# jobs
+[1]+  Stopped                 sleep 5s
+root@Maths:/home/aniketdatta# bg
+[1]+ sleep 5s &
+root@Maths:/home/aniketdatta# jobs
+[1]+  Done                    sleep 5s
+
+bg : resume jobs in background
+fg: resume jobs in foreground
+
+#running a script in Background
+nohup ./script >/dev/null : Running a script in background
+
+#networking info:
+ifconfig : IP of machine
+ping www.google.com 
+telnet IP port
+netstat -putan | grep 80 : Check if port is open or not on our server
+
+
+
