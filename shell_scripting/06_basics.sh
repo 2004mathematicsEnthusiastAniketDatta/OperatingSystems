@@ -137,7 +137,7 @@ is_prime() {
             return 1
         fi
     done
-
+#exit status
     return 0
 }
 
@@ -145,7 +145,7 @@ is_prime() {
 echo "Enter a number: "
 read num
 
-# Check if the number is prime
+# Check if the number is prime, if exit status is returnin with 0 then the number is prime, otherwise the number is not prime.
 if is_prime $num; then
     echo "$num is a prime number"
 else
