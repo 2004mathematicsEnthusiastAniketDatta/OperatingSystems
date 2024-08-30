@@ -2,26 +2,28 @@
 echo -e "Enter the range till which prime numbers are to be printed"
 read r
 is_prime() {
-for ((i=0;i<=$1;i++));do
-     if [ i -le 1 ];then
+    if [ $1 -le 1 ]; then 
         return 1
     fi
-    for((j=2;j*j<=i;j++));do
-     if [ (($i % j)) -eq 0 ];then
-         c=0
-    fi
+    # $1 refers to the first command-line argument passed to the function.
+    for ((i=2; i*i<=$1; i++)); do
+        if [ $(( $1 % i )) -eq 0 ]; then
+            return 1
+        fi
     done
-    c=c+1
-done 
+#exit status
+    return 0
 }
 
-echo "Enter the number:"
+echo -e "Enter the range till which prime numbers are to be printed"
 read num
 
-if is_prime $num;then
-    echo "$num is a prime number"
-else
-    echo "$num is not a prime number"
-fi
+for ((j=0;j<=num;j++));do
+    if is_prime j; then
+        echo "$j is a prime number"
+    else 
+        echo "$j is not a prime number"
+    fi
+done
 
 
