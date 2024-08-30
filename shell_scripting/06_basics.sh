@@ -2,7 +2,8 @@
 <<COMMENT 
 the  code checks whether a give number is prime or not, if the given number is prime ,the number should have two factors 1 and the same number .
 2 has two factors 1 and 2, hence 2 is prime , where as 1 has only one factor 1 hence 1 is not prime. Similarly , 3 ,5,7,11,.... are prime numbers.
-Coprime numbers are numbers that are not prime.
+Coprime numbers are numbers that are not prime. Not all numbers that are not prime have to be coprime. For loops and functions at a basic level are being 
+discussed. 
 COMMENT
 # Function to check if a number is prime
 is_prime() {
