@@ -1,6 +1,11 @@
 #!/bin/bash
-
-
+<<COMMENT
+while [ condition ]
+do
+//code
+done
+//code
+COMMENT
 echo "____________________________________________________________________"
 echo -e "\t \t Factorial of a number"
 echo "____________________________________________________________________"
