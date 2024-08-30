@@ -7,6 +7,21 @@ for ((i=0;i<=$1;i++));do
         return 1
     fi
     for((j=2;j*j<=i;j++));do
-     if [ (($)) ] 
-
+     if [ (($i % j)) -eq 0 ];then
+         c=0
+    fi
+    done
+    c=c+1
+done 
 }
+
+echo "Enter the number:"
+read num
+
+if is_prime $num;then
+    echo "$num is a prime number"
+else
+    echo "$num is not a prime number"
+fi
+
+
