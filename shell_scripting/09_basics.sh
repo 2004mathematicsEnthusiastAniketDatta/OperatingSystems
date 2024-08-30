@@ -1,6 +1,8 @@
 #!/bin/bash
+
 echo -e "Enter the range till which prime numbers are to be printed"
 read r
+
 is_prime() {
     if [ $1 -le 1 ]; then 
         return 1
@@ -11,15 +13,13 @@ is_prime() {
             return 1
         fi
     done
-#exit status
+    # exit status
     return 0
 }
 
-echo -e "Enter the range till which prime numbers are to be printed"
-read num
-
-for ((j=0;j<=num;j++));do
-    if is_prime j; then
+# No need to prompt for input again
+for ((j=0;j<=r;j++));do
+    if is_prime $j; then
         echo "$j is a prime number"
     else 
         echo "$j is not a prime number"
