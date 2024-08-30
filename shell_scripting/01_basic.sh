@@ -1,4 +1,5 @@
 #!/bin/bash
+#shebang: a specific directive for bash interpreter
 <<COMMENT
 1. #!/bin/bash
 
