@@ -12,6 +12,14 @@ The evaluator requires a stack-based approach to execute the Abstract Syntax Tre
 Bash has a vast array of built in commands which are implemented in C for performance reasons.
 External commands which are associated to the files in bin directory of root directory are executed with fork and exec system calls
 General Program illustrated below helps us to understand a basic structure of Shell script 
+
+if [ condition ];then
+    //code
+elif[ `#expr  ` ];then
+    //code
+else 
+    //code
+fi
 COMMENT
 
 # script to show how to use variables: 

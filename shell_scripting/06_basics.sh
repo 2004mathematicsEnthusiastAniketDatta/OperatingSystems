@@ -98,19 +98,19 @@ This prints a prompt to the user, asking them to enter a number.
 
 This reads a line of input from the user and stores it in the variable num.
 
-15. if is_prime $num; then
+15. if is_prime $#num; then
 
 This line calls the is_prime function with the input number as an argument, and checks the exit status of the function using an if statement.
 
 
-    is_prime $num calls the function with the input number as an argument.
+    is_prime $#num calls the function with the input number as an argument.
 
     if checks the exit status of the function (0 or 1).
 
 
 If the exit status is 0 (indicating that the number is prime), the code inside the if statement will execute.
 
-16. echo "$num is a prime number"
+16. echo "$#num is a prime number"
 
 This prints a message to the user indicating that the input number is prime.
 
@@ -118,7 +118,7 @@ This prints a message to the user indicating that the input number is prime.
 
 This specifies an alternative action to take if the exit status of the is_prime function is 1 (indicating that the number is not prime).
 
-18. echo "$num is not a prime number"
+18. echo "$#num is not a prime number"
 
 This prints a message to the user indicating that the input number is not prime.
 
