@@ -10,8 +10,8 @@ read -p "Nationality: " country
 read -p "Origin:" origin
 Country=${country^^}
 Origin=${origin^^}
-echo "${Country}"
-echo "${Origin}"
+# echo "${Country}"
+# echo "${Origin}"
 if [[ $age -ge 18 ]] && [[ Country=="INDIA" ]]
 then
      echo "Eligible to vote."
