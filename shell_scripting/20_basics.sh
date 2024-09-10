@@ -16,14 +16,18 @@ case $choice in
            ls
            ;;
     2)
+           echo "Current Date and time:"
+           date
+           ;;
+    3)
            echo "Showing current date and time"
            ncal
            ;;
-    3)
+    4)
            echo "User's list"
            w -h
            ;;
-    4)     
+    5)     
            echo "Exiting..."
            exit
            ;;
