@@ -18,6 +18,7 @@ case $choice in
     2)
            echo "Current Date and time:"
            date
+           time
            ;;
     3)
            echo "Showing current date and time"
