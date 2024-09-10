@@ -2,7 +2,7 @@
 
 <<COMMENT
 bash shell : echo $0 in  bash terminal 
-Bash is a single-pass interpreter , which means this read one comment at a time, and runs this then and there. The same thing is true with other types of shells - sh, ksh,zsh ,csh,etc.
+Bash is a single-pass interpreter , which means this read one command at a time, and runs this then and there. The same thing is true with other types of shells - sh, ksh,zsh ,csh,etc.
 The bash interpreter consists of Lexer ,Parser ,Evaluator ,set of Internal and external commands. Lexer breaks the individual script into tokens,
 parser analyzes the tokens to create an Abstract Syntax Tree. Evaluator executes the AST , performing actions and evaluating expressions.
 bash.c : the main entry point , responsible for initializing the interpreter and executing the script.parse.y: the parser generator file , used to create parser code , 
