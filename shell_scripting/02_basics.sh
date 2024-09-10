@@ -1,7 +1,7 @@
 #!/bin/bash
 # variables 
 echo "__________________________________________________________________"
-echo  " \t\t Parity of a Number"
+echo  -e " \t\t Parity of a Number"
 echo "__________________________________________________________________"
 echo -e "Enter the number:"
 read n

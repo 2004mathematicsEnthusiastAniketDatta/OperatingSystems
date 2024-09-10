@@ -1,7 +1,7 @@
 #!/bin/bash
 #Variables are containers that store data during preprocessing , they are associated to a memory address and memory reference 
 echo "___________________________________________________________________"
-echo "\t \t Leap Year"
+echo -e "\t \t Leap Year"
 echo "___________________________________________________________________"
 echo -e "Enter the Year:"
 read year
