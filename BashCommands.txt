@@ -3792,6 +3792,9 @@ ps -> checking active processes in terminal
 man -> manual command
 name="shell programming";
 echo $name; -> prints the string stored within name
+wc -l: shows the number of lines in a file
+wc -w: shows the number of words in a file
+wc-m: shows the number of character im a file
 
 
 
