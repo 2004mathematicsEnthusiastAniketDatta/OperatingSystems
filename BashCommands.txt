@@ -266,6 +266,12 @@ mkdir files
 ls
 cd files
 cat > file1.txt
+
+cat main.js index.js > index.js -> wrong
+cat: index.js: input file is output file
+
+cat main.js index.js > javascriptfile.js -> write
+
 sort file1.txt
 split -l 1 file$.txt
 split -l 1 file1.txt
