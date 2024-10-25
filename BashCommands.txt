@@ -238,6 +238,8 @@ pwd
 whoami
 #date
 timedatectl set-timezone <Asia/Kolkata>
+timedatectl set-ntp true
+timedatectl set-local-rtc true
 date
 date +%D
 date +%T
