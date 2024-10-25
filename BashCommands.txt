@@ -834,7 +834,517 @@ truncate -s 100M file.txt : Extend or shrink size of file
 echo "ABCDE" | fold -wl :print the characters in vertical lines
 su <USER_NAME>: root mode of the user
 exit
+./primes.sh 
+nano primes.sh
+./primes.sh 
+nano primes.sh
+chmod +x primes.sh
+./primes.sh 
+nano primes.sh
+chmod +x primes.sh
+./primes.sh 
+chmod +x primes.sh
+nano primes.sh
+chmod +x primes.sh
+nano primes.sh
+./primes.sh 
+4
+./primes.sh 
+nano primes.sh
+chmod +x primes.sh
+./primes.sh 
+nano primes.sh
+./primes.sh 
+nano primes.sh
+chmod +x primes.sh
+./primes.sh 
+nano primes.sh
+chmod +x primes.sh
+./primes.sh 
+nano primes.sh
+chmod +x primes.sh
+./primes.sh 
+nano primes.sh
+./primes.sh 
+nano primes.sh
+chmod +x primes.sh
+./primes.sh 
+nano primes.sh
+chmod +x primes.sh
+./primes.sh 
+nano primes.sh
+chmod +x primes.sh
+./primes.sh 
+nano primes.sh
+./primes.sh 
+nano primes.sh
+./primes.sh 
+nano primes.sh
+chmod +x primes.sh
+./primes.sh 
+nano primes.sh
+chmod +x primes.sh
+./primes.sh 
+nano primes.sh
+chmod +x primes.sh
+./primes.sh 
+nano primes.sh
+./primes.sh 
+nano primes.sh
+./primes.sh 
+nano primes.sh
+./primes.sh 
+nano primes.sh
+chmod +x primes.sh
+./primes.sh 
+nano primes.sh
+./primes.sh 
+nano primes.sh
+./primes.sh 
+nano primes.sh
+chmod +x primes.sh
+./primes.sh 
+nano primes.sh
+chmod +x primes.sh
+./primes.sh 
+nano primes.sh
+./primes.sh 
+nano primes.sh
+./primes.sh 
+nano primes.sh
+chmod +x primes.sh
+./primes.sh 
+nano primes.sh
+chmod +x primes.sh
+./primes.sh 
+nano primes.sh
+chmod +x primes.sh
+./primes.sh 
+nano primes.sh
+nano basicSalary.sh
+chmod +x basicSalary.sh
+./basicSalary.sh 
+nano basicSalary.sh
+./basicSalary.sh 
+nano basicSalary.sh
+./basicSalary.sh 
+w -h
+jupyter notebook
+cd JAVA/
+cd Fundamentals/
+java stackAbstactclass.java
+javac stackAbstactclass.java
+java stackAbstactclass.java
+nodejs --version
+code
+tsc --version
+clear
+npm i typescipt -g
+cleatr
+clear
+su
+intellij-idea-community
+echo $PATH
+echo $JAVA_HOME 
+kill
+htop
+rm /home/aniketdatta/.var/app/com.jetbrains.IntelliJ-IDEA-Community/config/JetBrains/IdeaIC2024.2/.lock
+systemctl restart
+systemctl shutdown
+systemctl [pwerppf
+systemctl poweroff
+jdk
+jdk --version
+java --version
+echo $JAVA_HOME
+tsc
+tsc --watch
+ls
+htop
+ls
+rm /home/aniketdatta/.var/app/com.jetbrains.IntelliJ-IDEA-Community/config/JetBrains/IdeaIC2024.2/.lock
+systemctl reboot
+cd JAVA
+cd IdeaProjects/JAVA
+cd out/production/JAVA
+./classes.class
+chmod +x classes.class
+./classes.class
+tsc --watch
+whoami
+tsc --watch
+git add .
+git commit -m "push changes"
+git push
+git add .
+git commit -m "okay"
+git push
+clear
 
+tsc
+node .
+tsc --v
+tsc
+npm run build
+tsc main.ts
+clear
+npm i @types/node -D
+npm i inquirer
+npm i --save-dev @types/inquirer
+
+npm install ts-node -D
+tsc
+npm run start
+tsc
+ts-node
+tsc
+ts-node --v
+
+npm install ts-node -D
+npm fund
+npm install ts-node
+ts-node
+npm i ts-node
+npm install -g typescript
+npm install -g ts-node
+npm install -D tslib @types/node
+ts-node
+ts-node script.ts
+sudo apt update
+su
+java
+java --v
+java -v
+java -version
+java --v
+java --version
+java --v
+java
+su
+chmod +x index.html
+chmod +X index.html
+git add .
+git commit -m "hello_world"
+git push
+clear
+git@github.com:2004mathematicsEnthusiastAniketDatta/Frontend_Web.git
+git clone https://github.com/2004mathematicsEnthusiastAniketDatta/Frontend_Web.git
+su
+https://github.com/codinganiketdatta/WebDevelopment.git
+git clone https://github.com/codinganiketdatta/WebDevelopment.git
+git@github.com:codinganiketdatta/WebDevelopment.git
+gh repo clone codinganiketdatta/WebDevelopment
+git add .
+clear
+npm
+cd /Desktop/WebDevelopment/BASICS_QUICKREV/
+cd Desktop
+ls
+cd WebDevelopment/
+ls
+git clone https://github.com/codinganiketdatta/WebDevelopment.git
+clear
+npm create vite@latest
+cd
+ls
+cd Desktop/
+ls
+cd WebDevelopment/
+ls
+cd BASICS_QUICKREV/
+ls
+cd Frontend_Web-main/
+ls
+cd ReactJs/
+ls
+cd ReactjsApp/
+npm create vite@latest
+npm run dev
+npm install npm@latest -g
+node -v
+npm -v
+sudo
+su
+apt install node
+npm
+node
+bash
+cd BASICS_QUICKREV/Frontend_Web-main/
+cd ReactJs/
+ccd ReactjsApp
+cd ReactjsApp
+npm create vite@latest
+npm
+npm i
+clear
+npm
+su
+sudo su
+su
+npm
+apt install npm
+npm init
+npm init
+npm init
+npm install -D parcel
+npm install react
+tsc --watch
+cd Desktop/WebDevelopment/BASICS_QUICKREV/Frontend_Web-main/ReactJs/ReactjsApp/FirstApp/
+npm run dev
+npx vite build index.html
+vite build
+vite
+npm vite build
+npm create vite@latest
+npm install -D vite
+vite build
+npx vite build --mode=production
+npm run dev
+cd..
+cd ..
+ls
+cd TypeScript/
+tsc --watch
+git dd .
+git add .
+git commit -m "push"
+tsc --watch
+cd Desktop/WebDevelopment/BASICS_QUICKREV/Frontend_Web-main/TypeScript/TYPESCRIPT_DOMMANIPULATION/
+tsc
+tsc --watch
+node -v
+tsc --watch
+node 01_Basics.js
+cd ..
+cd TYPESCRIPTFUNDAMENTAL/
+tsc --watch
+node main.js
+cd..
+cd ..
+ls
+cd css
+ls
+cd css_animations/
+cd AnimationsInteractions/
+tsc
+cd ..
+cd HTMLCSSJS\ BASICS/Javascript/GSAP
+tsc
+tsc --watch
+cd Desktop/WebDevelopment/BASICS_QUICKREV/Frontend_Web-main/HTMLCSSJS\ BASICS/Javascript/
+tsc
+tsc --watch
+cd Desktop/WebDevelopment/BASICS_QUICKREV/Frontend_Web-main/Applications/Project
+npm install sheryjs
+git --version
+cd Desktop/WebDevelopment/BASICS_QUICKREV/Git_AND_Github/
+git --version
+git config --global user.name
+git config --global user.name 'codinganiketdatta'
+git config --global user.name
+git config --global user.email '2004linuxsudoaniketdatta@gmail.com'
+git init
+clear
+git config --global init.defaultBranch main
+mkdir understanding-git
+touch hello.js
+git status
+git add readme.md
+git add understanding-git/
+cd understanding-git/
+git status
+git add hello.js
+git add .
+commit -m 'Add all files.'
+git status
+cd ..
+git add .
+cd understanding-git/
+git status
+git push
+
+git log
+cd ..
+git log
+git logs
+git log
+git status
+git log main
+git log 
+git config --global init.defaultBranch master
+git add .
+git commit -m 'commits'
+git log
+git push commit 75a072f1f412b86e3d12406015bd6b13ce7e50bd
+git push commit master
+git push 
+git status
+git add.
+git add .
+git status
+git commit -m "change"
+git config --list
+cd understanding-git/
+git init
+ls -la
+git add .
+git commit -m "commit"
+git log
+git log --oneline
+git config --global core.editor "code --wait"
+git config --list
+cd Desktop/WebDevelopment/BASICS_QUICKREV/Git_AND_Github/understanding-git/
+git add .
+git status
+git og
+git log
+git push
+git log
+git add .
+git commit -m "git"
+git status
+git push "https://github.com/codinganiketdatta/BASICS_QUICKREV.git"
+git push "git@github.com/codinganiketdatta/BASICS_QUICKREV.git"
+git show -s --pretty=raw <commit-hash>
+git log
+git show -s --pretty=raw 8a6632a1f1dea95527ffc28412fde8b20936b455
+ls-tree
+ls -tree
+trer
+tree
+git ls-tree e152c4c52532fda392dece4c503567d30a9ae059
+git show e69de29bb2d1d6434b8b29ae775ad8c2e48c5391
+git cat-file -p 8a6632a1f1dea95527ffc28412fde8b20936b455
+sha1=$(git hash-object -w hello.js)
+sha
+sha1
+$sha1
+git update-index --add --cacheinfor 100644 $sha1 hello.js
+cd Desktop/WebDevelopment/BASICS_QUICKREV/Git_AND_Github/understanding-git/
+git branch
+git switch master
+git merge bug-fix
+git switch bug-fix
+git add .
+git commit -m "contact added"
+git commit -m "otherwise explained"
+git add .
+git commit -m "otherwise explained"
+git checkout master
+git merge bug-fix
+git branch
+git diff master bug-fix
+git diff
+git diff master..bug-fix
+su
+git diff
+zsh
+warp
+su
+warp
+node
+cd Desktop/WebDevelopment/BASICS_QUICKREV/Git_AND_Github/understanding-git/
+git stash save "work in progress"
+git branch
+git stash list
+git tag "wow"
+git tag --list
+ssh-keygen -t ed25519 -C "2004linuxsudoaniketdatta@gmail.com"
+git init
+git add <files>
+git commit -m "commit"
+git remote -v
+git remote add origin https://github.com/codinganiketdatta/BASICS_QUICKREV.git
+git push origin master
+git push origin main
+cd Desktop/WebDevelopment/BASICS_QUICKREV/Git_AND_Github/understanding-git/
+git branch
+git switch bug-fix
+git branch
+git add .
+git status
+git commit -m "okay"
+git checkout master
+git merge  bug-fix 
+git log --oneline
+git checkout bug-fix 
+git commit -m "commit"
+git add .
+git commit -m "commit"
+git checkout bug-fix 
+git rebase
+git branch
+git checkout master
+git reflog
+git commit -m ""
+git commit -m "okay"
+git branch -M main
+git branch
+git remote -v
+git push -u origin main
+git remote -v
+cd Desktop/WebDevelopment/BASICS_QUICKREV/Git_AND_Github/understanding-git/
+git remote -v
+git push origin main
+git config --list
+cd Desktop/WebDevelopment/BASICS_QUICKREV/Git_AND_Github/understanding-git/
+git remote add origin git@github.com:codinganiketdatta/git_github.git
+git remote -v
+git remote -d
+git remote add origin2 git@github.com:codinganiketdatta/git_github.git
+git remote -v
+git push -u origin2 main
+tsc
+node main.ts
+node main.js
+clear
+cd Desktop/WebDevelopment/BASICS_QUICKREV/Frontend_Web-main/TypeScript/TYPESCRIPTFUNDAMENTAL/
+tsc --watch
+clear
+exit
+rm /home/aniketdatta/.var/app/com.jetbrains.IntelliJ-IDEA-Community/config/JetBrains/IdeaIC2024.2/.lock
+git init
+git add .
+git commit -m "AddedCommits"
+
+TYPESCRIPTFUNDAMENTAL/
+cd Desktop/WebDevelopment/BASICS_QUICKREV/Frontend_Web-main/TypeScript/TYPESCRIPTFUNDAMENTAL/
+tsc --watch
+java DateDisplayerThread.java
+javac DateDisplayerThread.java
+javac DateDisplayerThread
+javac DateDisplayerThread.java
+cd Fundamentals/
+javac DateDisplayerThread.java
+java DateDisplayerThread.java
+javac DateDisplayerRunnable.java
+java DateDisplayerRunnable.java
+javac  multiplethreads.java
+java multiplethreads.java
+cd Desktop/WebDevelopment/BASICS_QUICKREV/Frontend_Web-main/TypeScript/TYPESCRIPTFUNDAMENTAL/
+tsc --watch
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p
+node main.js
+cd ..
+cd ReactJs/
+mkdir NewReactApp
+cd NewReactApp/
+npm create vite@latest
+cd todoapp
+npm i
+npm run dev
+cd ..
+cd Frontend_Web-main/TypeScript/TYPESCRIPT_DOMMANIPULATION/
+tsc --watch
+cd Desktop/WebDevelopment/BASICS_QUICKREV/Frontend_Web-main/ReactJs/NewReactApp/todoapp
+npm run dev
+cd Frontend_Web-main/TypeScript/TYPESCRIPT_DOMMANIPULATION/
+/Frontend_Web-main/TypeScript/TYPESCRIPT_DOMMANIPULATION/
+cd Desktop/WebDevelopment/BASICS_QUICKREV/
+/Frontend_Web-main/TypeScript/TYPESCRIPT_DOMMANIPULATION/
+cd Frontend_Web-main/TypeScript/TYPESCRIPT_DOMMANIPULATION/
+tsc --watch
 
 
 
