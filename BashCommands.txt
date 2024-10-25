@@ -3795,6 +3795,11 @@ echo $name; -> prints the string stored within name
 wc -l: shows the number of lines in a file
 wc -w: shows the number of words in a file
 wc-m: shows the number of character im a file
+ls -ll
+
+field permissions  number of links owner owner Group Size last modified dat and time file name
+-rw-r--r--                1              root   root  413         Oct 25 22:23        a.cache
+
 
 
 
