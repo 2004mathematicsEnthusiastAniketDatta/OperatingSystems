@@ -1,3 +1,4 @@
+tty - teletype
 ls -l
 echo "hello world"
 exit
