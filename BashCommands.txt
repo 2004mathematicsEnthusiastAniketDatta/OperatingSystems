@@ -237,6 +237,7 @@ chmod +x leapyear.sh
 pwd
 whoami
 #date
+timedatectl set-timezone <Asia/Kolkata>
 date
 date +%D
 date +%T
