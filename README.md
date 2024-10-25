@@ -104,6 +104,19 @@ OF CPU MULTIPLEXING among different PROGRAMS<br/>
 
 Program ~ Task <br/>
 
+GNU/Linux operting System:
+
+GNU/Linux is a free and open source operating System and is Gnu is not Unix which means the GNU/linux Operating system is a clone version of the UNIX operating system. This is open-source as the source code is freely available.This is free to use <br/>
+Kernel->Hardware, shell is the superset of kernel, Applications , Compilers, a.out, date,grep,cd , vi, applications are on top of the shell.<br/>
+
+The architecture of linux system consists of : <br/>
+Hardware Layer: Hardware Layer consists of all peripheral devices(RAM/HDD/CPU etc). <br/>
+Kernel: Core component of Operating System, interacting directly with hardware and provides low-level services to upper layer components.Kernel is responsible for all major activities of the operating system and contains various modules and interacts directly with the underlying hardware.<br/>
+Shell: An interface to kernel ,hiding complexity of kernel's function from users. The shell takes commands from the user and executes the kernel's functions.<br/>
+System Libraries: System libraries are special functions or programs with which application programs or system utilities access kernel's features. This libraries implement most of the functionalities of the operating system and do not require kernel modules' access rights.<br/>
+System utilities: Utility programs that provide the user most of the functionalities of the operating system. System utility programs are specialised , individual level tasks.<br/>
+
+
 
 
 
