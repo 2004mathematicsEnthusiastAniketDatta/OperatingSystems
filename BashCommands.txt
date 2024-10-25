@@ -279,6 +279,2433 @@ ls
 cat xaa
 cat xab
 cat xac
+
+
+./nextjs-app/node_modules/@nolyfill:
+is-core-module
+
+./nextjs-app/node_modules/@nolyfill/is-core-module:
+index.d.ts  index.js  LICENSE  package.json
+
+./nextjs-app/node_modules/normalize-path:
+index.js  LICENSE  package.json  README.md
+
+./nextjs-app/node_modules/object-assign:
+index.js  license  package.json  readme.md
+
+./nextjs-app/node_modules/object.assign:
+auto.js  CHANGELOG.md  dist  hasSymbols.js  implementation.js  index.js  LICENSE  package.json	polyfill.js  README.md	shim.js  test
+
+./nextjs-app/node_modules/object.assign/dist:
+browser.js
+
+./nextjs-app/node_modules/object.assign/test:
+implementation.js  index.js  native.js	ses-compat.js  shimmed.js  tests.js
+
+./nextjs-app/node_modules/object.entries:
+auto.js  CHANGELOG.md  implementation.js  index.js  LICENSE  package.json  polyfill.js	README.md  shim.js  test
+
+./nextjs-app/node_modules/object.entries/test:
+implementation.js  index.js  native.js	shimmed.js  tests.js
+
+./nextjs-app/node_modules/object.fromentries:
+auto.js  CHANGELOG.md  implementation.js  index.js  LICENSE  package.json  polyfill.js	README.md  shim.js  test
+
+./nextjs-app/node_modules/object.fromentries/test:
+implementation.js  index.js  shimmed.js  tests.js
+
+./nextjs-app/node_modules/object.groupby:
+auto.js  CHANGELOG.md  implementation.js  index.js  LICENSE  package.json  polyfill.js	README.md  shim.js  test
+
+./nextjs-app/node_modules/object.groupby/test:
+implementation.js  index.js  shimmed.js  tests.js
+
+./nextjs-app/node_modules/object-hash:
+dist  index.js	LICENSE  package.json  readme.markdown
+
+./nextjs-app/node_modules/object-hash/dist:
+object_hash.js
+
+./nextjs-app/node_modules/object-inspect:
+CHANGELOG.md  example  index.js  LICENSE  package.json	package-support.json  readme.markdown  test  test-core-js.js  util.inspect.js
+
+./nextjs-app/node_modules/object-inspect/example:
+all.js	circular.js  fn.js  inspect.js
+
+./nextjs-app/node_modules/object-inspect/test:
+bigint.js  circular.js	element.js  fakes.js  global.js  holes.js	   inspect.js  number.js      toStringTag.js  values.js
+browser    deep.js	err.js	    fn.js     has.js	 indent-option.js  lowbyte.js  quoteStyle.js  undef.js
+
+./nextjs-app/node_modules/object-inspect/test/browser:
+dom.js
+
+./nextjs-app/node_modules/object-keys:
+CHANGELOG.md  implementation.js  index.js  isArguments.js  LICENSE  package.json  README.md  test
+
+./nextjs-app/node_modules/object-keys/test:
+index.js
+
+./nextjs-app/node_modules/object.values:
+auto.js  CHANGELOG.md  implementation.js  index.js  LICENSE  package.json  polyfill.js	README.md  shim.js  test
+
+./nextjs-app/node_modules/object.values/test:
+implementation.js  index.js  shimmed.js  tests.js
+
+./nextjs-app/node_modules/once:
+LICENSE  once.js  package.json	README.md
+
+./nextjs-app/node_modules/optionator:
+CHANGELOG.md  lib  LICENSE  package.json  README.md
+
+./nextjs-app/node_modules/optionator/lib:
+help.js  index.js  util.js
+
+./nextjs-app/node_modules/package-json-from-dist:
+dist  LICENSE.md  package.json	README.md
+
+./nextjs-app/node_modules/package-json-from-dist/dist:
+commonjs  esm
+
+./nextjs-app/node_modules/package-json-from-dist/dist/commonjs:
+index.d.ts  index.d.ts.map  index.js  index.js.map  package.json
+
+./nextjs-app/node_modules/package-json-from-dist/dist/esm:
+index.d.ts  index.d.ts.map  index.js  index.js.map  package.json
+
+./nextjs-app/node_modules/parent-module:
+index.js  license  package.json  readme.md
+
+./nextjs-app/node_modules/path-exists:
+index.d.ts  index.js  license  package.json  readme.md
+
+./nextjs-app/node_modules/path-is-absolute:
+index.js  license  package.json  readme.md
+
+./nextjs-app/node_modules/path-key:
+index.d.ts  index.js  license  package.json  readme.md
+
+./nextjs-app/node_modules/path-parse:
+index.js  LICENSE  package.json  README.md
+
+./nextjs-app/node_modules/path-scurry:
+dist  LICENSE.md  package.json	README.md
+
+./nextjs-app/node_modules/path-scurry/dist:
+commonjs  esm
+
+./nextjs-app/node_modules/path-scurry/dist/commonjs:
+index.d.ts  index.d.ts.map  index.js  index.js.map  package.json
+
+./nextjs-app/node_modules/path-scurry/dist/esm:
+index.d.ts  index.d.ts.map  index.js  index.js.map  package.json
+
+./nextjs-app/node_modules/picocolors:
+LICENSE  package.json  picocolors.browser.js  picocolors.d.ts  picocolors.js  README.md  types.d.ts
+
+./nextjs-app/node_modules/picomatch:
+CHANGELOG.md  index.js	lib  LICENSE  package.json  README.md
+
+./nextjs-app/node_modules/picomatch/lib:
+constants.js  parse.js	picomatch.js  scan.js  utils.js
+
+./nextjs-app/node_modules/pify:
+index.js  license  package.json  readme.md
+
+./nextjs-app/node_modules/pirates:
+index.d.ts  lib  LICENSE  package.json	README.md
+
+./nextjs-app/node_modules/pirates/lib:
+index.js
+
+./nextjs-app/node_modules/@pkgjs:
+parseargs
+
+./nextjs-app/node_modules/@pkgjs/parseargs:
+CHANGELOG.md  examples	index.js  internal  LICENSE  package.json  README.md  utils.js
+
+./nextjs-app/node_modules/@pkgjs/parseargs/examples:
+is-default-value.js  limit-long-syntax.js  negate.js  no-repeated-options.js  ordered-options.mjs  simple-hard-coded.js
+
+./nextjs-app/node_modules/@pkgjs/parseargs/internal:
+errors.js  primordials.js  util.js  validators.js
+
+./nextjs-app/node_modules/p-limit:
+index.d.ts  index.js  license  package.json  readme.md
+
+./nextjs-app/node_modules/p-locate:
+index.d.ts  index.js  license  package.json  readme.md
+
+./nextjs-app/node_modules/possible-typed-array-names:
+CHANGELOG.md  index.d.ts  index.js  LICENSE  package.json  README.md  test  tsconfig.json
+
+./nextjs-app/node_modules/possible-typed-array-names/test:
+index.js
+
+./nextjs-app/node_modules/postcss:
+lib  LICENSE  package.json  README.md
+
+./nextjs-app/node_modules/postcss/lib:
+at-rule.d.ts	container.js	       document.d.ts  input.js		map-generator.js     parse.d.ts     postcss.js	       processor.js  rule.d.ts	       stringify.js	      warning.js
+at-rule.js	css-syntax-error.d.ts  document.js    lazy-result.d.ts	node.d.ts	     parse.js	    postcss.mjs        result.d.ts   rule.js	       symbols.js	      warn-once.js
+comment.d.ts	css-syntax-error.js    fromJSON.d.ts  lazy-result.js	node.js		     parser.js	    previous-map.d.ts  result.js     stringifier.d.ts  terminal-highlight.js
+comment.js	declaration.d.ts       fromJSON.js    list.d.ts		no-work-result.d.ts  postcss.d.mts  previous-map.js    root.d.ts     stringifier.js    tokenize.js
+container.d.ts	declaration.js	       input.d.ts     list.js		no-work-result.js    postcss.d.ts   processor.d.ts     root.js	     stringify.d.ts    warning.d.ts
+
+./nextjs-app/node_modules/postcss-import:
+index.js  lib  LICENSE	package.json  README.md
+
+./nextjs-app/node_modules/postcss-import/lib:
+assign-layer-names.js  data-url.js  join-layer.js  join-media.js  load-content.js  parse-statements.js	process-content.js  resolve-id.js
+
+./nextjs-app/node_modules/postcss-js:
+async.js  index.js  index.mjs  LICENSE	objectifier.js	package.json  parser.js  process-result.js  README.md  sync.js
+
+./nextjs-app/node_modules/postcss-load-config:
+LICENSE  node_modules  package.json  README.md	src
+
+./nextjs-app/node_modules/postcss-load-config/node_modules:
+lilconfig
+
+./nextjs-app/node_modules/postcss-load-config/node_modules/lilconfig:
+LICENSE  package.json  readme.md  src
+
+./nextjs-app/node_modules/postcss-load-config/node_modules/lilconfig/src:
+index.d.ts  index.js
+
+./nextjs-app/node_modules/postcss-load-config/src:
+index.d.ts  index.js  options.js  plugins.js  req.js
+
+./nextjs-app/node_modules/postcss-nested:
+index.d.ts  index.js  LICENSE  package.json  README.md
+
+./nextjs-app/node_modules/postcss-selector-parser:
+API.md	CHANGELOG.md  dist  LICENSE-MIT  package.json  postcss-selector-parser.d.ts  README.md
+
+./nextjs-app/node_modules/postcss-selector-parser/dist:
+index.js  parser.js  processor.js  selectors  sortAscending.js	tokenize.js  tokenTypes.js  util
+
+./nextjs-app/node_modules/postcss-selector-parser/dist/selectors:
+attribute.js  combinator.js  constructors.js  guards.js  index.js      nesting.js  pseudo.js  selector.js  tag.js    universal.js
+className.js  comment.js     container.js     id.js	 namespace.js  node.js	   root.js    string.js    types.js
+
+./nextjs-app/node_modules/postcss-selector-parser/dist/util:
+ensureObject.js  getProp.js  index.js  stripComments.js  unesc.js
+
+./nextjs-app/node_modules/postcss-value-parser:
+lib  LICENSE  package.json  README.md
+
+./nextjs-app/node_modules/postcss-value-parser/lib:
+index.d.ts  index.js  parse.js	stringify.js  unit.js  walk.js
+
+./nextjs-app/node_modules/prelude-ls:
+CHANGELOG.md  lib  LICENSE  package.json  README.md
+
+./nextjs-app/node_modules/prelude-ls/lib:
+Func.js  index.js  List.js  Num.js  Obj.js  Str.js
+
+./nextjs-app/node_modules/prop-types:
+checkPropTypes.js  factory.js  factoryWithThrowingShims.js  factoryWithTypeCheckers.js	index.js  lib  LICENSE	package.json  prop-types.js  prop-types.min.js	README.md
+
+./nextjs-app/node_modules/prop-types/lib:
+has.js	ReactPropTypesSecret.js
+
+./nextjs-app/node_modules/punycode:
+LICENSE-MIT.txt  package.json  punycode.es6.js	punycode.js  README.md
+
+./nextjs-app/node_modules/queue-microtask:
+index.d.ts  index.js  LICENSE  package.json  README.md
+
+./nextjs-app/node_modules/react:
+cjs  compiler-runtime.js  index.js  jsx-dev-runtime.js	jsx-dev-runtime.react-server.js  jsx-runtime.js  jsx-runtime.react-server.js  LICENSE  package.json  react.react-server.js  README.md
+
+./nextjs-app/node_modules/react/cjs:
+react-compiler-runtime.development.js  react-jsx-dev-runtime.production.js		  react-jsx-runtime.production.js		 react.react-server.development.js
+react-compiler-runtime.production.js   react-jsx-dev-runtime.profiling.js		  react-jsx-runtime.profiling.js		 react.react-server.production.js
+react-compiler-runtime.profiling.js    react-jsx-dev-runtime.react-server.development.js  react-jsx-runtime.react-server.development.js
+react.development.js		       react-jsx-dev-runtime.react-server.production.js   react-jsx-runtime.react-server.production.js
+react-jsx-dev-runtime.development.js   react-jsx-runtime.development.js			  react.production.js
+
+./nextjs-app/node_modules/react-dom:
+cjs			index.js      profiling.js		 README.md	    server.edge.js  server.react-server.js  static.js		    test-utils.js
+client.js		LICENSE       profiling.react-server.js  server.browser.js  server.js	    static.browser.js	    static.node.js
+client.react-server.js	package.json  react-dom.react-server.js  server.bun.js	    server.node.js  static.edge.js	    static.react-server.js
+
+./nextjs-app/node_modules/react-dom/cjs:
+react-dom-client.development.js     react-dom-profiling.profiling.js	     react-dom-server.bun.development.js	     react-dom-server-legacy.browser.production.js  react-dom-test-utils.development.js
+react-dom-client.production.js	    react-dom.react-server.development.js    react-dom-server.bun.production.js		     react-dom-server-legacy.node.development.js    react-dom-test-utils.production.js
+react-dom.development.js	    react-dom.react-server.production.js     react-dom-server.edge.development.js	     react-dom-server-legacy.node.production.js
+react-dom.production.js		    react-dom-server.browser.development.js  react-dom-server.edge.production.js	     react-dom-server.node.development.js
+react-dom-profiling.development.js  react-dom-server.browser.production.js   react-dom-server-legacy.browser.development.js  react-dom-server.node.production.js
+
+./nextjs-app/node_modules/react-is:
+build-info.json  cjs  index.js	LICENSE  package.json  README.md  umd
+
+./nextjs-app/node_modules/react-is/cjs:
+react-is.development.js  react-is.production.min.js
+
+./nextjs-app/node_modules/react-is/umd:
+react-is.development.js  react-is.production.min.js
+
+./nextjs-app/node_modules/read-cache:
+index.js  LICENSE  package.json  README.md
+
+./nextjs-app/node_modules/readdirp:
+index.d.ts  index.js  LICENSE  package.json  README.md
+
+./nextjs-app/node_modules/reflect.getprototypeof:
+auto.js  CHANGELOG.md  implementation.js  index.js  LICENSE  package.json  polyfill.js	README.md  shim.js  test
+
+./nextjs-app/node_modules/reflect.getprototypeof/test:
+implementation.js  index.js  index.mjs	shimmed.js  tests.js
+
+./nextjs-app/node_modules/regexp.prototype.flags:
+auto.js  CHANGELOG.md  implementation.js  index.js  LICENSE  package.json  polyfill.js	README.md  shim.js  test
+
+./nextjs-app/node_modules/regexp.prototype.flags/test:
+builtin.js  implementation.js  index.js  shimmed.js  tests.js
+
+./nextjs-app/node_modules/resolve:
+async.js  bin  example	index.js  lib  LICENSE	package.json  readme.markdown  SECURITY.md  sync.js  test
+
+./nextjs-app/node_modules/resolve/bin:
+resolve
+
+./nextjs-app/node_modules/resolve/example:
+async.js  sync.js
+
+./nextjs-app/node_modules/resolve/lib:
+async.js  caller.js  core.js  core.json  homedir.js  is-core.js  node-modules-paths.js	normalize-options.js  sync.js
+
+./nextjs-app/node_modules/resolve/test:
+core.js    faulty_basedir.js  home_paths.js	  mock_sync.js	 node-modules-paths.js	nonstring.js   precedence     resolver.js	shadowed_core.js
+dotdot	   filter.js	      home_paths_sync.js  module_dir	 node_path		pathfilter     precedence.js  resolver_sync.js	subdirs.js
+dotdot.js  filter_sync.js     mock.js		  module_dir.js  node_path.js		pathfilter.js  resolver       shadowed_core	symlinks.js
+
+./nextjs-app/node_modules/resolve/test/dotdot:
+abc  index.js
+
+./nextjs-app/node_modules/resolve/test/dotdot/abc:
+index.js
+
+./nextjs-app/node_modules/resolve/test/module_dir:
+xmodules  ymodules  zmodules
+
+./nextjs-app/node_modules/resolve/test/module_dir/xmodules:
+aaa
+
+./nextjs-app/node_modules/resolve/test/module_dir/xmodules/aaa:
+index.js
+
+./nextjs-app/node_modules/resolve/test/module_dir/ymodules:
+aaa
+
+./nextjs-app/node_modules/resolve/test/module_dir/ymodules/aaa:
+index.js
+
+./nextjs-app/node_modules/resolve/test/module_dir/zmodules:
+bbb
+
+./nextjs-app/node_modules/resolve/test/module_dir/zmodules/bbb:
+main.js  package.json
+
+./nextjs-app/node_modules/resolve/test/node_path:
+x  y
+
+./nextjs-app/node_modules/resolve/test/node_path/x:
+aaa  ccc
+
+./nextjs-app/node_modules/resolve/test/node_path/x/aaa:
+index.js
+
+./nextjs-app/node_modules/resolve/test/node_path/x/ccc:
+index.js
+
+./nextjs-app/node_modules/resolve/test/node_path/y:
+bbb  ccc
+
+./nextjs-app/node_modules/resolve/test/node_path/y/bbb:
+index.js
+
+./nextjs-app/node_modules/resolve/test/node_path/y/ccc:
+index.js
+
+./nextjs-app/node_modules/resolve/test/pathfilter:
+deep_ref
+
+./nextjs-app/node_modules/resolve/test/pathfilter/deep_ref:
+main.js
+
+./nextjs-app/node_modules/resolve/test/precedence:
+aaa  aaa.js  bbb  bbb.js
+
+./nextjs-app/node_modules/resolve/test/precedence/aaa:
+index.js  main.js
+
+./nextjs-app/node_modules/resolve/test/precedence/bbb:
+main.js
+
+./nextjs-app/node_modules/resolve/test/resolver:
+baz	       cup.coffee  dot_slash_main  foo.js	   invalid_main  mug.js     nested_symlinks  quux	 symlinked
+browser_field  dot_main    false_main	   incorrect_main  mug.coffee	 multirepo  other_path	     same_names  without_basedir
+
+./nextjs-app/node_modules/resolve/test/resolver/baz:
+doom.js  package.json  quux.js
+
+./nextjs-app/node_modules/resolve/test/resolver/browser_field:
+a.js  b.js  package.json
+
+./nextjs-app/node_modules/resolve/test/resolver/dot_main:
+index.js  package.json
+
+./nextjs-app/node_modules/resolve/test/resolver/dot_slash_main:
+index.js  package.json
+
+./nextjs-app/node_modules/resolve/test/resolver/false_main:
+index.js  package.json
+
+./nextjs-app/node_modules/resolve/test/resolver/incorrect_main:
+index.js  package.json
+
+./nextjs-app/node_modules/resolve/test/resolver/invalid_main:
+package.json
+
+./nextjs-app/node_modules/resolve/test/resolver/multirepo:
+lerna.json  package.json  packages
+
+./nextjs-app/node_modules/resolve/test/resolver/multirepo/packages:
+package-a  package-b
+
+./nextjs-app/node_modules/resolve/test/resolver/multirepo/packages/package-a:
+index.js  package.json
+
+./nextjs-app/node_modules/resolve/test/resolver/multirepo/packages/package-b:
+index.js  package.json
+
+./nextjs-app/node_modules/resolve/test/resolver/nested_symlinks:
+mylib
+
+./nextjs-app/node_modules/resolve/test/resolver/nested_symlinks/mylib:
+async.js  package.json	sync.js
+
+./nextjs-app/node_modules/resolve/test/resolver/other_path:
+lib  root.js
+
+./nextjs-app/node_modules/resolve/test/resolver/other_path/lib:
+other-lib.js
+
+./nextjs-app/node_modules/resolve/test/resolver/quux:
+foo
+
+./nextjs-app/node_modules/resolve/test/resolver/quux/foo:
+index.js
+
+./nextjs-app/node_modules/resolve/test/resolver/same_names:
+foo  foo.js
+
+./nextjs-app/node_modules/resolve/test/resolver/same_names/foo:
+index.js
+
+./nextjs-app/node_modules/resolve/test/resolver/symlinked:
+_  package
+
+./nextjs-app/node_modules/resolve/test/resolver/symlinked/_:
+node_modules  symlink_target
+
+./nextjs-app/node_modules/resolve/test/resolver/symlinked/_/node_modules:
+foo.js
+
+./nextjs-app/node_modules/resolve/test/resolver/symlinked/_/symlink_target:
+
+./nextjs-app/node_modules/resolve/test/resolver/symlinked/package:
+bar.js	package.json
+
+./nextjs-app/node_modules/resolve/test/resolver/without_basedir:
+main.js
+
+./nextjs-app/node_modules/resolve/test/shadowed_core:
+node_modules
+
+./nextjs-app/node_modules/resolve/test/shadowed_core/node_modules:
+util
+
+./nextjs-app/node_modules/resolve/test/shadowed_core/node_modules/util:
+index.js
+
+./nextjs-app/node_modules/resolve-from:
+index.js  license  package.json  readme.md
+
+./nextjs-app/node_modules/resolve-pkg-maps:
+dist  LICENSE  package.json  README.md
+
+./nextjs-app/node_modules/resolve-pkg-maps/dist:
+index.cjs  index.d.cts	index.d.mts  index.mjs
+
+./nextjs-app/node_modules/reusify:
+benchmarks  LICENSE  package.json  README.md  reusify.js  test.js
+
+./nextjs-app/node_modules/reusify/benchmarks:
+createNoCodeFunction.js  fib.js  reuseNoCodeFunction.js
+
+./nextjs-app/node_modules/rimraf:
+bin.js	CHANGELOG.md  LICENSE  package.json  README.md	rimraf.js
+
+./nextjs-app/node_modules/@rtsao:
+scc
+
+./nextjs-app/node_modules/@rtsao/scc:
+index.d.ts  index.js  index.js.flow  LICENSE  package.json  README.md
+
+./nextjs-app/node_modules/run-parallel:
+index.js  LICENSE  package.json  README.md
+
+./nextjs-app/node_modules/@rushstack:
+eslint-patch
+
+./nextjs-app/node_modules/@rushstack/eslint-patch:
+CHANGELOG.json	CHANGELOG.md  custom-config-package-names.js  eslint-bulk-suppressions.js  lib	LICENSE  modern-module-resolution.js  package.json  README.md
+
+./nextjs-app/node_modules/@rushstack/eslint-patch/lib:
+custom-config-package-names.d.ts      custom-config-package-names.js.map  modern-module-resolution.d.ts      modern-module-resolution.js.map  _patch-base.js	  usage.d.ts.map
+custom-config-package-names.d.ts.map  eslint-bulk-suppressions		  modern-module-resolution.d.ts.map  _patch-base.d.ts		      _patch-base.js.map  usage.js
+custom-config-package-names.js	      exports				  modern-module-resolution.js	     _patch-base.d.ts.map	      usage.d.ts	  usage.js.map
+
+./nextjs-app/node_modules/@rushstack/eslint-patch/lib/eslint-bulk-suppressions:
+ast-guards.d.ts      bulk-suppressions-file.d.ts      bulk-suppressions-patch.d.ts	cli		    constants.js.map		    generate-patched-file.js.map  index.js.map	       path-utils.js.map
+ast-guards.d.ts.map  bulk-suppressions-file.d.ts.map  bulk-suppressions-patch.d.ts.map	constants.d.ts	    generate-patched-file.d.ts	    index.d.ts			  path-utils.d.ts
+ast-guards.js	     bulk-suppressions-file.js	      bulk-suppressions-patch.js	constants.d.ts.map  generate-patched-file.d.ts.map  index.d.ts.map		  path-utils.d.ts.map
+ast-guards.js.map    bulk-suppressions-file.js.map    bulk-suppressions-patch.js.map	constants.js	    generate-patched-file.js	    index.js			  path-utils.js
+
+./nextjs-app/node_modules/@rushstack/eslint-patch/lib/eslint-bulk-suppressions/cli:
+prune.d.ts	prune.js      runEslint.d.ts	  runEslint.js	    start.d.ts	    start.js	  suppress.d.ts      suppress.js      utils
+prune.d.ts.map	prune.js.map  runEslint.d.ts.map  runEslint.js.map  start.d.ts.map  start.js.map  suppress.d.ts.map  suppress.js.map
+
+./nextjs-app/node_modules/@rushstack/eslint-patch/lib/eslint-bulk-suppressions/cli/utils:
+get-eslint-cli.d.ts	 get-eslint-cli.js	is-correct-cwd.d.ts	 is-correct-cwd.js	print-help.d.ts      print-help.js	wrap-words-to-lines.d.ts      wrap-words-to-lines.js
+get-eslint-cli.d.ts.map  get-eslint-cli.js.map	is-correct-cwd.d.ts.map  is-correct-cwd.js.map	print-help.d.ts.map  print-help.js.map	wrap-words-to-lines.d.ts.map  wrap-words-to-lines.js.map
+
+./nextjs-app/node_modules/@rushstack/eslint-patch/lib/exports:
+eslint-bulk.d.ts  eslint-bulk.d.ts.map	eslint-bulk.js	eslint-bulk.js.map
+
+./nextjs-app/node_modules/safe-array-concat:
+CHANGELOG.md  index.d.ts  index.js  LICENSE  package.json  README.md  test  tsconfig.json
+
+./nextjs-app/node_modules/safe-array-concat/test:
+index.js
+
+./nextjs-app/node_modules/safe-regex-test:
+CHANGELOG.md  index.js	LICENSE  package.json  README.md  test
+
+./nextjs-app/node_modules/safe-regex-test/test:
+index.js
+
+./nextjs-app/node_modules/scheduler:
+cjs  index.js  index.native.js	LICENSE  package.json  README.md  unstable_mock.js  unstable_post_task.js
+
+./nextjs-app/node_modules/scheduler/cjs:
+scheduler.development.js	 scheduler.native.production.js  scheduler-unstable_mock.development.js  scheduler-unstable_post_task.development.js
+scheduler.native.development.js  scheduler.production.js	 scheduler-unstable_mock.production.js	 scheduler-unstable_post_task.production.js
+
+./nextjs-app/node_modules/semver:
+bin  classes  functions  index.js  internal  LICENSE  package.json  preload.js	range.bnf  ranges  README.md
+
+./nextjs-app/node_modules/semver/bin:
+semver.js
+
+./nextjs-app/node_modules/semver/classes:
+comparator.js  index.js  range.js  semver.js
+
+./nextjs-app/node_modules/semver/functions:
+clean.js  coerce.js	    compare.js	      diff.js  gte.js  inc.js  lt.js	 minor.js  parse.js  prerelease.js  rsort.js	  sort.js
+cmp.js	  compare-build.js  compare-loose.js  eq.js    gt.js   lte.js  major.js  neq.js    patch.js  rcompare.js    satisfies.js  valid.js
+
+./nextjs-app/node_modules/semver/internal:
+constants.js  debug.js	identifiers.js	lrucache.js  parse-options.js  re.js
+
+./nextjs-app/node_modules/semver/ranges:
+gtr.js	intersects.js  ltr.js  max-satisfying.js  min-satisfying.js  min-version.js  outside.js  simplify.js  subset.js  to-comparators.js  valid.js
+
+./nextjs-app/node_modules/set-function-length:
+CHANGELOG.md  env.d.ts	env.js	index.d.ts  index.js  LICENSE  package.json  README.md	tsconfig.json
+
+./nextjs-app/node_modules/set-function-name:
+CHANGELOG.md  index.d.ts  index.js  LICENSE  package.json  README.md  tsconfig.json
+
+./nextjs-app/node_modules/sharp:
+install  lib  LICENSE  package.json  README.md	src
+
+./nextjs-app/node_modules/sharp/install:
+check.js
+
+./nextjs-app/node_modules/sharp/lib:
+channel.js  colour.js  composite.js  constructor.js  index.d.ts  index.js  input.js  is.js  libvips.js	operation.js  output.js  resize.js  sharp.js  utility.js
+
+./nextjs-app/node_modules/sharp/src:
+binding.gyp  common.cc	common.h  metadata.cc  metadata.h  operations.cc  operations.h	pipeline.cc  pipeline.h  sharp.cc  stats.cc  stats.h  utilities.cc  utilities.h
+
+./nextjs-app/node_modules/shebang-command:
+index.js  license  package.json  readme.md
+
+./nextjs-app/node_modules/shebang-regex:
+index.d.ts  index.js  license  package.json  readme.md
+
+./nextjs-app/node_modules/side-channel:
+CHANGELOG.md  index.d.ts  index.js  LICENSE  package.json  README.md  test  tsconfig.json
+
+./nextjs-app/node_modules/side-channel/test:
+index.js
+
+./nextjs-app/node_modules/signal-exit:
+dist  LICENSE.txt  package.json  README.md
+
+./nextjs-app/node_modules/signal-exit/dist:
+cjs  mjs
+
+./nextjs-app/node_modules/signal-exit/dist/cjs:
+browser.d.ts  browser.d.ts.map	browser.js  browser.js.map  index.d.ts	index.d.ts.map	index.js  index.js.map	package.json  signals.d.ts  signals.d.ts.map  signals.js  signals.js.map
+
+./nextjs-app/node_modules/signal-exit/dist/mjs:
+browser.d.ts  browser.d.ts.map	browser.js  browser.js.map  index.d.ts	index.d.ts.map	index.js  index.js.map	package.json  signals.d.ts  signals.d.ts.map  signals.js  signals.js.map
+
+./nextjs-app/node_modules/simple-swizzle:
+index.js  LICENSE  package.json  README.md
+
+./nextjs-app/node_modules/source-map-js:
+lib  LICENSE  package.json  README.md  source-map.d.ts	source-map.js
+
+./nextjs-app/node_modules/source-map-js/lib:
+array-set.js  base64-vlq.js	mapping-list.js  source-map-consumer.d.ts  source-map-generator.d.ts  source-node.d.ts	util.js
+base64.js     binary-search.js	quick-sort.js	 source-map-consumer.js    source-map-generator.js    source-node.js
+
+./nextjs-app/node_modules/streamsearch:
+lib  LICENSE  package.json  README.md  test
+
+./nextjs-app/node_modules/streamsearch/lib:
+sbmh.js
+
+./nextjs-app/node_modules/streamsearch/test:
+test.js
+
+./nextjs-app/node_modules/string.prototype.includes:
+auto.js  implementation.js  index.js  LICENSE  package.json  polyfill.js  README.md  shim.js  tests
+
+./nextjs-app/node_modules/string.prototype.includes/tests:
+index.js  shimmed.js  tests.js
+
+./nextjs-app/node_modules/string.prototype.matchall:
+auto.js  CHANGELOG.md  implementation.js  index.js  LICENSE  package.json  polyfill.js	polyfill-regexp-matchall.js  README.md	regexp-matchall.js  shim.js  test
+
+./nextjs-app/node_modules/string.prototype.matchall/test:
+index.js  shimmed.js  tests.js
+
+./nextjs-app/node_modules/string.prototype.repeat:
+auto.js  implementation.js  index.js  LICENSE-MIT.txt  package.json  polyfill.js  README.md  shim.js  tests
+
+./nextjs-app/node_modules/string.prototype.repeat/tests:
+index.js  shimmed.js  tests.js
+
+./nextjs-app/node_modules/string.prototype.trim:
+auto.js  CHANGELOG.md  implementation.js  index.js  LICENSE  package.json  polyfill.js	README.md  shim.js  test
+
+./nextjs-app/node_modules/string.prototype.trim/test:
+implementation.js  index.js  shimmed.js  tests.js
+
+./nextjs-app/node_modules/string.prototype.trimend:
+auto.js  CHANGELOG.md  implementation.js  index.js  LICENSE  package.json  polyfill.js	README.md  shim.js  test
+
+./nextjs-app/node_modules/string.prototype.trimend/test:
+implementation.js  index.js  shimmed.js  tests.js
+
+./nextjs-app/node_modules/string.prototype.trimstart:
+auto.js  CHANGELOG.md  implementation.js  index.js  LICENSE  package.json  polyfill.js	README.md  shim.js  test
+
+./nextjs-app/node_modules/string.prototype.trimstart/test:
+implementation.js  index.js  shimmed.js  tests.js
+
+./nextjs-app/node_modules/string-width:
+index.d.ts  index.js  license  node_modules  package.json  readme.md
+
+./nextjs-app/node_modules/string-width/node_modules:
+ansi-regex  strip-ansi
+
+./nextjs-app/node_modules/string-width/node_modules/ansi-regex:
+index.d.ts  index.js  license  package.json  readme.md
+
+./nextjs-app/node_modules/string-width/node_modules/strip-ansi:
+index.d.ts  index.js  license  package.json  readme.md
+
+./nextjs-app/node_modules/string-width-cjs:
+index.d.ts  index.js  license  node_modules  package.json  readme.md
+
+./nextjs-app/node_modules/string-width-cjs/node_modules:
+emoji-regex
+
+./nextjs-app/node_modules/string-width-cjs/node_modules/emoji-regex:
+es2015	index.d.ts  index.js  LICENSE-MIT.txt  package.json  README.md	text.js
+
+./nextjs-app/node_modules/string-width-cjs/node_modules/emoji-regex/es2015:
+index.js  text.js
+
+./nextjs-app/node_modules/strip-ansi:
+index.d.ts  index.js  license  package.json  readme.md
+
+./nextjs-app/node_modules/strip-ansi-cjs:
+index.d.ts  index.js  license  package.json  readme.md
+
+./nextjs-app/node_modules/strip-bom:
+index.js  license  package.json  readme.md
+
+./nextjs-app/node_modules/strip-json-comments:
+index.d.ts  index.js  license  package.json  readme.md
+
+./nextjs-app/node_modules/styled-jsx:
+babel.js  babel-test.js  css.d.ts  css.js  dist  global.d.ts  index.d.ts  index.js  lib  license.md  macro.d.ts  macro.js  package.json  readme.md  style.d.ts	style.js  webpack.js
+
+./nextjs-app/node_modules/styled-jsx/dist:
+babel  index  webpack
+
+./nextjs-app/node_modules/styled-jsx/dist/babel:
+index.js
+
+./nextjs-app/node_modules/styled-jsx/dist/index:
+index.js
+
+./nextjs-app/node_modules/styled-jsx/dist/webpack:
+index.js
+
+./nextjs-app/node_modules/styled-jsx/lib:
+stylesheet.js  style-transform.js
+
+./nextjs-app/node_modules/sucrase:
+bin  dist  LICENSE  node_modules  package.json	README.md  register  ts-node-plugin
+
+./nextjs-app/node_modules/sucrase/bin:
+sucrase  sucrase-node
+
+./nextjs-app/node_modules/sucrase/dist:
+CJSImportProcessor.js  computeSourceMap.js  HelperManager.js		index.js	Options-gen-types.js  parser	   TokenProcessor.js  types
+cli.js		       esm		    identifyShadowedGlobals.js	NameManager.js	Options.js	      register.js  transformers       util
+
+./nextjs-app/node_modules/sucrase/dist/esm:
+CJSImportProcessor.js  computeSourceMap.js  identifyShadowedGlobals.js	NameManager.js	      Options.js  register.js	     transformers
+cli.js		       HelperManager.js     index.js			Options-gen-types.js  parser	  TokenProcessor.js  util
+
+./nextjs-app/node_modules/sucrase/dist/esm/parser:
+index.js  plugins  tokenizer  traverser  util
+
+./nextjs-app/node_modules/sucrase/dist/esm/parser/plugins:
+flow.js  jsx  typescript.js  types.js
+
+./nextjs-app/node_modules/sucrase/dist/esm/parser/plugins/jsx:
+index.js  xhtml.js
+
+./nextjs-app/node_modules/sucrase/dist/esm/parser/tokenizer:
+index.js  keywords.js  readWord.js  readWordTree.js  state.js  types.js
+
+./nextjs-app/node_modules/sucrase/dist/esm/parser/traverser:
+base.js  expression.js	index.js  lval.js  statement.js  util.js
+
+./nextjs-app/node_modules/sucrase/dist/esm/parser/util:
+charcodes.js  identifier.js  whitespace.js
+
+./nextjs-app/node_modules/sucrase/dist/esm/transformers:
+CJSImportTransformer.js  FlowTransformer.js	  JSXTransformer.js		  OptionalCatchBindingTransformer.js	 ReactDisplayNameTransformer.js  RootTransformer.js  TypeScriptTransformer.js
+ESMImportTransformer.js  JestHoistTransformer.js  NumericSeparatorTransformer.js  OptionalChainingNullishTransformer.js  ReactHotLoaderTransformer.js	 Transformer.js
+
+./nextjs-app/node_modules/sucrase/dist/esm/util:
+elideImportEquals.js  getClassInfo.js	     getIdentifierNames.js	      getJSXPragmaInfo.js	getTSImportedNames.js  isExportFrom.js	removeMaybeImportAttributes.js
+formatTokens.js       getDeclarationInfo.js  getImportExportSpecifierInfo.js  getNonTypeIdentifiers.js	isAsyncOperation.js    isIdentifier.js	shouldElideDefaultExport.js
+
+./nextjs-app/node_modules/sucrase/dist/parser:
+index.js  plugins  tokenizer  traverser  util
+
+./nextjs-app/node_modules/sucrase/dist/parser/plugins:
+flow.js  jsx  typescript.js  types.js
+
+./nextjs-app/node_modules/sucrase/dist/parser/plugins/jsx:
+index.js  xhtml.js
+
+./nextjs-app/node_modules/sucrase/dist/parser/tokenizer:
+index.js  keywords.js  readWord.js  readWordTree.js  state.js  types.js
+
+./nextjs-app/node_modules/sucrase/dist/parser/traverser:
+base.js  expression.js	index.js  lval.js  statement.js  util.js
+
+./nextjs-app/node_modules/sucrase/dist/parser/util:
+charcodes.js  identifier.js  whitespace.js
+
+./nextjs-app/node_modules/sucrase/dist/transformers:
+CJSImportTransformer.js  FlowTransformer.js	  JSXTransformer.js		  OptionalCatchBindingTransformer.js	 ReactDisplayNameTransformer.js  RootTransformer.js  TypeScriptTransformer.js
+ESMImportTransformer.js  JestHoistTransformer.js  NumericSeparatorTransformer.js  OptionalChainingNullishTransformer.js  ReactHotLoaderTransformer.js	 Transformer.js
+
+./nextjs-app/node_modules/sucrase/dist/types:
+CJSImportProcessor.d.ts  computeSourceMap.d.ts	identifyShadowedGlobals.d.ts  NameManager.d.ts	Options-gen-types.d.ts	register.d.ts	     transformers
+cli.d.ts		 HelperManager.d.ts	index.d.ts		      Options.d.ts	parser			TokenProcessor.d.ts  util
+
+./nextjs-app/node_modules/sucrase/dist/types/parser:
+index.d.ts  plugins  tokenizer	traverser  util
+
+./nextjs-app/node_modules/sucrase/dist/types/parser/plugins:
+flow.d.ts  jsx	typescript.d.ts  types.d.ts
+
+./nextjs-app/node_modules/sucrase/dist/types/parser/plugins/jsx:
+index.d.ts  xhtml.d.ts
+
+./nextjs-app/node_modules/sucrase/dist/types/parser/tokenizer:
+index.d.ts  keywords.d.ts  readWord.d.ts  readWordTree.d.ts  state.d.ts  types.d.ts
+
+./nextjs-app/node_modules/sucrase/dist/types/parser/traverser:
+base.d.ts  expression.d.ts  index.d.ts	lval.d.ts  statement.d.ts  util.d.ts
+
+./nextjs-app/node_modules/sucrase/dist/types/parser/util:
+charcodes.d.ts	identifier.d.ts  whitespace.d.ts
+
+./nextjs-app/node_modules/sucrase/dist/types/transformers:
+CJSImportTransformer.d.ts  JestHoistTransformer.d.ts	     OptionalCatchBindingTransformer.d.ts     ReactHotLoaderTransformer.d.ts  TypeScriptTransformer.d.ts
+ESMImportTransformer.d.ts  JSXTransformer.d.ts		     OptionalChainingNullishTransformer.d.ts  RootTransformer.d.ts
+FlowTransformer.d.ts	   NumericSeparatorTransformer.d.ts  ReactDisplayNameTransformer.d.ts	      Transformer.d.ts
+
+./nextjs-app/node_modules/sucrase/dist/types/util:
+elideImportEquals.d.ts	getClassInfo.d.ts	 getIdentifierNames.d.ts	    getJSXPragmaInfo.d.ts	getTSImportedNames.d.ts  isExportFrom.d.ts  removeMaybeImportAttributes.d.ts
+formatTokens.d.ts	getDeclarationInfo.d.ts  getImportExportSpecifierInfo.d.ts  getNonTypeIdentifiers.d.ts	isAsyncOperation.d.ts	 isIdentifier.d.ts  shouldElideDefaultExport.d.ts
+
+./nextjs-app/node_modules/sucrase/dist/util:
+elideImportEquals.js  getClassInfo.js	     getIdentifierNames.js	      getJSXPragmaInfo.js	getTSImportedNames.js  isExportFrom.js	removeMaybeImportAttributes.js
+formatTokens.js       getDeclarationInfo.js  getImportExportSpecifierInfo.js  getNonTypeIdentifiers.js	isAsyncOperation.js    isIdentifier.js	shouldElideDefaultExport.js
+
+./nextjs-app/node_modules/sucrase/node_modules:
+brace-expansion  glob  minimatch
+
+./nextjs-app/node_modules/sucrase/node_modules/brace-expansion:
+index.js  LICENSE  package.json  README.md
+
+./nextjs-app/node_modules/sucrase/node_modules/glob:
+dist  LICENSE  package.json  README.md
+
+./nextjs-app/node_modules/sucrase/node_modules/glob/dist:
+commonjs  esm
+
+./nextjs-app/node_modules/sucrase/node_modules/glob/dist/commonjs:
+glob.d.ts      glob.js.map	   has-magic.js      ignore.d.ts.map  index.d.ts      index.js.map  pattern.d.ts.map  processor.d.ts	  processor.js.map  walker.js
+glob.d.ts.map  has-magic.d.ts	   has-magic.js.map  ignore.js	      index.d.ts.map  package.json  pattern.js	      processor.d.ts.map  walker.d.ts	    walker.js.map
+glob.js        has-magic.d.ts.map  ignore.d.ts	     ignore.js.map    index.js	      pattern.d.ts  pattern.js.map    processor.js	  walker.d.ts.map
+
+./nextjs-app/node_modules/sucrase/node_modules/glob/dist/esm:
+bin.d.mts      bin.mjs.map    glob.js	      has-magic.d.ts.map  ignore.d.ts	   ignore.js.map   index.js	 pattern.d.ts	   pattern.js.map      processor.js	 walker.d.ts.map
+bin.d.mts.map  glob.d.ts      glob.js.map     has-magic.js	  ignore.d.ts.map  index.d.ts	   index.js.map  pattern.d.ts.map  processor.d.ts      processor.js.map  walker.js
+bin.mjs        glob.d.ts.map  has-magic.d.ts  has-magic.js.map	  ignore.js	   index.d.ts.map  package.json  pattern.js	   processor.d.ts.map  walker.d.ts	 walker.js.map
+
+./nextjs-app/node_modules/sucrase/node_modules/minimatch:
+dist  LICENSE  package.json  README.md
+
+./nextjs-app/node_modules/sucrase/node_modules/minimatch/dist:
+commonjs  esm
+
+./nextjs-app/node_modules/sucrase/node_modules/minimatch/dist/commonjs:
+assert-valid-pattern.d.ts      assert-valid-pattern.js.map  ast.js		    brace-expressions.d.ts.map	escape.d.ts	 escape.js.map	 index.js      unescape.d.ts	  unescape.js.map
+assert-valid-pattern.d.ts.map  ast.d.ts			    ast.js.map		    brace-expressions.js	escape.d.ts.map  index.d.ts	 index.js.map  unescape.d.ts.map
+assert-valid-pattern.js        ast.d.ts.map		    brace-expressions.d.ts  brace-expressions.js.map	escape.js	 index.d.ts.map  package.json  unescape.js
+
+./nextjs-app/node_modules/sucrase/node_modules/minimatch/dist/esm:
+assert-valid-pattern.d.ts      assert-valid-pattern.js.map  ast.js		    brace-expressions.d.ts.map	escape.d.ts	 escape.js.map	 index.js      unescape.d.ts	  unescape.js.map
+assert-valid-pattern.d.ts.map  ast.d.ts			    ast.js.map		    brace-expressions.js	escape.d.ts.map  index.d.ts	 index.js.map  unescape.d.ts.map
+assert-valid-pattern.js        ast.d.ts.map		    brace-expressions.d.ts  brace-expressions.js.map	escape.js	 index.d.ts.map  package.json  unescape.js
+
+./nextjs-app/node_modules/sucrase/register:
+index.js  js.js  jsx.js  ts.js	ts-legacy-module-interop.js  tsx.js  tsx-legacy-module-interop.js
+
+./nextjs-app/node_modules/sucrase/ts-node-plugin:
+index.js
+
+./nextjs-app/node_modules/supports-color:
+browser.js  index.js  license  package.json  readme.md
+
+./nextjs-app/node_modules/supports-preserve-symlinks-flag:
+browser.js  CHANGELOG.md  index.js  LICENSE  package.json  README.md  test
+
+./nextjs-app/node_modules/supports-preserve-symlinks-flag/test:
+index.js
+
+./nextjs-app/node_modules/@swc:
+counter  helpers
+
+./nextjs-app/node_modules/@swc/counter:
+CHANGELOG.md  index.js	package.json  README.md
+
+./nextjs-app/node_modules/@swc/helpers:
+_  cjs	esm  LICENSE  package.json  scripts  src
+
+./nextjs-app/node_modules/@swc/helpers/_:
+_apply_decorated_descriptor		      _class_extract_field_descriptor	       _decorate		      _iterable_to_array_limit		_throw
+_apply_decs_2203_r			      _class_name_tdz_error		       _defaults		      _iterable_to_array_limit_loose	_to_array
+_array_like_to_array			      _class_private_field_destructure	       _define_enumerable_properties  _jsx				_to_consumable_array
+_array_with_holes			      _class_private_field_get		       _define_property		      _new_arrow_check			_to_primitive
+_array_without_holes			      _class_private_field_init		       _dispose			      _non_iterable_rest		_to_property_key
+_assert_this_initialized		      _class_private_field_loose_base	       _export_star		      _non_iterable_spread		_ts_decorate
+_async_generator			      _class_private_field_loose_key	       _extends			      _object_destructuring_empty	_ts_generator
+_async_generator_delegate		      _class_private_field_set		       _get			      _object_spread			_ts_metadata
+_async_iterator				      _class_private_field_update	       _get_prototype_of	      _object_spread_props		_ts_param
+_async_to_generator			      _class_private_method_get		       _identity		      _object_without_properties	_ts_values
+_await_async_generator			      _class_private_method_init	       index			      _object_without_properties_loose	_type_of
+_await_value				      _class_private_method_set		       _inherits		      _possible_constructor_return	_unsupported_iterable_to_array
+_call_super				      _class_static_private_field_destructure  _inherits_loose		      _read_only_error			_update
+_check_private_redeclaration		      _class_static_private_field_spec_get     _initializer_define_property   _set				_using
+_class_apply_descriptor_destructure	      _class_static_private_field_spec_set     _initializer_warning_helper    _set_prototype_of			_using_ctx
+_class_apply_descriptor_get		      _class_static_private_field_update       _instanceof		      _skip_first_generator_next	_wrap_async_generator
+_class_apply_descriptor_set		      _class_static_private_method_get	       _interop_require_default       _sliced_to_array			_wrap_native_super
+_class_apply_descriptor_update		      _construct			       _interop_require_wildcard      _sliced_to_array_loose		_write_only_error
+_class_call_check			      _create_class			       _is_native_function	      _super_prop_base
+_class_check_private_static_access	      _create_for_of_iterator_helper_loose     _is_native_reflect_construct   _tagged_template_literal
+_class_check_private_static_field_descriptor  _create_super			       _iterable_to_array	      _tagged_template_literal_loose
+
+./nextjs-app/node_modules/@swc/helpers/_/_apply_decorated_descriptor:
+package.json
+
+./nextjs-app/node_modules/@swc/helpers/_/_apply_decs_2203_r:
+package.json
+
+./nextjs-app/node_modules/@swc/helpers/_/_array_like_to_array:
+package.json
+
+./nextjs-app/node_modules/@swc/helpers/_/_array_with_holes:
+package.json
+
+./nextjs-app/node_modules/@swc/helpers/_/_array_without_holes:
+package.json
+
+./nextjs-app/node_modules/@swc/helpers/_/_assert_this_initialized:
+package.json
+
+./nextjs-app/node_modules/@swc/helpers/_/_async_generator:
+package.json
+
+./nextjs-app/node_modules/@swc/helpers/_/_async_generator_delegate:
+package.json
+
+./nextjs-app/node_modules/@swc/helpers/_/_async_iterator:
+package.json
+
+./nextjs-app/node_modules/@swc/helpers/_/_async_to_generator:
+package.json
+
+./nextjs-app/node_modules/@swc/helpers/_/_await_async_generator:
+package.json
+
+./nextjs-app/node_modules/@swc/helpers/_/_await_value:
+package.json
+
+./nextjs-app/node_modules/@swc/helpers/_/_call_super:
+package.json
+
+./nextjs-app/node_modules/@swc/helpers/_/_check_private_redeclaration:
+package.json
+
+./nextjs-app/node_modules/@swc/helpers/_/_class_apply_descriptor_destructure:
+package.json
+
+./nextjs-app/node_modules/@swc/helpers/_/_class_apply_descriptor_get:
+package.json
+
+./nextjs-app/node_modules/@swc/helpers/_/_class_apply_descriptor_set:
+package.json
+
+./nextjs-app/node_modules/@swc/helpers/_/_class_apply_descriptor_update:
+package.json
+
+./nextjs-app/node_modules/@swc/helpers/_/_class_call_check:
+package.json
+
+./nextjs-app/node_modules/@swc/helpers/_/_class_check_private_static_access:
+package.json
+
+./nextjs-app/node_modules/@swc/helpers/_/_class_check_private_static_field_descriptor:
+package.json
+
+./nextjs-app/node_modules/@swc/helpers/_/_class_extract_field_descriptor:
+package.json
+
+./nextjs-app/node_modules/@swc/helpers/_/_class_name_tdz_error:
+package.json
+
+./nextjs-app/node_modules/@swc/helpers/_/_class_private_field_destructure:
+package.json
+
+./nextjs-app/node_modules/@swc/helpers/_/_class_private_field_get:
+package.json
+
+./nextjs-app/node_modules/@swc/helpers/_/_class_private_field_init:
+package.json
+
+./nextjs-app/node_modules/@swc/helpers/_/_class_private_field_loose_base:
+package.json
+
+./nextjs-app/node_modules/@swc/helpers/_/_class_private_field_loose_key:
+package.json
+
+./nextjs-app/node_modules/@swc/helpers/_/_class_private_field_set:
+package.json
+
+./nextjs-app/node_modules/@swc/helpers/_/_class_private_field_update:
+package.json
+
+./nextjs-app/node_modules/@swc/helpers/_/_class_private_method_get:
+package.json
+
+./nextjs-app/node_modules/@swc/helpers/_/_class_private_method_init:
+package.json
+
+./nextjs-app/node_modules/@swc/helpers/_/_class_private_method_set:
+package.json
+
+./nextjs-app/node_modules/@swc/helpers/_/_class_static_private_field_destructure:
+package.json
+
+./nextjs-app/node_modules/@swc/helpers/_/_class_static_private_field_spec_get:
+package.json
+
+./nextjs-app/node_modules/@swc/helpers/_/_class_static_private_field_spec_set:
+package.json
+
+./nextjs-app/node_modules/@swc/helpers/_/_class_static_private_field_update:
+package.json
+
+./nextjs-app/node_modules/@swc/helpers/_/_class_static_private_method_get:
+package.json
+
+./nextjs-app/node_modules/@swc/helpers/_/_construct:
+package.json
+
+./nextjs-app/node_modules/@swc/helpers/_/_create_class:
+package.json
+
+./nextjs-app/node_modules/@swc/helpers/_/_create_for_of_iterator_helper_loose:
+package.json
+
+./nextjs-app/node_modules/@swc/helpers/_/_create_super:
+package.json
+
+./nextjs-app/node_modules/@swc/helpers/_/_decorate:
+package.json
+
+./nextjs-app/node_modules/@swc/helpers/_/_defaults:
+package.json
+
+./nextjs-app/node_modules/@swc/helpers/_/_define_enumerable_properties:
+package.json
+
+./nextjs-app/node_modules/@swc/helpers/_/_define_property:
+package.json
+
+./nextjs-app/node_modules/@swc/helpers/_/_dispose:
+package.json
+
+./nextjs-app/node_modules/@swc/helpers/_/_export_star:
+package.json
+
+./nextjs-app/node_modules/@swc/helpers/_/_extends:
+package.json
+
+./nextjs-app/node_modules/@swc/helpers/_/_get:
+package.json
+
+./nextjs-app/node_modules/@swc/helpers/_/_get_prototype_of:
+package.json
+
+./nextjs-app/node_modules/@swc/helpers/_/_identity:
+package.json
+
+./nextjs-app/node_modules/@swc/helpers/_/index:
+package.json
+
+./nextjs-app/node_modules/@swc/helpers/_/_inherits:
+package.json
+
+./nextjs-app/node_modules/@swc/helpers/_/_inherits_loose:
+package.json
+
+./nextjs-app/node_modules/@swc/helpers/_/_initializer_define_property:
+package.json
+
+./nextjs-app/node_modules/@swc/helpers/_/_initializer_warning_helper:
+package.json
+
+./nextjs-app/node_modules/@swc/helpers/_/_instanceof:
+package.json
+
+./nextjs-app/node_modules/@swc/helpers/_/_interop_require_default:
+package.json
+
+./nextjs-app/node_modules/@swc/helpers/_/_interop_require_wildcard:
+package.json
+
+./nextjs-app/node_modules/@swc/helpers/_/_is_native_function:
+package.json
+
+./nextjs-app/node_modules/@swc/helpers/_/_is_native_reflect_construct:
+package.json
+
+./nextjs-app/node_modules/@swc/helpers/_/_iterable_to_array:
+package.json
+
+./nextjs-app/node_modules/@swc/helpers/_/_iterable_to_array_limit:
+package.json
+
+./nextjs-app/node_modules/@swc/helpers/_/_iterable_to_array_limit_loose:
+package.json
+
+./nextjs-app/node_modules/@swc/helpers/_/_jsx:
+package.json
+
+./nextjs-app/node_modules/@swc/helpers/_/_new_arrow_check:
+package.json
+
+./nextjs-app/node_modules/@swc/helpers/_/_non_iterable_rest:
+package.json
+
+./nextjs-app/node_modules/@swc/helpers/_/_non_iterable_spread:
+package.json
+
+./nextjs-app/node_modules/@swc/helpers/_/_object_destructuring_empty:
+package.json
+
+./nextjs-app/node_modules/@swc/helpers/_/_object_spread:
+package.json
+
+./nextjs-app/node_modules/@swc/helpers/_/_object_spread_props:
+package.json
+
+./nextjs-app/node_modules/@swc/helpers/_/_object_without_properties:
+package.json
+
+./nextjs-app/node_modules/@swc/helpers/_/_object_without_properties_loose:
+package.json
+
+./nextjs-app/node_modules/@swc/helpers/_/_possible_constructor_return:
+package.json
+
+./nextjs-app/node_modules/@swc/helpers/_/_read_only_error:
+package.json
+
+./nextjs-app/node_modules/@swc/helpers/_/_set:
+package.json
+
+./nextjs-app/node_modules/@swc/helpers/_/_set_prototype_of:
+package.json
+
+./nextjs-app/node_modules/@swc/helpers/_/_skip_first_generator_next:
+package.json
+
+./nextjs-app/node_modules/@swc/helpers/_/_sliced_to_array:
+package.json
+
+./nextjs-app/node_modules/@swc/helpers/_/_sliced_to_array_loose:
+package.json
+
+./nextjs-app/node_modules/@swc/helpers/_/_super_prop_base:
+package.json
+
+./nextjs-app/node_modules/@swc/helpers/_/_tagged_template_literal:
+package.json
+
+./nextjs-app/node_modules/@swc/helpers/_/_tagged_template_literal_loose:
+package.json
+
+./nextjs-app/node_modules/@swc/helpers/_/_throw:
+package.json
+
+./nextjs-app/node_modules/@swc/helpers/_/_to_array:
+package.json
+
+./nextjs-app/node_modules/@swc/helpers/_/_to_consumable_array:
+package.json
+
+./nextjs-app/node_modules/@swc/helpers/_/_to_primitive:
+package.json
+
+./nextjs-app/node_modules/@swc/helpers/_/_to_property_key:
+package.json
+
+./nextjs-app/node_modules/@swc/helpers/_/_ts_decorate:
+package.json
+
+./nextjs-app/node_modules/@swc/helpers/_/_ts_generator:
+package.json
+
+./nextjs-app/node_modules/@swc/helpers/_/_ts_metadata:
+package.json
+
+./nextjs-app/node_modules/@swc/helpers/_/_ts_param:
+package.json
+
+./nextjs-app/node_modules/@swc/helpers/_/_ts_values:
+package.json
+
+./nextjs-app/node_modules/@swc/helpers/_/_type_of:
+package.json
+
+./nextjs-app/node_modules/@swc/helpers/_/_unsupported_iterable_to_array:
+package.json
+
+./nextjs-app/node_modules/@swc/helpers/_/_update:
+package.json
+
+./nextjs-app/node_modules/@swc/helpers/_/_using:
+package.json
+
+./nextjs-app/node_modules/@swc/helpers/_/_using_ctx:
+package.json
+
+./nextjs-app/node_modules/@swc/helpers/_/_wrap_async_generator:
+package.json
+
+./nextjs-app/node_modules/@swc/helpers/_/_wrap_native_super:
+package.json
+
+./nextjs-app/node_modules/@swc/helpers/_/_write_only_error:
+package.json
+
+./nextjs-app/node_modules/@swc/helpers/cjs:
+_apply_decorated_descriptor.cjs			  _class_extract_field_descriptor.cjs	       _decorate.cjs			  _iterable_to_array_limit.cjs		_throw.cjs
+_apply_decs_2203_r.cjs				  _class_name_tdz_error.cjs		       _defaults.cjs			  _iterable_to_array_limit_loose.cjs	_to_array.cjs
+_array_like_to_array.cjs			  _class_private_field_destructure.cjs	       _define_enumerable_properties.cjs  _jsx.cjs				_to_consumable_array.cjs
+_array_with_holes.cjs				  _class_private_field_get.cjs		       _define_property.cjs		  _new_arrow_check.cjs			_to_primitive.cjs
+_array_without_holes.cjs			  _class_private_field_init.cjs		       _dispose.cjs			  _non_iterable_rest.cjs		_to_property_key.cjs
+_assert_this_initialized.cjs			  _class_private_field_loose_base.cjs	       _export_star.cjs			  _non_iterable_spread.cjs		_ts_decorate.cjs
+_async_generator.cjs				  _class_private_field_loose_key.cjs	       _extends.cjs			  _object_destructuring_empty.cjs	_ts_generator.cjs
+_async_generator_delegate.cjs			  _class_private_field_set.cjs		       _get.cjs				  _object_spread.cjs			_ts_metadata.cjs
+_async_iterator.cjs				  _class_private_field_update.cjs	       _get_prototype_of.cjs		  _object_spread_props.cjs		_ts_param.cjs
+_async_to_generator.cjs				  _class_private_method_get.cjs		       _identity.cjs			  _object_without_properties.cjs	_ts_values.cjs
+_await_async_generator.cjs			  _class_private_method_init.cjs	       index.cjs			  _object_without_properties_loose.cjs	_type_of.cjs
+_await_value.cjs				  _class_private_method_set.cjs		       _inherits.cjs			  _possible_constructor_return.cjs	_unsupported_iterable_to_array.cjs
+_call_super.cjs					  _class_static_private_field_destructure.cjs  _inherits_loose.cjs		  _read_only_error.cjs			_update.cjs
+_check_private_redeclaration.cjs		  _class_static_private_field_spec_get.cjs     _initializer_define_property.cjs   _set.cjs				_using.cjs
+_class_apply_descriptor_destructure.cjs		  _class_static_private_field_spec_set.cjs     _initializer_warning_helper.cjs	  _set_prototype_of.cjs			_using_ctx.cjs
+_class_apply_descriptor_get.cjs			  _class_static_private_field_update.cjs       _instanceof.cjs			  _skip_first_generator_next.cjs	_wrap_async_generator.cjs
+_class_apply_descriptor_set.cjs			  _class_static_private_method_get.cjs	       _interop_require_default.cjs	  _sliced_to_array.cjs			_wrap_native_super.cjs
+_class_apply_descriptor_update.cjs		  _construct.cjs			       _interop_require_wildcard.cjs	  _sliced_to_array_loose.cjs		_write_only_error.cjs
+_class_call_check.cjs				  _create_class.cjs			       _is_native_function.cjs		  _super_prop_base.cjs
+_class_check_private_static_access.cjs		  _create_for_of_iterator_helper_loose.cjs     _is_native_reflect_construct.cjs   _tagged_template_literal.cjs
+_class_check_private_static_field_descriptor.cjs  _create_super.cjs			       _iterable_to_array.cjs		  _tagged_template_literal_loose.cjs
+
+./nextjs-app/node_modules/@swc/helpers/esm:
+_apply_decorated_descriptor.js			 _class_extract_field_descriptor.js	     _decorate.js		       _iterable_to_array_limit.js	    _throw.js
+_apply_decs_2203_r.js				 _class_name_tdz_error.js		     _defaults.js		       _iterable_to_array_limit_loose.js    _to_array.js
+_array_like_to_array.js				 _class_private_field_destructure.js	     _define_enumerable_properties.js  _jsx.js				    _to_consumable_array.js
+_array_with_holes.js				 _class_private_field_get.js		     _define_property.js	       _new_arrow_check.js		    _to_primitive.js
+_array_without_holes.js				 _class_private_field_init.js		     _dispose.js		       _non_iterable_rest.js		    _to_property_key.js
+_assert_this_initialized.js			 _class_private_field_loose_base.js	     _export_star.js		       _non_iterable_spread.js		    _ts_decorate.js
+_async_generator_delegate.js			 _class_private_field_loose_key.js	     _extends.js		       _object_destructuring_empty.js	    _ts_generator.js
+_async_generator.js				 _class_private_field_set.js		     _get.js			       _object_spread.js		    _ts_metadata.js
+_async_iterator.js				 _class_private_field_update.js		     _get_prototype_of.js	       _object_spread_props.js		    _ts_param.js
+_async_to_generator.js				 _class_private_method_get.js		     _identity.js		       _object_without_properties.js	    _ts_values.js
+_await_async_generator.js			 _class_private_method_init.js		     index.js			       _object_without_properties_loose.js  _type_of.js
+_await_value.js					 _class_private_method_set.js		     _inherits.js		       _possible_constructor_return.js	    _unsupported_iterable_to_array.js
+_call_super.js					 _class_static_private_field_destructure.js  _inherits_loose.js		       _read_only_error.js		    _update.js
+_check_private_redeclaration.js			 _class_static_private_field_spec_get.js     _initializer_define_property.js   _set.js				    _using_ctx.js
+_class_apply_descriptor_destructure.js		 _class_static_private_field_spec_set.js     _initializer_warning_helper.js    _set_prototype_of.js		    _using.js
+_class_apply_descriptor_get.js			 _class_static_private_field_update.js	     _instanceof.js		       _skip_first_generator_next.js	    _wrap_async_generator.js
+_class_apply_descriptor_set.js			 _class_static_private_method_get.js	     _interop_require_default.js       _sliced_to_array.js		    _wrap_native_super.js
+_class_apply_descriptor_update.js		 _construct.js				     _interop_require_wildcard.js      _sliced_to_array_loose.js	    _write_only_error.js
+_class_call_check.js				 _create_class.js			     _is_native_function.js	       _super_prop_base.js
+_class_check_private_static_access.js		 _create_for_of_iterator_helper_loose.js     _is_native_reflect_construct.js   _tagged_template_literal.js
+_class_check_private_static_field_descriptor.js  _create_super.js			     _iterable_to_array.js	       _tagged_template_literal_loose.js
+
+./nextjs-app/node_modules/@swc/helpers/scripts:
+ast_grep.js  build.js  errors.js  utils.js
+
+./nextjs-app/node_modules/@swc/helpers/src:
+_apply_decorated_descriptor.mjs			  _class_extract_field_descriptor.mjs	       _decorate.mjs			   _iterable_to_array_limit.mjs		 _throw.mjs
+_apply_decs_2203_r.mjs				  _class_name_tdz_error.mjs		       _defaults.mjs			   _iterable_to_array.mjs		 _to_array.mjs
+_array_like_to_array.mjs			  _class_private_field_destructure.mjs	       _define_enumerable_properties.mjs   _jsx.mjs				 _to_consumable_array.mjs
+_array_with_holes.mjs				  _class_private_field_get.mjs		       _define_property.mjs		   _new_arrow_check.mjs			 _to_primitive.mjs
+_array_without_holes.mjs			  _class_private_field_init.mjs		       _dispose.mjs			   _non_iterable_rest.mjs		 _to_property_key.mjs
+_assert_this_initialized.mjs			  _class_private_field_loose_base.mjs	       _export_star.mjs			   _non_iterable_spread.mjs		 _ts_decorate.mjs
+_async_generator_delegate.mjs			  _class_private_field_loose_key.mjs	       _extends.mjs			   _object_destructuring_empty.mjs	 _ts_generator.mjs
+_async_generator.mjs				  _class_private_field_set.mjs		       _get.mjs				   _object_spread.mjs			 _ts_metadata.mjs
+_async_iterator.mjs				  _class_private_field_update.mjs	       _get_prototype_of.mjs		   _object_spread_props.mjs		 _ts_param.mjs
+_async_to_generator.mjs				  _class_private_method_get.mjs		       _identity.mjs			   _object_without_properties_loose.mjs  _ts_values.mjs
+_await_async_generator.mjs			  _class_private_method_init.mjs	       index.mjs			   _object_without_properties.mjs	 _type_of.mjs
+_await_value.mjs				  _class_private_method_set.mjs		       _inherits_loose.mjs		   _possible_constructor_return.mjs	 _unsupported_iterable_to_array.mjs
+_call_super.mjs					  _class_static_private_field_destructure.mjs  _inherits.mjs			   _read_only_error.mjs			 _update.mjs
+_check_private_redeclaration.mjs		  _class_static_private_field_spec_get.mjs     _initializer_define_property.mjs    _set.mjs				 _using_ctx.mjs
+_class_apply_descriptor_destructure.mjs		  _class_static_private_field_spec_set.mjs     _initializer_warning_helper.mjs	   _set_prototype_of.mjs		 _using.mjs
+_class_apply_descriptor_get.mjs			  _class_static_private_field_update.mjs       _instanceof.mjs			   _skip_first_generator_next.mjs	 _wrap_async_generator.mjs
+_class_apply_descriptor_set.mjs			  _class_static_private_method_get.mjs	       _interop_require_default.mjs	   _sliced_to_array_loose.mjs		 _wrap_native_super.mjs
+_class_apply_descriptor_update.mjs		  _construct.mjs			       _interop_require_wildcard.mjs	   _sliced_to_array.mjs			 _write_only_error.mjs
+_class_call_check.mjs				  _create_class.mjs			       _is_native_function.mjs		   _super_prop_base.mjs
+_class_check_private_static_access.mjs		  _create_for_of_iterator_helper_loose.mjs     _is_native_reflect_construct.mjs    _tagged_template_literal_loose.mjs
+_class_check_private_static_field_descriptor.mjs  _create_super.mjs			       _iterable_to_array_limit_loose.mjs  _tagged_template_literal.mjs
+
+./nextjs-app/node_modules/tailwindcss:
+base.css      colors.js		  defaultConfig.js   lib	      loadConfig.js  peers	  prettier.config.js  resolveConfig.js	src	      types
+CHANGELOG.md  components.css	  defaultTheme.d.ts  LICENSE	      nesting	     plugin.d.ts  README.md	      screens.css	stubs	      utilities.css
+colors.d.ts   defaultConfig.d.ts  defaultTheme.js    loadConfig.d.ts  package.json   plugin.js	  resolveConfig.d.ts  scripts		tailwind.css  variants.css
+
+./nextjs-app/node_modules/tailwindcss/lib:
+cli  cli.js  cli-peer-dependencies.js  corePluginList.js  corePlugins.js  css  featureFlags.js	index.js  lib  plugin.js  postcss-plugins  processTailwindFeatures.js  public  util  value-parser
+
+./nextjs-app/node_modules/tailwindcss/lib/cli:
+build  help  index.js  init
+
+./nextjs-app/node_modules/tailwindcss/lib/cli/build:
+deps.js  index.js  plugin.js  utils.js	watching.js
+
+./nextjs-app/node_modules/tailwindcss/lib/cli/help:
+index.js
+
+./nextjs-app/node_modules/tailwindcss/lib/cli/init:
+index.js
+
+./nextjs-app/node_modules/tailwindcss/lib/css:
+LICENSE  preflight.css
+
+./nextjs-app/node_modules/tailwindcss/lib/lib:
+cacheInvalidation.js		  defaultExtractor.js		findAtConfigPath.js	  normalizeTailwindDirectives.js  remap-bitfield.js	     sharedState.js
+collapseAdjacentRules.js	  evaluateTailwindFunctions.js	generateRules.js	  offsets.js			  resolveDefaultsAtRules.js  substituteScreenAtRules.js
+collapseDuplicateDeclarations.js  expandApplyAtRules.js		getModuleDependencies.js  partitionApplyAtRules.js	  setupContextUtils.js
+content.js			  expandTailwindAtRules.js	load-config.js		  regex.js			  setupTrackingContext.js
+
+./nextjs-app/node_modules/tailwindcss/lib/postcss-plugins:
+nesting
+
+./nextjs-app/node_modules/tailwindcss/lib/postcss-plugins/nesting:
+index.js  plugin.js  README.md
+
+./nextjs-app/node_modules/tailwindcss/lib/public:
+colors.js  create-plugin.js  default-config.js	default-theme.js  load-config.js  resolve-config.js
+
+./nextjs-app/node_modules/tailwindcss/lib/util:
+applyImportantSelector.js  configurePlugins.js	   flattenColorPalette.js		 log.js			 parseDependency.js	  resolveConfig.js	  transformThemeValue.js
+bigSign.js		   createPlugin.js	   formatVariantSelector.js		 nameClass.js		 parseGlob.js		  resolveConfigPath.js	  validateConfig.js
+buildMediaQuery.js	   createUtilityPlugin.js  getAllConfigs.js			 negateValue.js		 parseObjectStyles.js	  responsive.js		  validateFormalSyntax.js
+cloneDeep.js		   dataTypes.js		   hashConfig.js			 normalizeConfig.js	 pluginUtils.js		  splitAtTopLevelOnly.js  withAlphaVariable.js
+cloneNodes.js		   defaults.js		   isKeyframeRule.js			 normalizeScreens.js	 prefixSelector.js	  tap.js
+color.js		   escapeClassName.js	   isPlainObject.js			 parseAnimationValue.js  pseudoElements.js	  toColorValue.js
+colorNames.js		   escapeCommas.js	   isSyntacticallyValidPropertyValue.js  parseBoxShadowValue.js  removeAlphaVariables.js  toPath.js
+
+./nextjs-app/node_modules/tailwindcss/lib/value-parser:
+index.d.js  index.js  LICENSE  parse.js  README.md  stringify.js  unit.js  walk.js
+
+./nextjs-app/node_modules/tailwindcss/nesting:
+index.d.ts  index.js
+
+./nextjs-app/node_modules/tailwindcss/peers:
+index.js
+
+./nextjs-app/node_modules/tailwindcss/scripts:
+create-plugin-list.js  generate-types.js  release-channel.js  release-notes.js	type-utils.js
+
+./nextjs-app/node_modules/tailwindcss/src:
+cli  cli.js  cli-peer-dependencies.js  corePluginList.js  corePlugins.js  css  featureFlags.js	index.js  lib  plugin.js  postcss-plugins  processTailwindFeatures.js  public  util  value-parser
+
+./nextjs-app/node_modules/tailwindcss/src/cli:
+build  help  index.js  init
+
+./nextjs-app/node_modules/tailwindcss/src/cli/build:
+deps.js  index.js  plugin.js  utils.js	watching.js
+
+./nextjs-app/node_modules/tailwindcss/src/cli/help:
+index.js
+
+./nextjs-app/node_modules/tailwindcss/src/cli/init:
+index.js
+
+./nextjs-app/node_modules/tailwindcss/src/css:
+LICENSE  preflight.css
+
+./nextjs-app/node_modules/tailwindcss/src/lib:
+cacheInvalidation.js		  defaultExtractor.js		findAtConfigPath.js	  normalizeTailwindDirectives.js  remap-bitfield.js	     sharedState.js
+collapseAdjacentRules.js	  evaluateTailwindFunctions.js	generateRules.js	  offsets.js			  resolveDefaultsAtRules.js  substituteScreenAtRules.js
+collapseDuplicateDeclarations.js  expandApplyAtRules.js		getModuleDependencies.js  partitionApplyAtRules.js	  setupContextUtils.js
+content.js			  expandTailwindAtRules.js	load-config.ts		  regex.js			  setupTrackingContext.js
+
+./nextjs-app/node_modules/tailwindcss/src/postcss-plugins:
+nesting
+
+./nextjs-app/node_modules/tailwindcss/src/postcss-plugins/nesting:
+index.js  plugin.js  README.md
+
+./nextjs-app/node_modules/tailwindcss/src/public:
+colors.js  create-plugin.js  default-config.js	default-theme.js  load-config.js  resolve-config.js
+
+./nextjs-app/node_modules/tailwindcss/src/util:
+applyImportantSelector.js  configurePlugins.js	   flattenColorPalette.js		 log.js			 parseDependency.js	  resolveConfig.js	  transformThemeValue.js
+bigSign.js		   createPlugin.js	   formatVariantSelector.js		 nameClass.js		 parseGlob.js		  resolveConfigPath.js	  validateConfig.js
+buildMediaQuery.js	   createUtilityPlugin.js  getAllConfigs.js			 negateValue.js		 parseObjectStyles.js	  responsive.js		  validateFormalSyntax.js
+cloneDeep.js		   dataTypes.js		   hashConfig.js			 normalizeConfig.js	 pluginUtils.js		  splitAtTopLevelOnly.js  withAlphaVariable.js
+cloneNodes.js		   defaults.js		   isKeyframeRule.js			 normalizeScreens.js	 prefixSelector.js	  tap.js
+color.js		   escapeClassName.js	   isPlainObject.js			 parseAnimationValue.js  pseudoElements.js	  toColorValue.js
+colorNames.js		   escapeCommas.js	   isSyntacticallyValidPropertyValue.js  parseBoxShadowValue.js  removeAlphaVariables.js  toPath.js
+
+./nextjs-app/node_modules/tailwindcss/src/value-parser:
+index.d.ts  index.js  LICENSE  parse.js  README.md  stringify.js  unit.js  walk.js
+
+./nextjs-app/node_modules/tailwindcss/stubs:
+config.full.js	config.simple.js  postcss.config.cjs  postcss.config.js  tailwind.config.cjs  tailwind.config.js  tailwind.config.ts
+
+./nextjs-app/node_modules/tailwindcss/types:
+config.d.ts  generated	index.d.ts
+
+./nextjs-app/node_modules/tailwindcss/types/generated:
+colors.d.ts  corePluginList.d.ts  default-theme.d.ts
+
+./nextjs-app/node_modules/tapable:
+lib  LICENSE  package.json  README.md  tapable.d.ts
+
+./nextjs-app/node_modules/tapable/lib:
+AsyncParallelBailHook.js  AsyncSeriesBailHook.js  AsyncSeriesLoopHook.js       HookCodeFactory.js  HookMap.js  MultiHook.js	SyncHook.js	 SyncWaterfallHook.js
+AsyncParallelHook.js	  AsyncSeriesHook.js	  AsyncSeriesWaterfallHook.js  Hook.js		   index.js    SyncBailHook.js	SyncLoopHook.js  util-browser.js
+
+./nextjs-app/node_modules/text-table:
+example  index.js  LICENSE  package.json  readme.markdown  test
+
+./nextjs-app/node_modules/text-table/example:
+align.js  center.js  dotalign.js  doubledot.js	table.js
+
+./nextjs-app/node_modules/text-table/test:
+align.js  ansi-colors.js  center.js  dotalign.js  doubledot.js	table.js
+
+./nextjs-app/node_modules/thenify:
+History.md  index.js  LICENSE  package.json  README.md
+
+./nextjs-app/node_modules/thenify-all:
+History.md  index.js  LICENSE  package.json  README.md
+
+./nextjs-app/node_modules/to-regex-range:
+index.js  LICENSE  package.json  README.md
+
+./nextjs-app/node_modules/ts-api-utils:
+lib  LICENSE.md  package.json  README.md
+
+./nextjs-app/node_modules/ts-api-utils/lib:
+index.cjs  index.cjs.map  index.d.cts  index.d.ts  index.js  index.js.map
+
+./nextjs-app/node_modules/tsconfig-paths:
+CHANGELOG.md  lib  LICENSE  package.json  README.md  register.js  src
+
+./nextjs-app/node_modules/tsconfig-paths/lib:
+config-loader.d.ts    filesystem.js	 index.js.map	       match-path-async.d.ts	match-path-sync.js	options.js.map	 __tests__	  tsconfig-loader.d.ts
+config-loader.js      filesystem.js.map  mapping-entry.d.ts    match-path-async.js	match-path-sync.js.map	register.d.ts	 try-path.d.ts	  tsconfig-loader.js
+config-loader.js.map  index.d.ts	 mapping-entry.js      match-path-async.js.map	options.d.ts		register.js	 try-path.js	  tsconfig-loader.js.map
+filesystem.d.ts       index.js		 mapping-entry.js.map  match-path-sync.d.ts	options.js		register.js.map  try-path.js.map
+
+./nextjs-app/node_modules/tsconfig-paths/lib/__tests__:
+config-loader.test.d.ts    filesystem.test.d.ts     mapping-entry.test.js	match-path-async.test.js.map  try-path.test.d.ts	 tsconfig-loader.test.js
+config-loader.test.js	   filesystem.test.js	    mapping-entry.test.js.map	match-path-sync.test.d.ts     try-path.test.js		 tsconfig-loader.test.js.map
+config-loader.test.js.map  filesystem.test.js.map   match-path-async.test.d.ts	match-path-sync.test.js       try-path.test.js.map
+data			   mapping-entry.test.d.ts  match-path-async.test.js	match-path-sync.test.js.map   tsconfig-loader.test.d.ts
+
+./nextjs-app/node_modules/tsconfig-paths/lib/__tests__/data:
+match-path-data.d.ts  match-path-data.js  match-path-data.js.map
+
+./nextjs-app/node_modules/tsconfig-paths/src:
+config-loader.ts  filesystem.ts  index.ts  mapping-entry.ts  match-path-async.ts  match-path-sync.ts  options.ts  register.ts  __tests__  try-path.ts  tsconfig-loader.ts
+
+./nextjs-app/node_modules/tsconfig-paths/src/__tests__:
+config-loader.test.ts  data  filesystem.test.ts  mapping-entry.test.ts	match-path-async.test.ts  match-path-sync.test.ts  try-path.test.ts  tsconfig-loader.test.ts  tsconfig-named.json
+
+./nextjs-app/node_modules/tsconfig-paths/src/__tests__/data:
+match-path-data.ts
+
+./nextjs-app/node_modules/ts-interface-checker:
+dist  LICENSE  package.json  README.md
+
+./nextjs-app/node_modules/ts-interface-checker/dist:
+index.d.ts  index.js  types.d.ts  types.js  util.d.ts  util.js
+
+./nextjs-app/node_modules/tslib:
+CopyrightNotice.txt  LICENSE.txt  modules  package.json  README.md  SECURITY.md  tslib.d.ts  tslib.es6.html  tslib.es6.js  tslib.es6.mjs  tslib.html  tslib.js
+
+./nextjs-app/node_modules/tslib/modules:
+index.d.ts  index.js  package.json
+
+./nextjs-app/node_modules/type-check:
+lib  LICENSE  package.json  README.md
+
+./nextjs-app/node_modules/type-check/lib:
+check.js  index.js  parse-type.js
+
+./nextjs-app/node_modules/typed-array-buffer:
+CHANGELOG.md  index.d.ts  index.js  LICENSE  package.json  README.md  test  tsconfig.json
+
+./nextjs-app/node_modules/typed-array-buffer/test:
+index.js
+
+./nextjs-app/node_modules/typed-array-byte-length:
+CHANGELOG.md  index.d.ts  index.js  LICENSE  package.json  README.md  test  tsconfig.json
+
+./nextjs-app/node_modules/typed-array-byte-length/test:
+index.js
+
+./nextjs-app/node_modules/typed-array-byte-offset:
+CHANGELOG.md  index.d.ts  index.js  LICENSE  package.json  README.md  test  tsconfig.json
+
+./nextjs-app/node_modules/typed-array-byte-offset/test:
+index.js
+
+./nextjs-app/node_modules/typed-array-length:
+CHANGELOG.md  index.d.ts  index.js  LICENSE  package.json  README.md  test  tsconfig.json
+
+./nextjs-app/node_modules/typed-array-length/test:
+index.js
+
+./nextjs-app/node_modules/type-fest:
+base.d.ts  index.d.ts  license	package.json  readme.md  source  ts41
+
+./nextjs-app/node_modules/type-fest/source:
+asyncify.d.ts		 conditional-keys.d.ts	except.d.ts		 merge.d.ts	       package-json.d.ts   readonly-deep.d.ts	      set-required.d.ts     union-to-intersection.d.ts
+async-return-type.d.ts	 conditional-pick.d.ts	fixed-length-array.d.ts  merge-exclusive.d.ts  partial-deep.d.ts   require-at-least-one.d.ts  set-return-type.d.ts  utilities.d.ts
+basic.d.ts		 entries.d.ts		iterable-element.d.ts	 mutable.d.ts	       promisable.d.ts	   require-exactly-one.d.ts   stringified.d.ts	    value-of.d.ts
+conditional-except.d.ts  entry.d.ts		literal-union.d.ts	 opaque.d.ts	       promise-value.d.ts  set-optional.d.ts	      tsconfig-json.d.ts
+
+./nextjs-app/node_modules/type-fest/ts41:
+camel-case.d.ts  delimiter-case.d.ts  index.d.ts  kebab-case.d.ts  pascal-case.d.ts  snake-case.d.ts
+
+./nextjs-app/node_modules/@types:
+json5  node  prop-types  react	react-dom
+
+./nextjs-app/node_modules/@types/json5:
+index.d.ts  package.json  README.md  types-metadata.json
+
+./nextjs-app/node_modules/@types/node:
+assert		    cluster.d.ts    diagnostics_channel.d.ts  fs		       https.d.ts      os.d.ts		querystring.d.ts  stream	       tls.d.ts		  v8.d.ts
+assert.d.ts	    compatibility   dns			      fs.d.ts		       index.d.ts      package.json	readline	  stream.d.ts	       trace_events.d.ts  vm.d.ts
+async_hooks.d.ts    console.d.ts    dns.d.ts		      globals.d.ts	       inspector.d.ts  path.d.ts	readline.d.ts	  string_decoder.d.ts  ts5.6		  wasi.d.ts
+buffer.buffer.d.ts  constants.d.ts  domain.d.ts		      globals.typedarray.d.ts  LICENSE	       perf_hooks.d.ts	README.md	  test.d.ts	       tty.d.ts		  worker_threads.d.ts
+buffer.d.ts	    crypto.d.ts     dom-events.d.ts	      http2.d.ts	       module.d.ts     process.d.ts	repl.d.ts	  timers	       url.d.ts		  zlib.d.ts
+child_process.d.ts  dgram.d.ts	    events.d.ts		      http.d.ts		       net.d.ts        punycode.d.ts	sea.d.ts	  timers.d.ts	       util.d.ts
+
+./nextjs-app/node_modules/@types/node/assert:
+strict.d.ts
+
+./nextjs-app/node_modules/@types/node/compatibility:
+disposable.d.ts  indexable.d.ts  index.d.ts  iterators.d.ts
+
+./nextjs-app/node_modules/@types/node/dns:
+promises.d.ts
+
+./nextjs-app/node_modules/@types/node/fs:
+promises.d.ts
+
+./nextjs-app/node_modules/@types/node/readline:
+promises.d.ts
+
+./nextjs-app/node_modules/@types/node/stream:
+consumers.d.ts	promises.d.ts  web.d.ts
+
+./nextjs-app/node_modules/@types/node/timers:
+promises.d.ts
+
+./nextjs-app/node_modules/@types/node/ts5.6:
+buffer.buffer.d.ts  globals.typedarray.d.ts  index.d.ts
+
+./nextjs-app/node_modules/@types/prop-types:
+index.d.ts  LICENSE  package.json  README.md
+
+./nextjs-app/node_modules/@types/react:
+canary.d.ts  experimental.d.ts	global.d.ts  index.d.ts  jsx-dev-runtime.d.ts  jsx-runtime.d.ts  LICENSE  package.json	README.md  ts5.0
+
+./nextjs-app/node_modules/@types/react/ts5.0:
+canary.d.ts  experimental.d.ts	global.d.ts  index.d.ts  jsx-dev-runtime.d.ts  jsx-runtime.d.ts
+
+./nextjs-app/node_modules/@types/react-dom:
+canary.d.ts  client.d.ts  experimental.d.ts  index.d.ts  LICENSE  package.json	README.md  server.d.ts	test-utils
+
+./nextjs-app/node_modules/@types/react-dom/test-utils:
+index.d.ts
+
+./nextjs-app/node_modules/typescript:
+bin  lib  LICENSE.txt  package.json  README.md	SECURITY.md  ThirdPartyNoticeText.txt
+
+./nextjs-app/node_modules/typescript/bin:
+tsc  tsserver
+
+./nextjs-app/node_modules/typescript/lib:
+cancellationToken.js	    lib.es2015.promise.d.ts	      lib.es2018.d.ts	       lib.es2020.sharedmemory.d.ts	 lib.es2023.collection.d.ts  lib.webworker.asynciterable.d.ts
+cs			    lib.es2015.proxy.d.ts	      lib.es2018.full.d.ts     lib.es2020.string.d.ts		 lib.es2023.d.ts	     lib.webworker.d.ts
+de			    lib.es2015.reflect.d.ts	      lib.es2018.intl.d.ts     lib.es2020.symbol.wellknown.d.ts  lib.es2023.full.d.ts	     lib.webworker.importscripts.d.ts
+es			    lib.es2015.symbol.d.ts	      lib.es2018.promise.d.ts  lib.es2021.d.ts			 lib.es2023.intl.d.ts	     lib.webworker.iterable.d.ts
+fr			    lib.es2015.symbol.wellknown.d.ts  lib.es2018.regexp.d.ts   lib.es2021.full.d.ts		 lib.es5.d.ts		     pl
+it			    lib.es2016.array.include.d.ts     lib.es2019.array.d.ts    lib.es2021.intl.d.ts		 lib.es6.d.ts		     pt-br
+ja			    lib.es2016.d.ts		      lib.es2019.d.ts	       lib.es2021.promise.d.ts		 lib.esnext.array.d.ts	     ru
+ko			    lib.es2016.full.d.ts	      lib.es2019.full.d.ts     lib.es2021.string.d.ts		 lib.esnext.collection.d.ts  tr
+lib.decorators.d.ts	    lib.es2016.intl.d.ts	      lib.es2019.intl.d.ts     lib.es2021.weakref.d.ts		 lib.esnext.decorators.d.ts  tsc.js
+lib.decorators.legacy.d.ts  lib.es2017.date.d.ts	      lib.es2019.object.d.ts   lib.es2022.array.d.ts		 lib.esnext.disposable.d.ts  tsserver.js
+lib.dom.asynciterable.d.ts  lib.es2017.d.ts		      lib.es2019.string.d.ts   lib.es2022.d.ts			 lib.esnext.d.ts	     tsserverlibrary.d.ts
+lib.dom.d.ts		    lib.es2017.full.d.ts	      lib.es2019.symbol.d.ts   lib.es2022.error.d.ts		 lib.esnext.full.d.ts	     tsserverlibrary.js
+lib.dom.iterable.d.ts	    lib.es2017.intl.d.ts	      lib.es2020.bigint.d.ts   lib.es2022.full.d.ts		 lib.esnext.intl.d.ts	     typescript.d.ts
+lib.d.ts		    lib.es2017.object.d.ts	      lib.es2020.date.d.ts     lib.es2022.intl.d.ts		 lib.esnext.iterator.d.ts    typescript.js
+lib.es2015.collection.d.ts  lib.es2017.sharedmemory.d.ts      lib.es2020.d.ts	       lib.es2022.object.d.ts		 lib.esnext.object.d.ts      typesMap.json
+lib.es2015.core.d.ts	    lib.es2017.string.d.ts	      lib.es2020.full.d.ts     lib.es2022.regexp.d.ts		 lib.esnext.promise.d.ts     typingsInstaller.js
+lib.es2015.d.ts		    lib.es2017.typedarrays.d.ts       lib.es2020.intl.d.ts     lib.es2022.sharedmemory.d.ts	 lib.esnext.regexp.d.ts      watchGuard.js
+lib.es2015.generator.d.ts   lib.es2018.asyncgenerator.d.ts    lib.es2020.number.d.ts   lib.es2022.string.d.ts		 lib.esnext.string.d.ts      zh-cn
+lib.es2015.iterable.d.ts    lib.es2018.asynciterable.d.ts     lib.es2020.promise.d.ts  lib.es2023.array.d.ts		 lib.scripthost.d.ts	     zh-tw
+
+./nextjs-app/node_modules/typescript/lib/cs:
+diagnosticMessages.generated.json
+
+./nextjs-app/node_modules/typescript/lib/de:
+diagnosticMessages.generated.json
+
+./nextjs-app/node_modules/typescript/lib/es:
+diagnosticMessages.generated.json
+
+./nextjs-app/node_modules/typescript/lib/fr:
+diagnosticMessages.generated.json
+
+./nextjs-app/node_modules/typescript/lib/it:
+diagnosticMessages.generated.json
+
+./nextjs-app/node_modules/typescript/lib/ja:
+diagnosticMessages.generated.json
+
+./nextjs-app/node_modules/typescript/lib/ko:
+diagnosticMessages.generated.json
+
+./nextjs-app/node_modules/typescript/lib/pl:
+diagnosticMessages.generated.json
+
+./nextjs-app/node_modules/typescript/lib/pt-br:
+diagnosticMessages.generated.json
+
+./nextjs-app/node_modules/typescript/lib/ru:
+diagnosticMessages.generated.json
+
+./nextjs-app/node_modules/typescript/lib/tr:
+diagnosticMessages.generated.json
+
+./nextjs-app/node_modules/typescript/lib/zh-cn:
+diagnosticMessages.generated.json
+
+./nextjs-app/node_modules/typescript/lib/zh-tw:
+diagnosticMessages.generated.json
+
+./nextjs-app/node_modules/@typescript-eslint:
+eslint-plugin  parser  scope-manager  types  typescript-estree	type-utils  utils  visitor-keys
+
+./nextjs-app/node_modules/@typescript-eslint/eslint-plugin:
+dist  docs  eslint-recommended-raw.d.ts  index.d.ts  LICENSE  package.json  README.md  rules.d.ts
+
+./nextjs-app/node_modules/@typescript-eslint/eslint-plugin/dist:
+configs  index.js  index.js.map  rules	util
+
+./nextjs-app/node_modules/@typescript-eslint/eslint-plugin/dist/configs:
+all.js	     disable-type-checked.js	  eslint-recommended-raw.js	 recommended-type-checked.js	       strict.js		   strict-type-checked-only.js	    stylistic-type-checked.js
+all.js.map   disable-type-checked.js.map  eslint-recommended-raw.js.map  recommended-type-checked.js.map       strict.js.map		   strict-type-checked-only.js.map  stylistic-type-checked.js.map
+base.js      eslint-recommended.js	  recommended.js		 recommended-type-checked-only.js      strict-type-checked.js	   stylistic.js			    stylistic-type-checked-only.js
+base.js.map  eslint-recommended.js.map	  recommended.js.map		 recommended-type-checked-only.js.map  strict-type-checked.js.map  stylistic.js.map		    stylistic-type-checked-only.js.map
+
+./nextjs-app/node_modules/@typescript-eslint/eslint-plugin/dist/rules:
+adjacent-overload-signatures.js		no-dupe-class-members.js.map			no-restricted-types.js				     prefer-destructuring.js.map
+adjacent-overload-signatures.js.map	no-duplicate-enum-values.js			no-restricted-types.js.map			     prefer-enum-initializers.js
+array-type.js				no-duplicate-enum-values.js.map			no-shadow.js					     prefer-enum-initializers.js.map
+array-type.js.map			no-duplicate-type-constituents.js		no-shadow.js.map				     prefer-find.js
+await-thenable.js			no-duplicate-type-constituents.js.map		no-this-alias.js				     prefer-find.js.map
+await-thenable.js.map			no-dynamic-delete.js				no-this-alias.js.map				     prefer-for-of.js
+ban-ts-comment.js			no-dynamic-delete.js.map			no-type-alias.js				     prefer-for-of.js.map
+ban-ts-comment.js.map			no-empty-function.js				no-type-alias.js.map				     prefer-function-type.js
+ban-tslint-comment.js			no-empty-function.js.map			no-unnecessary-boolean-literal-compare.js	     prefer-function-type.js.map
+ban-tslint-comment.js.map		no-empty-interface.js				no-unnecessary-boolean-literal-compare.js.map	     prefer-includes.js
+class-literal-property-style.js		no-empty-interface.js.map			no-unnecessary-condition.js			     prefer-includes.js.map
+class-literal-property-style.js.map	no-empty-object-type.js				no-unnecessary-condition.js.map			     prefer-literal-enum-member.js
+class-methods-use-this.js		no-empty-object-type.js.map			no-unnecessary-parameter-property-assignment.js      prefer-literal-enum-member.js.map
+class-methods-use-this.js.map		no-explicit-any.js				no-unnecessary-parameter-property-assignment.js.map  prefer-namespace-keyword.js
+consistent-generic-constructors.js	no-explicit-any.js.map				no-unnecessary-qualifier.js			     prefer-namespace-keyword.js.map
+consistent-generic-constructors.js.map	no-extraneous-class.js				no-unnecessary-qualifier.js.map			     prefer-nullish-coalescing.js
+consistent-indexed-object-style.js	no-extraneous-class.js.map			no-unnecessary-template-expression.js		     prefer-nullish-coalescing.js.map
+consistent-indexed-object-style.js.map	no-extra-non-null-assertion.js			no-unnecessary-template-expression.js.map	     prefer-optional-chain.js
+consistent-return.js			no-extra-non-null-assertion.js.map		no-unnecessary-type-arguments.js		     prefer-optional-chain.js.map
+consistent-return.js.map		no-floating-promises.js				no-unnecessary-type-arguments.js.map		     prefer-optional-chain-utils
+consistent-type-assertions.js		no-floating-promises.js.map			no-unnecessary-type-assertion.js		     prefer-promise-reject-errors.js
+consistent-type-assertions.js.map	no-for-in-array.js				no-unnecessary-type-assertion.js.map		     prefer-promise-reject-errors.js.map
+consistent-type-definitions.js		no-for-in-array.js.map				no-unnecessary-type-constraint.js		     prefer-readonly.js
+consistent-type-definitions.js.map	no-implied-eval.js				no-unnecessary-type-constraint.js.map		     prefer-readonly.js.map
+consistent-type-exports.js		no-implied-eval.js.map				no-unnecessary-type-parameters.js		     prefer-readonly-parameter-types.js
+consistent-type-exports.js.map		no-import-type-side-effects.js			no-unnecessary-type-parameters.js.map		     prefer-readonly-parameter-types.js.map
+consistent-type-imports.js		no-import-type-side-effects.js.map		no-unsafe-argument.js				     prefer-reduce-type-parameter.js
+consistent-type-imports.js.map		no-inferrable-types.js				no-unsafe-argument.js.map			     prefer-reduce-type-parameter.js.map
+default-param-last.js			no-inferrable-types.js.map			no-unsafe-assignment.js				     prefer-regexp-exec.js
+default-param-last.js.map		no-invalid-this.js				no-unsafe-assignment.js.map			     prefer-regexp-exec.js.map
+dot-notation.js				no-invalid-this.js.map				no-unsafe-call.js				     prefer-return-this-type.js
+dot-notation.js.map			no-invalid-void-type.js				no-unsafe-call.js.map				     prefer-return-this-type.js.map
+enum-utils				no-invalid-void-type.js.map			no-unsafe-declaration-merging.js		     prefer-string-starts-ends-with.js
+explicit-function-return-type.js	no-loop-func.js					no-unsafe-declaration-merging.js.map		     prefer-string-starts-ends-with.js.map
+explicit-function-return-type.js.map	no-loop-func.js.map				no-unsafe-enum-comparison.js			     prefer-ts-expect-error.js
+explicit-member-accessibility.js	no-loss-of-precision.js				no-unsafe-enum-comparison.js.map		     prefer-ts-expect-error.js.map
+explicit-member-accessibility.js.map	no-loss-of-precision.js.map			no-unsafe-function-type.js			     promise-function-async.js
+explicit-module-boundary-types.js	no-magic-numbers.js				no-unsafe-function-type.js.map			     promise-function-async.js.map
+explicit-module-boundary-types.js.map	no-magic-numbers.js.map				no-unsafe-member-access.js			     require-array-sort-compare.js
+index.js				no-meaningless-void-operator.js			no-unsafe-member-access.js.map			     require-array-sort-compare.js.map
+index.js.map				no-meaningless-void-operator.js.map		no-unsafe-return.js				     require-await.js
+init-declarations.js			no-misused-new.js				no-unsafe-return.js.map				     require-await.js.map
+init-declarations.js.map		no-misused-new.js.map				no-unsafe-unary-minus.js			     restrict-plus-operands.js
+max-params.js				no-misused-promises.js				no-unsafe-unary-minus.js.map			     restrict-plus-operands.js.map
+max-params.js.map			no-misused-promises.js.map			no-unused-expressions.js			     restrict-template-expressions.js
+member-ordering.js			no-mixed-enums.js				no-unused-expressions.js.map			     restrict-template-expressions.js.map
+member-ordering.js.map			no-mixed-enums.js.map				no-unused-vars.js				     return-await.js
+method-signature-style.js		no-namespace.js					no-unused-vars.js.map				     return-await.js.map
+method-signature-style.js.map		no-namespace.js.map				no-use-before-define.js				     sort-type-constituents.js
+naming-convention.js			non-nullable-type-assertion-style.js		no-use-before-define.js.map			     sort-type-constituents.js.map
+naming-convention.js.map		non-nullable-type-assertion-style.js.map	no-useless-constructor.js			     strict-boolean-expressions.js
+naming-convention-utils			no-non-null-asserted-nullish-coalescing.js	no-useless-constructor.js.map			     strict-boolean-expressions.js.map
+no-array-constructor.js			no-non-null-asserted-nullish-coalescing.js.map	no-useless-empty-export.js			     switch-exhaustiveness-check.js
+no-array-constructor.js.map		no-non-null-asserted-optional-chain.js		no-useless-empty-export.js.map			     switch-exhaustiveness-check.js.map
+no-array-delete.js			no-non-null-asserted-optional-chain.js.map	no-var-requires.js				     triple-slash-reference.js
+no-array-delete.js.map			no-non-null-assertion.js			no-var-requires.js.map				     triple-slash-reference.js.map
+no-base-to-string.js			no-non-null-assertion.js.map			no-wrapper-object-types.js			     typedef.js
+no-base-to-string.js.map		no-redeclare.js					no-wrapper-object-types.js.map			     typedef.js.map
+no-confusing-non-null-assertion.js	no-redeclare.js.map				only-throw-error.js				     unbound-method.js
+no-confusing-non-null-assertion.js.map	no-redundant-type-constituents.js		only-throw-error.js.map				     unbound-method.js.map
+no-confusing-void-expression.js		no-redundant-type-constituents.js.map		parameter-properties.js				     unified-signatures.js
+no-confusing-void-expression.js.map	no-require-imports.js				parameter-properties.js.map			     unified-signatures.js.map
+no-deprecated.js			no-require-imports.js.map			prefer-as-const.js				     use-unknown-in-catch-callback-variable.js
+no-deprecated.js.map			no-restricted-imports.js			prefer-as-const.js.map				     use-unknown-in-catch-callback-variable.js.map
+no-dupe-class-members.js		no-restricted-imports.js.map			prefer-destructuring.js
+
+./nextjs-app/node_modules/@typescript-eslint/eslint-plugin/dist/rules/enum-utils:
+shared.js  shared.js.map
+
+./nextjs-app/node_modules/@typescript-eslint/eslint-plugin/dist/rules/naming-convention-utils:
+enums.js      format.js      index.js	   parse-options.js	 schema.js	shared.js      types.js      validator.js
+enums.js.map  format.js.map  index.js.map  parse-options.js.map  schema.js.map	shared.js.map  types.js.map  validator.js.map
+
+./nextjs-app/node_modules/@typescript-eslint/eslint-plugin/dist/rules/prefer-optional-chain-utils:
+analyzeChain.js      checkNullishAndReport.js	   compareNodes.js	gatherLogicalOperands.js      PreferOptionalChainOptions.js
+analyzeChain.js.map  checkNullishAndReport.js.map  compareNodes.js.map	gatherLogicalOperands.js.map  PreferOptionalChainOptions.js.map
+
+./nextjs-app/node_modules/@typescript-eslint/eslint-plugin/dist/util:
+assertionFunctionUtils.js      explicitReturnTypeUtils.js.map  getOperatorPrecedence.js       getWrappedCode.js.map		     isNullLiteral.js			  needsPrecedingSemiColon.js.map
+assertionFunctionUtils.js.map  getESLintCoreRule.js	       getOperatorPrecedence.js.map   getWrappingFixer.js		     isNullLiteral.js.map		  objectIterators.js
+astUtils.js		       getESLintCoreRule.js.map        getStaticStringValue.js	      getWrappingFixer.js.map		     isStartOfExpressionStatement.js	  objectIterators.js.map
+astUtils.js.map		       getFixOrSuggest.js	       getStaticStringValue.js.map    index.js				     isStartOfExpressionStatement.js.map  rangeToLoc.js
+collectUnusedVariables.js      getFixOrSuggest.js.map	       getStringLength.js	      index.js.map			     isTypeImport.js			  rangeToLoc.js.map
+collectUnusedVariables.js.map  getForStatementHeadLoc.js       getStringLength.js.map	      isArrayMethodCallWithPredicate.js      isTypeImport.js.map		  referenceContainsTypeQuery.js
+createRule.js		       getForStatementHeadLoc.js.map   getTextWithParentheses.js      isArrayMethodCallWithPredicate.js.map  isUndefinedIdentifier.js		  referenceContainsTypeQuery.js.map
+createRule.js.map	       getFunctionHeadLoc.js	       getTextWithParentheses.js.map  isAssignee.js			     isUndefinedIdentifier.js.map	  scopeUtils.js
+escapeRegExp.js		       getFunctionHeadLoc.js.map       getThisExpression.js	      isAssignee.js.map			     misc.js				  scopeUtils.js.map
+escapeRegExp.js.map	       getMemberHeadLoc.js	       getThisExpression.js.map       isNodeEqual.js			     misc.js.map			  types.js
+explicitReturnTypeUtils.js     getMemberHeadLoc.js.map	       getWrappedCode.js	      isNodeEqual.js.map		     needsPrecedingSemiColon.js		  types.js.map
+
+./nextjs-app/node_modules/@typescript-eslint/eslint-plugin/docs:
+rules
+
+./nextjs-app/node_modules/@typescript-eslint/eslint-plugin/docs/rules:
+adjacent-overload-signatures.mdx     max-params.mdx			  no-loss-of-precision.mdx			    no-unsafe-declaration-merging.mdx	 prefer-reduce-type-parameter.mdx
+array-type.mdx			     member-delimiter-style.md		  no-magic-numbers.mdx				    no-unsafe-enum-comparison.mdx	 prefer-regexp-exec.mdx
+await-thenable.mdx		     member-ordering.mdx		  no-meaningless-void-operator.mdx		    no-unsafe-function-type.mdx		 prefer-return-this-type.mdx
+ban-ts-comment.mdx		     method-signature-style.mdx		  no-misused-new.mdx				    no-unsafe-member-access.mdx		 prefer-string-starts-ends-with.mdx
+ban-tslint-comment.mdx		     naming-convention.mdx		  no-misused-promises.mdx			    no-unsafe-return.mdx		 prefer-ts-expect-error.mdx
+ban-types.md			     no-array-constructor.mdx		  no-mixed-enums.mdx				    no-unsafe-unary-minus.mdx		 promise-function-async.mdx
+block-spacing.md		     no-array-delete.mdx		  no-namespace.mdx				    no-unused-expressions.mdx		 quotes.md
+brace-style.md			     no-base-to-string.mdx		  non-nullable-type-assertion-style.mdx		    no-unused-vars.mdx			 README.md
+camelcase.md			     no-confusing-non-null-assertion.mdx  no-non-null-asserted-nullish-coalescing.mdx	    no-use-before-define.mdx		 require-array-sort-compare.mdx
+class-literal-property-style.mdx     no-confusing-void-expression.mdx	  no-non-null-asserted-optional-chain.mdx	    no-useless-constructor.mdx		 require-await.mdx
+class-methods-use-this.mdx	     no-deprecated.mdx			  no-non-null-assertion.mdx			    no-useless-empty-export.mdx		 restrict-plus-operands.mdx
+comma-dangle.md			     no-dupe-class-members.mdx		  no-parameter-properties.mdx			    no-useless-template-literals.mdx	 restrict-template-expressions.mdx
+comma-spacing.md		     no-duplicate-enum-values.mdx	  no-redeclare.mdx				    no-var-requires.mdx			 return-await.mdx
+consistent-generic-constructors.mdx  no-duplicate-imports.mdx		  no-redundant-type-constituents.mdx		    no-wrapper-object-types.mdx		 semi.md
+consistent-indexed-object-style.mdx  no-duplicate-type-constituents.mdx   no-require-imports.mdx			    object-curly-spacing.md		 sort-type-constituents.mdx
+consistent-return.mdx		     no-dynamic-delete.mdx		  no-restricted-imports.mdx			    only-throw-error.mdx		 sort-type-union-intersection-members.mdx
+consistent-type-assertions.mdx	     no-empty-function.mdx		  no-restricted-types.mdx			    padding-line-between-statements.md	 space-before-blocks.md
+consistent-type-definitions.mdx      no-empty-interface.mdx		  no-shadow.mdx					    parameter-properties.mdx		 space-before-function-paren.md
+consistent-type-exports.mdx	     no-empty-object-type.mdx		  no-this-alias.mdx				    prefer-as-const.mdx			 space-infix-ops.md
+consistent-type-imports.mdx	     no-explicit-any.mdx		  no-type-alias.mdx				    prefer-destructuring.mdx		 strict-boolean-expressions.mdx
+default-param-last.mdx		     no-extraneous-class.mdx		  no-unnecessary-boolean-literal-compare.mdx	    prefer-enum-initializers.mdx	 switch-exhaustiveness-check.mdx
+dot-notation.mdx		     no-extra-non-null-assertion.mdx	  no-unnecessary-condition.mdx			    prefer-find.mdx			 TEMPLATE.md
+explicit-function-return-type.mdx    no-extra-parens.md			  no-unnecessary-parameter-property-assignment.mdx  prefer-for-of.mdx			 triple-slash-reference.mdx
+explicit-member-accessibility.mdx    no-extra-semi.md			  no-unnecessary-qualifier.mdx			    prefer-function-type.mdx		 type-annotation-spacing.md
+explicit-module-boundary-types.mdx   no-floating-promises.mdx		  no-unnecessary-template-expression.mdx	    prefer-includes.mdx			 typedef.mdx
+func-call-spacing.md		     no-for-in-array.mdx		  no-unnecessary-type-arguments.mdx		    prefer-literal-enum-member.mdx	 unbound-method.mdx
+indent.md			     no-implied-eval.mdx		  no-unnecessary-type-assertion.mdx		    prefer-namespace-keyword.mdx	 unified-signatures.mdx
+init-declarations.mdx		     no-import-type-side-effects.mdx	  no-unnecessary-type-constraint.mdx		    prefer-nullish-coalescing.mdx	 use-unknown-in-catch-callback-variable.mdx
+key-spacing.md			     no-inferrable-types.mdx		  no-unnecessary-type-parameters.mdx		    prefer-optional-chain.mdx
+keyword-spacing.md		     no-invalid-this.mdx		  no-unsafe-argument.mdx			    prefer-promise-reject-errors.mdx
+lines-around-comment.md		     no-invalid-void-type.mdx		  no-unsafe-assignment.mdx			    prefer-readonly.mdx
+lines-between-class-members.md	     no-loop-func.mdx			  no-unsafe-call.mdx				    prefer-readonly-parameter-types.mdx
+
+./nextjs-app/node_modules/@typescript-eslint/parser:
+dist  LICENSE  package.json  README.md
+
+./nextjs-app/node_modules/@typescript-eslint/parser/dist:
+index.d.ts  index.d.ts.map  index.js  index.js.map  parser.d.ts  parser.d.ts.map  parser.js  parser.js.map
+
+./nextjs-app/node_modules/@typescript-eslint/scope-manager:
+dist  LICENSE  package.json  README.md
+
+./nextjs-app/node_modules/@typescript-eslint/scope-manager/dist:
+analyze.d.ts	  analyze.js	  assert.d.ts	   assert.js	  definition  ID.d.ts.map  ID.js.map   index.d.ts.map  index.js.map  referencer  ScopeManager.d.ts	ScopeManager.js      variable
+analyze.d.ts.map  analyze.js.map  assert.d.ts.map  assert.js.map  ID.d.ts     ID.js	   index.d.ts  index.js        lib	     scope	 ScopeManager.d.ts.map	ScopeManager.js.map
+
+./nextjs-app/node_modules/@typescript-eslint/scope-manager/dist/definition:
+CatchClauseDefinition.d.ts	DefinitionBase.js	 FunctionNameDefinition.d.ts		    ImportBindingDefinition.js	    TSEnumMemberDefinition.d.ts      TSModuleNameDefinition.js
+CatchClauseDefinition.d.ts.map	DefinitionBase.js.map	 FunctionNameDefinition.d.ts.map	    ImportBindingDefinition.js.map  TSEnumMemberDefinition.d.ts.map  TSModuleNameDefinition.js.map
+CatchClauseDefinition.js	Definition.d.ts		 FunctionNameDefinition.js		    index.d.ts			    TSEnumMemberDefinition.js	     TypeDefinition.d.ts
+CatchClauseDefinition.js.map	Definition.d.ts.map	 FunctionNameDefinition.js.map		    index.d.ts.map		    TSEnumMemberDefinition.js.map    TypeDefinition.d.ts.map
+ClassNameDefinition.d.ts	Definition.js		 ImplicitGlobalVariableDefinition.d.ts	    index.js			    TSEnumNameDefinition.d.ts	     TypeDefinition.js
+ClassNameDefinition.d.ts.map	Definition.js.map	 ImplicitGlobalVariableDefinition.d.ts.map  index.js.map		    TSEnumNameDefinition.d.ts.map    TypeDefinition.js.map
+ClassNameDefinition.js		DefinitionType.d.ts	 ImplicitGlobalVariableDefinition.js	    ParameterDefinition.d.ts	    TSEnumNameDefinition.js	     VariableDefinition.d.ts
+ClassNameDefinition.js.map	DefinitionType.d.ts.map  ImplicitGlobalVariableDefinition.js.map    ParameterDefinition.d.ts.map    TSEnumNameDefinition.js.map      VariableDefinition.d.ts.map
+DefinitionBase.d.ts		DefinitionType.js	 ImportBindingDefinition.d.ts		    ParameterDefinition.js	    TSModuleNameDefinition.d.ts      VariableDefinition.js
+DefinitionBase.d.ts.map		DefinitionType.js.map	 ImportBindingDefinition.d.ts.map	    ParameterDefinition.js.map	    TSModuleNameDefinition.d.ts.map  VariableDefinition.js.map
+
+./nextjs-app/node_modules/@typescript-eslint/scope-manager/dist/lib:
+base-config.d.ts		  es2016.array.include.js	  es2018.promise.d.ts		es2020.sharedmemory.js		  es2022.string.d.ts		 esnext.intl.d.ts
+base-config.d.ts.map		  es2016.array.include.js.map	  es2018.promise.d.ts.map	es2020.sharedmemory.js.map	  es2022.string.d.ts.map	 esnext.intl.d.ts.map
+base-config.js			  es2016.d.ts			  es2018.promise.js		es2020.string.d.ts		  es2022.string.js		 esnext.intl.js
+base-config.js.map		  es2016.d.ts.map		  es2018.promise.js.map		es2020.string.d.ts.map		  es2022.string.js.map		 esnext.intl.js.map
+decorators.d.ts			  es2016.full.d.ts		  es2018.regexp.d.ts		es2020.string.js		  es2023.array.d.ts		 esnext.iterator.d.ts
+decorators.d.ts.map		  es2016.full.d.ts.map		  es2018.regexp.d.ts.map	es2020.string.js.map		  es2023.array.d.ts.map		 esnext.iterator.d.ts.map
+decorators.js			  es2016.full.js		  es2018.regexp.js		es2020.symbol.wellknown.d.ts	  es2023.array.js		 esnext.iterator.js
+decorators.js.map		  es2016.full.js.map		  es2018.regexp.js.map		es2020.symbol.wellknown.d.ts.map  es2023.array.js.map		 esnext.iterator.js.map
+decorators.legacy.d.ts		  es2016.intl.d.ts		  es2019.array.d.ts		es2020.symbol.wellknown.js	  es2023.collection.d.ts	 esnext.js
+decorators.legacy.d.ts.map	  es2016.intl.d.ts.map		  es2019.array.d.ts.map		es2020.symbol.wellknown.js.map	  es2023.collection.d.ts.map	 esnext.js.map
+decorators.legacy.js		  es2016.intl.js		  es2019.array.js		es2021.d.ts			  es2023.collection.js		 esnext.object.d.ts
+decorators.legacy.js.map	  es2016.intl.js.map		  es2019.array.js.map		es2021.d.ts.map			  es2023.collection.js.map	 esnext.object.d.ts.map
+dom.asynciterable.d.ts		  es2016.js			  es2019.d.ts			es2021.full.d.ts		  es2023.d.ts			 esnext.object.js
+dom.asynciterable.d.ts.map	  es2016.js.map			  es2019.d.ts.map		es2021.full.d.ts.map		  es2023.d.ts.map		 esnext.object.js.map
+dom.asynciterable.js		  es2017.date.d.ts		  es2019.full.d.ts		es2021.full.js			  es2023.full.d.ts		 esnext.promise.d.ts
+dom.asynciterable.js.map	  es2017.date.d.ts.map		  es2019.full.d.ts.map		es2021.full.js.map		  es2023.full.d.ts.map		 esnext.promise.d.ts.map
+dom.d.ts			  es2017.date.js		  es2019.full.js		es2021.intl.d.ts		  es2023.full.js		 esnext.promise.js
+dom.d.ts.map			  es2017.date.js.map		  es2019.full.js.map		es2021.intl.d.ts.map		  es2023.full.js.map		 esnext.promise.js.map
+dom.iterable.d.ts		  es2017.d.ts			  es2019.intl.d.ts		es2021.intl.js			  es2023.intl.d.ts		 esnext.regexp.d.ts
+dom.iterable.d.ts.map		  es2017.d.ts.map		  es2019.intl.d.ts.map		es2021.intl.js.map		  es2023.intl.d.ts.map		 esnext.regexp.d.ts.map
+dom.iterable.js			  es2017.full.d.ts		  es2019.intl.js		es2021.js			  es2023.intl.js		 esnext.regexp.js
+dom.iterable.js.map		  es2017.full.d.ts.map		  es2019.intl.js.map		es2021.js.map			  es2023.intl.js.map		 esnext.regexp.js.map
+dom.js				  es2017.full.js		  es2019.js			es2021.promise.d.ts		  es2023.js			 esnext.string.d.ts
+dom.js.map			  es2017.full.js.map		  es2019.js.map			es2021.promise.d.ts.map		  es2023.js.map			 esnext.string.d.ts.map
+es2015.collection.d.ts		  es2017.intl.d.ts		  es2019.object.d.ts		es2021.promise.js		  es5.d.ts			 esnext.string.js
+es2015.collection.d.ts.map	  es2017.intl.d.ts.map		  es2019.object.d.ts.map	es2021.promise.js.map		  es5.d.ts.map			 esnext.string.js.map
+es2015.collection.js		  es2017.intl.js		  es2019.object.js		es2021.string.d.ts		  es5.js			 esnext.symbol.d.ts
+es2015.collection.js.map	  es2017.intl.js.map		  es2019.object.js.map		es2021.string.d.ts.map		  es5.js.map			 esnext.symbol.d.ts.map
+es2015.core.d.ts		  es2017.js			  es2019.string.d.ts		es2021.string.js		  es6.d.ts			 esnext.symbol.js
+es2015.core.d.ts.map		  es2017.js.map			  es2019.string.d.ts.map	es2021.string.js.map		  es6.d.ts.map			 esnext.symbol.js.map
+es2015.core.js			  es2017.object.d.ts		  es2019.string.js		es2021.weakref.d.ts		  es6.js			 esnext.weakref.d.ts
+es2015.core.js.map		  es2017.object.d.ts.map	  es2019.string.js.map		es2021.weakref.d.ts.map		  es6.js.map			 esnext.weakref.d.ts.map
+es2015.d.ts			  es2017.object.js		  es2019.symbol.d.ts		es2021.weakref.js		  es7.d.ts			 esnext.weakref.js
+es2015.d.ts.map			  es2017.object.js.map		  es2019.symbol.d.ts.map	es2021.weakref.js.map		  es7.d.ts.map			 esnext.weakref.js.map
+es2015.generator.d.ts		  es2017.sharedmemory.d.ts	  es2019.symbol.js		es2022.array.d.ts		  es7.js			 index.d.ts
+es2015.generator.d.ts.map	  es2017.sharedmemory.d.ts.map	  es2019.symbol.js.map		es2022.array.d.ts.map		  es7.js.map			 index.d.ts.map
+es2015.generator.js		  es2017.sharedmemory.js	  es2020.bigint.d.ts		es2022.array.js			  esnext.array.d.ts		 index.js
+es2015.generator.js.map		  es2017.sharedmemory.js.map	  es2020.bigint.d.ts.map	es2022.array.js.map		  esnext.array.d.ts.map		 index.js.map
+es2015.iterable.d.ts		  es2017.string.d.ts		  es2020.bigint.js		es2022.d.ts			  esnext.array.js		 lib.d.ts
+es2015.iterable.d.ts.map	  es2017.string.d.ts.map	  es2020.bigint.js.map		es2022.d.ts.map			  esnext.array.js.map		 lib.d.ts.map
+es2015.iterable.js		  es2017.string.js		  es2020.date.d.ts		es2022.error.d.ts		  esnext.asynciterable.d.ts	 lib.js
+es2015.iterable.js.map		  es2017.string.js.map		  es2020.date.d.ts.map		es2022.error.d.ts.map		  esnext.asynciterable.d.ts.map  lib.js.map
+es2015.js			  es2017.typedarrays.d.ts	  es2020.date.js		es2022.error.js			  esnext.asynciterable.js	 scripthost.d.ts
+es2015.js.map			  es2017.typedarrays.d.ts.map	  es2020.date.js.map		es2022.error.js.map		  esnext.asynciterable.js.map	 scripthost.d.ts.map
+es2015.promise.d.ts		  es2017.typedarrays.js		  es2020.d.ts			es2022.full.d.ts		  esnext.bigint.d.ts		 scripthost.js
+es2015.promise.d.ts.map		  es2017.typedarrays.js.map	  es2020.d.ts.map		es2022.full.d.ts.map		  esnext.bigint.d.ts.map	 scripthost.js.map
+es2015.promise.js		  es2018.asyncgenerator.d.ts	  es2020.full.d.ts		es2022.full.js			  esnext.bigint.js		 webworker.asynciterable.d.ts
+es2015.promise.js.map		  es2018.asyncgenerator.d.ts.map  es2020.full.d.ts.map		es2022.full.js.map		  esnext.bigint.js.map		 webworker.asynciterable.d.ts.map
+es2015.proxy.d.ts		  es2018.asyncgenerator.js	  es2020.full.js		es2022.intl.d.ts		  esnext.collection.d.ts	 webworker.asynciterable.js
+es2015.proxy.d.ts.map		  es2018.asyncgenerator.js.map	  es2020.full.js.map		es2022.intl.d.ts.map		  esnext.collection.d.ts.map	 webworker.asynciterable.js.map
+es2015.proxy.js			  es2018.asynciterable.d.ts	  es2020.intl.d.ts		es2022.intl.js			  esnext.collection.js		 webworker.d.ts
+es2015.proxy.js.map		  es2018.asynciterable.d.ts.map   es2020.intl.d.ts.map		es2022.intl.js.map		  esnext.collection.js.map	 webworker.d.ts.map
+es2015.reflect.d.ts		  es2018.asynciterable.js	  es2020.intl.js		es2022.js			  esnext.decorators.d.ts	 webworker.importscripts.d.ts
+es2015.reflect.d.ts.map		  es2018.asynciterable.js.map	  es2020.intl.js.map		es2022.js.map			  esnext.decorators.d.ts.map	 webworker.importscripts.d.ts.map
+es2015.reflect.js		  es2018.d.ts			  es2020.js			es2022.object.d.ts		  esnext.decorators.js		 webworker.importscripts.js
+es2015.reflect.js.map		  es2018.d.ts.map		  es2020.js.map			es2022.object.d.ts.map		  esnext.decorators.js.map	 webworker.importscripts.js.map
+es2015.symbol.d.ts		  es2018.full.d.ts		  es2020.number.d.ts		es2022.object.js		  esnext.disposable.d.ts	 webworker.iterable.d.ts
+es2015.symbol.d.ts.map		  es2018.full.d.ts.map		  es2020.number.d.ts.map	es2022.object.js.map		  esnext.disposable.d.ts.map	 webworker.iterable.d.ts.map
+es2015.symbol.js		  es2018.full.js		  es2020.number.js		es2022.regexp.d.ts		  esnext.disposable.js		 webworker.iterable.js
+es2015.symbol.js.map		  es2018.full.js.map		  es2020.number.js.map		es2022.regexp.d.ts.map		  esnext.disposable.js.map	 webworker.iterable.js.map
+es2015.symbol.wellknown.d.ts	  es2018.intl.d.ts		  es2020.promise.d.ts		es2022.regexp.js		  esnext.d.ts			 webworker.js
+es2015.symbol.wellknown.d.ts.map  es2018.intl.d.ts.map		  es2020.promise.d.ts.map	es2022.regexp.js.map		  esnext.d.ts.map		 webworker.js.map
+es2015.symbol.wellknown.js	  es2018.intl.js		  es2020.promise.js		es2022.sharedmemory.d.ts	  esnext.full.d.ts
+es2015.symbol.wellknown.js.map	  es2018.intl.js.map		  es2020.promise.js.map		es2022.sharedmemory.d.ts.map	  esnext.full.d.ts.map
+es2016.array.include.d.ts	  es2018.js			  es2020.sharedmemory.d.ts	es2022.sharedmemory.js		  esnext.full.js
+es2016.array.include.d.ts.map	  es2018.js.map			  es2020.sharedmemory.d.ts.map	es2022.sharedmemory.js.map	  esnext.full.js.map
+
+./nextjs-app/node_modules/@typescript-eslint/scope-manager/dist/referencer:
+ClassVisitor.d.ts      ExportVisitor.d.ts.map  ImportVisitor.js      index.js.map	      Reference.d.ts	  Referencer.d.ts.map	TypeVisitor.js	      VisitorBase.js.map
+ClassVisitor.d.ts.map  ExportVisitor.js        ImportVisitor.js.map  PatternVisitor.d.ts      Reference.d.ts.map  Referencer.js		TypeVisitor.js.map    Visitor.d.ts
+ClassVisitor.js        ExportVisitor.js.map    index.d.ts	     PatternVisitor.d.ts.map  Reference.js	  Referencer.js.map	VisitorBase.d.ts      Visitor.d.ts.map
+ClassVisitor.js.map    ImportVisitor.d.ts      index.d.ts.map	     PatternVisitor.js	      Reference.js.map	  TypeVisitor.d.ts	VisitorBase.d.ts.map  Visitor.js
+ExportVisitor.d.ts     ImportVisitor.d.ts.map  index.js		     PatternVisitor.js.map    Referencer.d.ts	  TypeVisitor.d.ts.map	VisitorBase.js	      Visitor.js.map
+
+./nextjs-app/node_modules/@typescript-eslint/scope-manager/dist/scope:
+BlockScope.d.ts			     ClassScope.d.ts.map	     ForScope.js			   FunctionTypeScope.js.map  ModuleScope.d.ts	   ScopeType.d.ts.map	   TSModuleScope.js
+BlockScope.d.ts.map		     ClassScope.js		     ForScope.js.map			   GlobalScope.d.ts	     ModuleScope.d.ts.map  ScopeType.js		   TSModuleScope.js.map
+BlockScope.js			     ClassScope.js.map		     FunctionExpressionNameScope.d.ts	   GlobalScope.d.ts.map      ModuleScope.js	   ScopeType.js.map	   TypeScope.d.ts
+BlockScope.js.map		     ClassStaticBlockScope.d.ts      FunctionExpressionNameScope.d.ts.map  GlobalScope.js	     ModuleScope.js.map    SwitchScope.d.ts	   TypeScope.d.ts.map
+CatchScope.d.ts			     ClassStaticBlockScope.d.ts.map  FunctionExpressionNameScope.js	   GlobalScope.js.map	     ScopeBase.d.ts	   SwitchScope.d.ts.map    TypeScope.js
+CatchScope.d.ts.map		     ClassStaticBlockScope.js	     FunctionExpressionNameScope.js.map    index.d.ts		     ScopeBase.d.ts.map    SwitchScope.js	   TypeScope.js.map
+CatchScope.js			     ClassStaticBlockScope.js.map    FunctionScope.d.ts			   index.d.ts.map	     ScopeBase.js	   SwitchScope.js.map	   WithScope.d.ts
+CatchScope.js.map		     ConditionalTypeScope.d.ts	     FunctionScope.d.ts.map		   index.js		     ScopeBase.js.map	   TSEnumScope.d.ts	   WithScope.d.ts.map
+ClassFieldInitializerScope.d.ts      ConditionalTypeScope.d.ts.map   FunctionScope.js			   index.js.map		     Scope.d.ts		   TSEnumScope.d.ts.map    WithScope.js
+ClassFieldInitializerScope.d.ts.map  ConditionalTypeScope.js	     FunctionScope.js.map		   MappedTypeScope.d.ts      Scope.d.ts.map	   TSEnumScope.js	   WithScope.js.map
+ClassFieldInitializerScope.js	     ConditionalTypeScope.js.map     FunctionTypeScope.d.ts		   MappedTypeScope.d.ts.map  Scope.js		   TSEnumScope.js.map
+ClassFieldInitializerScope.js.map    ForScope.d.ts		     FunctionTypeScope.d.ts.map		   MappedTypeScope.js	     Scope.js.map	   TSModuleScope.d.ts
+ClassScope.d.ts			     ForScope.d.ts.map		     FunctionTypeScope.js		   MappedTypeScope.js.map    ScopeType.d.ts	   TSModuleScope.d.ts.map
+
+./nextjs-app/node_modules/@typescript-eslint/scope-manager/dist/variable:
+ESLintScopeVariable.d.ts      ESLintScopeVariable.js.map    ImplicitLibVariable.js	index.d.ts.map	VariableBase.d.ts      VariableBase.js.map  Variable.js
+ESLintScopeVariable.d.ts.map  ImplicitLibVariable.d.ts	    ImplicitLibVariable.js.map	index.js	VariableBase.d.ts.map  Variable.d.ts	    Variable.js.map
+ESLintScopeVariable.js	      ImplicitLibVariable.d.ts.map  index.d.ts			index.js.map	VariableBase.js        Variable.d.ts.map
+
+./nextjs-app/node_modules/@typescript-eslint/types:
+dist  LICENSE  package.json  README.md
+
+./nextjs-app/node_modules/@typescript-eslint/types/dist:
+generated   index.d.ts.map  index.js.map  lib.d.ts.map	lib.js.map	     parser-options.d.ts.map  parser-options.js.map  ts-estree.d.ts.map  ts-estree.js.map
+index.d.ts  index.js	    lib.d.ts	  lib.js	parser-options.d.ts  parser-options.js	      ts-estree.d.ts	     ts-estree.js
+
+./nextjs-app/node_modules/@typescript-eslint/types/dist/generated:
+ast-spec.d.ts  ast-spec.d.ts.map  ast-spec.js  ast-spec.js.map
+
+./nextjs-app/node_modules/@typescript-eslint/typescript-estree:
+dist  LICENSE  node_modules  package.json  README.md
+
+./nextjs-app/node_modules/@typescript-eslint/typescript-estree/dist:
+ast-converter.d.ts	   convert.d.ts			  getModifiers.js.map  parser.js			      simple-traverse.d.ts.map	     useProgramFromProjectService.d.ts
+ast-converter.d.ts.map	   convert.d.ts.map		  index.d.ts	       parser.js.map			      simple-traverse.js	     useProgramFromProjectService.d.ts.map
+ast-converter.js	   convert.js			  index.d.ts.map       parser-options.d.ts		      simple-traverse.js.map	     useProgramFromProjectService.js
+ast-converter.js.map	   convert.js.map		  index.js	       parser-options.d.ts.map		      source-files.d.ts		     useProgramFromProjectService.js.map
+clear-caches.d.ts	   createParserServices.d.ts	  index.js.map	       parser-options.js		      source-files.d.ts.map	     version-check.d.ts
+clear-caches.d.ts.map	   createParserServices.d.ts.map  jsx		       parser-options.js.map		      source-files.js		     version-check.d.ts.map
+clear-caches.js		   createParserServices.js	  node-utils.d.ts      parseSettings			      source-files.js.map	     version-check.js
+clear-caches.js.map	   createParserServices.js.map	  node-utils.d.ts.map  semantic-or-syntactic-errors.d.ts      ts-estree			     version-check.js.map
+convert-comments.d.ts	   create-program		  node-utils.js        semantic-or-syntactic-errors.d.ts.map  use-at-your-own-risk.d.ts      withoutProjectParserOptions.d.ts
+convert-comments.d.ts.map  getModifiers.d.ts		  node-utils.js.map    semantic-or-syntactic-errors.js	      use-at-your-own-risk.d.ts.map  withoutProjectParserOptions.d.ts.map
+convert-comments.js	   getModifiers.d.ts.map	  parser.d.ts	       semantic-or-syntactic-errors.js.map    use-at-your-own-risk.js	     withoutProjectParserOptions.js
+convert-comments.js.map    getModifiers.js		  parser.d.ts.map      simple-traverse.d.ts		      use-at-your-own-risk.js.map    withoutProjectParserOptions.js.map
+
+./nextjs-app/node_modules/@typescript-eslint/typescript-estree/dist/create-program:
+createIsolatedProgram.d.ts	    createProjectProgram.js.map    describeFilePath.js		     getWatchProgramsForProjects.d.ts.map  validateDefaultProjectForFilesGlob.d.ts
+createIsolatedProgram.d.ts.map	    createProjectService.d.ts	   describeFilePath.js.map	     getWatchProgramsForProjects.js	   validateDefaultProjectForFilesGlob.d.ts.map
+createIsolatedProgram.js	    createProjectService.d.ts.map  getParsedConfigFile.d.ts	     getWatchProgramsForProjects.js.map    validateDefaultProjectForFilesGlob.js
+createIsolatedProgram.js.map	    createProjectService.js	   getParsedConfigFile.d.ts.map      shared.d.ts			   validateDefaultProjectForFilesGlob.js.map
+createProjectProgram.d.ts	    createProjectService.js.map    getParsedConfigFile.js	     shared.d.ts.map			   WatchCompilerHostOfConfigFile.d.ts
+createProjectProgram.d.ts.map	    createSourceFile.d.ts	   getParsedConfigFile.js.map	     shared.js				   WatchCompilerHostOfConfigFile.d.ts.map
+createProjectProgramError.d.ts	    createSourceFile.d.ts.map	   getScriptKind.d.ts		     shared.js.map			   WatchCompilerHostOfConfigFile.js
+createProjectProgramError.d.ts.map  createSourceFile.js		   getScriptKind.d.ts.map	     useProvidedPrograms.d.ts		   WatchCompilerHostOfConfigFile.js.map
+createProjectProgramError.js	    createSourceFile.js.map	   getScriptKind.js		     useProvidedPrograms.d.ts.map
+createProjectProgramError.js.map    describeFilePath.d.ts	   getScriptKind.js.map		     useProvidedPrograms.js
+createProjectProgram.js		    describeFilePath.d.ts.map	   getWatchProgramsForProjects.d.ts  useProvidedPrograms.js.map
+
+./nextjs-app/node_modules/@typescript-eslint/typescript-estree/dist/jsx:
+xhtml-entities.d.ts  xhtml-entities.d.ts.map  xhtml-entities.js  xhtml-entities.js.map
+
+./nextjs-app/node_modules/@typescript-eslint/typescript-estree/dist/parseSettings:
+createParseSettings.d.ts      ExpiringCache.d.ts      getProjectConfigFiles.d.ts      index.d.ts      inferSingleRun.d.ts      resolveProjectList.d.ts	    warnAboutTSVersion.d.ts
+createParseSettings.d.ts.map  ExpiringCache.d.ts.map  getProjectConfigFiles.d.ts.map  index.d.ts.map  inferSingleRun.d.ts.map  resolveProjectList.d.ts.map  warnAboutTSVersion.d.ts.map
+createParseSettings.js	      ExpiringCache.js	      getProjectConfigFiles.js	      index.js	      inferSingleRun.js        resolveProjectList.js	    warnAboutTSVersion.js
+createParseSettings.js.map    ExpiringCache.js.map    getProjectConfigFiles.js.map    index.js.map    inferSingleRun.js.map    resolveProjectList.js.map    warnAboutTSVersion.js.map
+
+./nextjs-app/node_modules/@typescript-eslint/typescript-estree/dist/ts-estree:
+estree-to-ts-node-types.d.ts	  estree-to-ts-node-types.js	  index.d.ts	  index.js	ts-nodes.d.ts	   ts-nodes.js
+estree-to-ts-node-types.d.ts.map  estree-to-ts-node-types.js.map  index.d.ts.map  index.js.map	ts-nodes.d.ts.map  ts-nodes.js.map
+
+./nextjs-app/node_modules/@typescript-eslint/typescript-estree/node_modules:
+brace-expansion  fast-glob  glob-parent  minimatch
+
+./nextjs-app/node_modules/@typescript-eslint/typescript-estree/node_modules/brace-expansion:
+index.js  LICENSE  package.json  README.md
+
+./nextjs-app/node_modules/@typescript-eslint/typescript-estree/node_modules/fast-glob:
+LICENSE  out  package.json  README.md
+
+./nextjs-app/node_modules/@typescript-eslint/typescript-estree/node_modules/fast-glob/out:
+index.d.ts  index.js  managers	providers  readers  settings.d.ts  settings.js	types  utils
+
+./nextjs-app/node_modules/@typescript-eslint/typescript-estree/node_modules/fast-glob/out/managers:
+tasks.d.ts  tasks.js
+
+./nextjs-app/node_modules/@typescript-eslint/typescript-estree/node_modules/fast-glob/out/providers:
+async.d.ts  async.js  filters  matchers  provider.d.ts	provider.js  stream.d.ts  stream.js  sync.d.ts	sync.js  transformers
+
+./nextjs-app/node_modules/@typescript-eslint/typescript-estree/node_modules/fast-glob/out/providers/filters:
+deep.d.ts  deep.js  entry.d.ts	entry.js  error.d.ts  error.js
+
+./nextjs-app/node_modules/@typescript-eslint/typescript-estree/node_modules/fast-glob/out/providers/matchers:
+matcher.d.ts  matcher.js  partial.d.ts	partial.js
+
+./nextjs-app/node_modules/@typescript-eslint/typescript-estree/node_modules/fast-glob/out/providers/transformers:
+entry.d.ts  entry.js
+
+./nextjs-app/node_modules/@typescript-eslint/typescript-estree/node_modules/fast-glob/out/readers:
+async.d.ts  async.js  reader.d.ts  reader.js  stream.d.ts  stream.js  sync.d.ts  sync.js
+
+./nextjs-app/node_modules/@typescript-eslint/typescript-estree/node_modules/fast-glob/out/types:
+index.d.ts  index.js
+
+./nextjs-app/node_modules/@typescript-eslint/typescript-estree/node_modules/fast-glob/out/utils:
+array.d.ts  array.js  errno.d.ts  errno.js  fs.d.ts  fs.js  index.d.ts	index.js  path.d.ts  path.js  pattern.d.ts  pattern.js	stream.d.ts  stream.js	string.d.ts  string.js
+
+./nextjs-app/node_modules/@typescript-eslint/typescript-estree/node_modules/glob-parent:
+CHANGELOG.md  index.js	LICENSE  package.json  README.md
+
+./nextjs-app/node_modules/@typescript-eslint/typescript-estree/node_modules/minimatch:
+dist  LICENSE  package.json  README.md
+
+./nextjs-app/node_modules/@typescript-eslint/typescript-estree/node_modules/minimatch/dist:
+commonjs  esm
+
+./nextjs-app/node_modules/@typescript-eslint/typescript-estree/node_modules/minimatch/dist/commonjs:
+assert-valid-pattern.d.ts      assert-valid-pattern.js.map  ast.js		    brace-expressions.d.ts.map	escape.d.ts	 escape.js.map	 index.js      unescape.d.ts	  unescape.js.map
+assert-valid-pattern.d.ts.map  ast.d.ts			    ast.js.map		    brace-expressions.js	escape.d.ts.map  index.d.ts	 index.js.map  unescape.d.ts.map
+assert-valid-pattern.js        ast.d.ts.map		    brace-expressions.d.ts  brace-expressions.js.map	escape.js	 index.d.ts.map  package.json  unescape.js
+
+./nextjs-app/node_modules/@typescript-eslint/typescript-estree/node_modules/minimatch/dist/esm:
+assert-valid-pattern.d.ts      assert-valid-pattern.js.map  ast.js		    brace-expressions.d.ts.map	escape.d.ts	 escape.js.map	 index.js      unescape.d.ts	  unescape.js.map
+assert-valid-pattern.d.ts.map  ast.d.ts			    ast.js.map		    brace-expressions.js	escape.d.ts.map  index.d.ts	 index.js.map  unescape.d.ts.map
+assert-valid-pattern.js        ast.d.ts.map		    brace-expressions.d.ts  brace-expressions.js.map	escape.js	 index.d.ts.map  package.json  unescape.js
+
+./nextjs-app/node_modules/@typescript-eslint/type-utils:
+dist  LICENSE  package.json  README.md
+
+./nextjs-app/node_modules/@typescript-eslint/type-utils/dist:
+builtinSymbolLikes.d.ts		       getConstrainedTypeAtLocation.js.map  getSourceFileOfNode.js	     isSymbolFromDefaultLibrary.d.ts.map  predicates.d.ts	    requiresQuoting.js.map
+builtinSymbolLikes.d.ts.map	       getContextualType.d.ts		    getSourceFileOfNode.js.map	     isSymbolFromDefaultLibrary.js	  predicates.d.ts.map	    typeFlagUtils.d.ts
+builtinSymbolLikes.js		       getContextualType.d.ts.map	    getTypeName.d.ts		     isSymbolFromDefaultLibrary.js.map	  predicates.js		    typeFlagUtils.d.ts.map
+builtinSymbolLikes.js.map	       getContextualType.js		    getTypeName.d.ts.map	     isTypeReadonly.d.ts		  predicates.js.map	    typeFlagUtils.js
+containsAllTypesByName.d.ts	       getContextualType.js.map		    getTypeName.js		     isTypeReadonly.d.ts.map		  propertyTypes.d.ts	    typeFlagUtils.js.map
+containsAllTypesByName.d.ts.map        getDeclaration.d.ts		    getTypeName.js.map		     isTypeReadonly.js			  propertyTypes.d.ts.map    TypeOrValueSpecifier.d.ts
+containsAllTypesByName.js	       getDeclaration.d.ts.map		    index.d.ts			     isTypeReadonly.js.map		  propertyTypes.js	    TypeOrValueSpecifier.d.ts.map
+containsAllTypesByName.js.map	       getDeclaration.js		    index.d.ts.map		     isUnsafeAssignment.d.ts		  propertyTypes.js.map	    TypeOrValueSpecifier.js
+getConstrainedTypeAtLocation.d.ts      getDeclaration.js.map		    index.js			     isUnsafeAssignment.d.ts.map	  requiresQuoting.d.ts	    TypeOrValueSpecifier.js.map
+getConstrainedTypeAtLocation.d.ts.map  getSourceFileOfNode.d.ts		    index.js.map		     isUnsafeAssignment.js		  requiresQuoting.d.ts.map  typeOrValueSpecifiers
+getConstrainedTypeAtLocation.js        getSourceFileOfNode.d.ts.map	    isSymbolFromDefaultLibrary.d.ts  isUnsafeAssignment.js.map		  requiresQuoting.js
+
+./nextjs-app/node_modules/@typescript-eslint/type-utils/dist/typeOrValueSpecifiers:
+specifierNameMatches.d.ts      specifierNameMatches.js.map  typeDeclaredInFile.js      typeDeclaredInLib.d.ts.map  typeDeclaredInPackageDeclarationFile.d.ts	  typeDeclaredInPackageDeclarationFile.js.map
+specifierNameMatches.d.ts.map  typeDeclaredInFile.d.ts	    typeDeclaredInFile.js.map  typeDeclaredInLib.js	   typeDeclaredInPackageDeclarationFile.d.ts.map
+specifierNameMatches.js        typeDeclaredInFile.d.ts.map  typeDeclaredInLib.d.ts     typeDeclaredInLib.js.map    typeDeclaredInPackageDeclarationFile.js
+
+./nextjs-app/node_modules/@typescript-eslint/utils:
+dist  LICENSE  package.json  README.md
+
+./nextjs-app/node_modules/@typescript-eslint/utils/dist:
+ast-utils     index.d.ts      index.js	    json-schema.d.ts	  json-schema.js      ts-eslint       ts-estree.d.ts.map  ts-estree.js.map
+eslint-utils  index.d.ts.map  index.js.map  json-schema.d.ts.map  json-schema.js.map  ts-estree.d.ts  ts-estree.js	  ts-utils
+
+./nextjs-app/node_modules/@typescript-eslint/utils/dist/ast-utils:
+eslint-utils  helpers.d.ts.map	helpers.js.map	index.d.ts.map	index.js.map  misc.d.ts.map  misc.js.map      predicates.d.ts.map  predicates.js.map
+helpers.d.ts  helpers.js	index.d.ts	index.js	misc.d.ts     misc.js	     predicates.d.ts  predicates.js
+
+./nextjs-app/node_modules/@typescript-eslint/utils/dist/ast-utils/eslint-utils:
+astUtilities.d.ts      astUtilities.js.map  index.js		 PatternMatcher.d.ts.map  predicates.d.ts      predicates.js.map	  ReferenceTracker.js	   scopeAnalysis.d.ts.map
+astUtilities.d.ts.map  index.d.ts	    index.js.map	 PatternMatcher.js	  predicates.d.ts.map  ReferenceTracker.d.ts	  ReferenceTracker.js.map  scopeAnalysis.js
+astUtilities.js        index.d.ts.map	    PatternMatcher.d.ts  PatternMatcher.js.map	  predicates.js        ReferenceTracker.d.ts.map  scopeAnalysis.d.ts	   scopeAnalysis.js.map
+
+./nextjs-app/node_modules/@typescript-eslint/utils/dist/eslint-utils:
+applyDefault.d.ts      deepMerge.d.ts	   getParserServices.d.ts      index.d.ts      InferTypesFromRule.d.ts	    nullThrows.d.ts	 parserSeemsToBeTSESLint.d.ts	   RuleCreator.d.ts
+applyDefault.d.ts.map  deepMerge.d.ts.map  getParserServices.d.ts.map  index.d.ts.map  InferTypesFromRule.d.ts.map  nullThrows.d.ts.map  parserSeemsToBeTSESLint.d.ts.map  RuleCreator.d.ts.map
+applyDefault.js        deepMerge.js	   getParserServices.js        index.js        InferTypesFromRule.js	    nullThrows.js	 parserSeemsToBeTSESLint.js	   RuleCreator.js
+applyDefault.js.map    deepMerge.js.map    getParserServices.js.map    index.js.map    InferTypesFromRule.js.map    nullThrows.js.map	 parserSeemsToBeTSESLint.js.map    RuleCreator.js.map
+
+./nextjs-app/node_modules/@typescript-eslint/utils/dist/ts-eslint:
+AST.d.ts      Config.d.ts.map  ESLint.d.ts.map	index.js	 Linter.js.map	  ParserOptions.d.ts	  Processor.d.ts.map  Rule.js		   RuleTester.js.map  SourceCode.d.ts
+AST.d.ts.map  Config.js        ESLint.js	index.js.map	 Parser.d.ts	  ParserOptions.d.ts.map  Processor.js	      Rule.js.map	   Scope.d.ts	      SourceCode.d.ts.map
+AST.js	      Config.js.map    ESLint.js.map	Linter.d.ts	 Parser.d.ts.map  ParserOptions.js	  Processor.js.map    RuleTester.d.ts	   Scope.d.ts.map     SourceCode.js
+AST.js.map    eslint	       index.d.ts	Linter.d.ts.map  Parser.js	  ParserOptions.js.map	  Rule.d.ts	      RuleTester.d.ts.map  Scope.js	      SourceCode.js.map
+Config.d.ts   ESLint.d.ts      index.d.ts.map	Linter.js	 Parser.js.map	  Processor.d.ts	  Rule.d.ts.map       RuleTester.js	   Scope.js.map
+
+./nextjs-app/node_modules/@typescript-eslint/utils/dist/ts-eslint/eslint:
+ESLintShared.d.ts      ESLintShared.js	    FlatESLint.d.ts	 FlatESLint.js	    LegacyESLint.d.ts	   LegacyESLint.js
+ESLintShared.d.ts.map  ESLintShared.js.map  FlatESLint.d.ts.map  FlatESLint.js.map  LegacyESLint.d.ts.map  LegacyESLint.js.map
+
+./nextjs-app/node_modules/@typescript-eslint/utils/dist/ts-utils:
+index.d.ts  index.d.ts.map  index.js  index.js.map  isArray.d.ts  isArray.d.ts.map  isArray.js	isArray.js.map
+
+./nextjs-app/node_modules/@typescript-eslint/visitor-keys:
+dist  LICENSE  package.json  README.md
+
+./nextjs-app/node_modules/@typescript-eslint/visitor-keys/dist:
+get-keys.d.ts  get-keys.d.ts.map  get-keys.js  get-keys.js.map	index.d.ts  index.d.ts.map  index.js  index.js.map  visitor-keys.d.ts  visitor-keys.d.ts.map  visitor-keys.js  visitor-keys.js.map
+
+./nextjs-app/node_modules/unbox-primitive:
+CHANGELOG.md  index.js	LICENSE  package.json  README.md  test
+
+./nextjs-app/node_modules/unbox-primitive/test:
+index.js
+
+./nextjs-app/node_modules/undici-types:
+agent.d.ts	    connector.d.ts	      env-http-proxy-agent.d.ts  filereader.d.ts	 header.d.ts	    mock-client.d.ts	   patch.d.ts	     README.md		 websocket.d.ts
+api.d.ts	    content-type.d.ts	      errors.d.ts		 formdata.d.ts		 index.d.ts	    mock-errors.d.ts	   pool.d.ts	     retry-agent.d.ts
+balanced-pool.d.ts  cookies.d.ts	      eventsource.d.ts		 global-dispatcher.d.ts  interceptors.d.ts  mock-interceptor.d.ts  pool-stats.d.ts   retry-handler.d.ts
+cache.d.ts	    diagnostics-channel.d.ts  fetch.d.ts		 global-origin.d.ts	 LICENSE	    mock-pool.d.ts	   proxy-agent.d.ts  util.d.ts
+client.d.ts	    dispatcher.d.ts	      file.d.ts			 handlers.d.ts		 mock-agent.d.ts    package.json	   readable.d.ts     webidl.d.ts
+
+./nextjs-app/node_modules/@ungap:
+structured-clone
+
+./nextjs-app/node_modules/@ungap/structured-clone:
+cjs  esm  LICENSE  package.json  README.md  structured-json.js
+
+./nextjs-app/node_modules/@ungap/structured-clone/cjs:
+deserialize.js	index.js  json.js  package.json  serialize.js  types.js
+
+./nextjs-app/node_modules/@ungap/structured-clone/esm:
+deserialize.js	index.js  json.js  serialize.js  types.js
+
+./nextjs-app/node_modules/uri-js:
+dist  LICENSE  package.json  README.md	yarn.lock
+
+./nextjs-app/node_modules/uri-js/dist:
+es5  esnext
+
+./nextjs-app/node_modules/uri-js/dist/es5:
+uri.all.d.ts  uri.all.js  uri.all.js.map  uri.all.min.d.ts  uri.all.min.js  uri.all.min.js.map
+
+./nextjs-app/node_modules/uri-js/dist/esnext:
+index.d.ts  index.js.map      regexps-iri.js	  regexps-uri.d.ts  regexps-uri.js.map	uri.d.ts  uri.js.map  util.js
+index.js    regexps-iri.d.ts  regexps-iri.js.map  regexps-uri.js    schemes		uri.js	  util.d.ts   util.js.map
+
+./nextjs-app/node_modules/uri-js/dist/esnext/schemes:
+http.d.ts  http.js.map	https.js      mailto.d.ts  mailto.js.map  urn.js      urn-uuid.d.ts  urn-uuid.js.map  ws.js	 wss.d.ts  wss.js.map
+http.js    https.d.ts	https.js.map  mailto.js    urn.d.ts	  urn.js.map  urn-uuid.js    ws.d.ts	      ws.js.map  wss.js
+
+./nextjs-app/node_modules/util-deprecate:
+browser.js  History.md	LICENSE  node.js  package.json	README.md
+
+./nextjs-app/node_modules/which:
+bin  CHANGELOG.md  LICENSE  package.json  README.md  which.js
+
+./nextjs-app/node_modules/which/bin:
+node-which
+
+./nextjs-app/node_modules/which-boxed-primitive:
+CHANGELOG.md  index.js	LICENSE  package.json  README.md  test
+
+./nextjs-app/node_modules/which-boxed-primitive/test:
+index.js
+
+./nextjs-app/node_modules/which-builtin-type:
+CHANGELOG.md  index.js	LICENSE  package.json  README.md  test
+
+./nextjs-app/node_modules/which-builtin-type/test:
+index.js
+
+./nextjs-app/node_modules/which-collection:
+CHANGELOG.md  index.d.ts  index.js  LICENSE  package.json  README.md  test  tsconfig.json
+
+./nextjs-app/node_modules/which-collection/test:
+index.js
+
+./nextjs-app/node_modules/which-typed-array:
+CHANGELOG.md  index.d.ts  index.js  LICENSE  package.json  README.md  test  tsconfig.json
+
+./nextjs-app/node_modules/which-typed-array/test:
+index.js
+
+./nextjs-app/node_modules/word-wrap:
+index.d.ts  index.js  LICENSE  package.json  README.md
+
+./nextjs-app/node_modules/wrap-ansi:
+index.d.ts  index.js  license  node_modules  package.json  readme.md
+
+./nextjs-app/node_modules/wrap-ansi/node_modules:
+ansi-regex  ansi-styles  strip-ansi
+
+./nextjs-app/node_modules/wrap-ansi/node_modules/ansi-regex:
+index.d.ts  index.js  license  package.json  readme.md
+
+./nextjs-app/node_modules/wrap-ansi/node_modules/ansi-styles:
+index.d.ts  index.js  license  package.json  readme.md
+
+./nextjs-app/node_modules/wrap-ansi/node_modules/strip-ansi:
+index.d.ts  index.js  license  package.json  readme.md
+
+./nextjs-app/node_modules/wrap-ansi-cjs:
+index.js  license  node_modules  package.json  readme.md
+
+./nextjs-app/node_modules/wrap-ansi-cjs/node_modules:
+emoji-regex  string-width
+
+./nextjs-app/node_modules/wrap-ansi-cjs/node_modules/emoji-regex:
+es2015	index.d.ts  index.js  LICENSE-MIT.txt  package.json  README.md	text.js
+
+./nextjs-app/node_modules/wrap-ansi-cjs/node_modules/emoji-regex/es2015:
+index.js  text.js
+
+./nextjs-app/node_modules/wrap-ansi-cjs/node_modules/string-width:
+index.d.ts  index.js  license  package.json  readme.md
+
+./nextjs-app/node_modules/wrappy:
+LICENSE  package.json  README.md  wrappy.js
+
+./nextjs-app/node_modules/yaml:
+bin.mjs  browser  dist	LICENSE  package.json  README.md  util.js
+
+./nextjs-app/node_modules/yaml/browser:
+dist  index.js	package.json
+
+./nextjs-app/node_modules/yaml/browser/dist:
+compose  doc  errors.js  index.js  log.js  nodes  parse  public-api.js	schema	stringify  util.js  visit.js
+
+./nextjs-app/node_modules/yaml/browser/dist/compose:
+compose-collection.js  compose-node.js	compose-scalar.js     resolve-block-scalar.js  resolve-end.js		   resolve-flow-scalar.js  util-contains-newline.js	  util-flow-indent-check.js
+compose-doc.js	       composer.js	resolve-block-map.js  resolve-block-seq.js     resolve-flow-collection.js  resolve-props.js	   util-empty-scalar-position.js  util-map-includes.js
+
+./nextjs-app/node_modules/yaml/browser/dist/doc:
+anchors.js  applyReviver.js  createNode.js  directives.js  Document.js
+
+./nextjs-app/node_modules/yaml/browser/dist/nodes:
+addPairToJSMap.js  Alias.js  Collection.js  identity.js  Node.js  Pair.js  Scalar.js  toJS.js  YAMLMap.js  YAMLSeq.js
+
+./nextjs-app/node_modules/yaml/browser/dist/parse:
+cst.js	cst-scalar.js  cst-stringify.js  cst-visit.js  lexer.js  line-counter.js  parser.js
+
+./nextjs-app/node_modules/yaml/browser/dist/schema:
+common	core  json  Schema.js  tags.js	yaml-1.1
+
+./nextjs-app/node_modules/yaml/browser/dist/schema/common:
+map.js	null.js  seq.js  string.js
+
+./nextjs-app/node_modules/yaml/browser/dist/schema/core:
+bool.js  float.js  int.js  schema.js
+
+./nextjs-app/node_modules/yaml/browser/dist/schema/json:
+schema.js
+
+./nextjs-app/node_modules/yaml/browser/dist/schema/yaml-1.1:
+binary.js  bool.js  float.js  int.js  merge.js	omap.js  pairs.js  schema.js  set.js  timestamp.js
+
+./nextjs-app/node_modules/yaml/browser/dist/stringify:
+foldFlowLines.js  stringifyCollection.js  stringifyComment.js  stringifyDocument.js  stringify.js  stringifyNumber.js  stringifyPair.js  stringifyString.js
+
+./nextjs-app/node_modules/yaml/dist:
+cli.d.ts  compose  errors.d.ts	index.d.ts  log.d.ts  nodes	    parse	     public-api.js  stringify	      test-events.js  util.js	  visit.js
+cli.mjs   doc	   errors.js	index.js    log.js    options.d.ts  public-api.d.ts  schema	    test-events.d.ts  util.d.ts       visit.d.ts
+
+./nextjs-app/node_modules/yaml/dist/compose:
+compose-collection.d.ts  compose-node.js      resolve-block-map.d.ts	 resolve-block-seq.js	       resolve-flow-scalar.d.ts    util-contains-newline.js	    util-map-includes.d.ts
+compose-collection.js	 composer.d.ts	      resolve-block-map.js	 resolve-end.d.ts	       resolve-flow-scalar.js	   util-empty-scalar-position.d.ts  util-map-includes.js
+compose-doc.d.ts	 composer.js	      resolve-block-scalar.d.ts  resolve-end.js		       resolve-props.d.ts	   util-empty-scalar-position.js
+compose-doc.js		 compose-scalar.d.ts  resolve-block-scalar.js	 resolve-flow-collection.d.ts  resolve-props.js		   util-flow-indent-check.d.ts
+compose-node.d.ts	 compose-scalar.js    resolve-block-seq.d.ts	 resolve-flow-collection.js    util-contains-newline.d.ts  util-flow-indent-check.js
+
+./nextjs-app/node_modules/yaml/dist/doc:
+anchors.d.ts  anchors.js  applyReviver.d.ts  applyReviver.js  createNode.d.ts  createNode.js  directives.d.ts  directives.js  Document.d.ts  Document.js
+
+./nextjs-app/node_modules/yaml/dist/nodes:
+addPairToJSMap.d.ts  Alias.d.ts  Collection.d.ts  identity.d.ts  Node.d.ts  Pair.d.ts  Scalar.d.ts  toJS.d.ts  YAMLMap.d.ts  YAMLSeq.d.ts
+addPairToJSMap.js    Alias.js	 Collection.js	  identity.js	 Node.js    Pair.js    Scalar.js    toJS.js    YAMLMap.js    YAMLSeq.js
+
+./nextjs-app/node_modules/yaml/dist/parse:
+cst.d.ts  cst.js  cst-scalar.d.ts  cst-scalar.js  cst-stringify.d.ts  cst-stringify.js	cst-visit.d.ts	cst-visit.js  lexer.d.ts  lexer.js  line-counter.d.ts  line-counter.js	parser.d.ts  parser.js
+
+./nextjs-app/node_modules/yaml/dist/schema:
+common	core  json  json-schema.d.ts  Schema.d.ts  Schema.js  tags.d.ts  tags.js  types.d.ts  yaml-1.1
+
+./nextjs-app/node_modules/yaml/dist/schema/common:
+map.d.ts  map.js  null.d.ts  null.js  seq.d.ts	seq.js	string.d.ts  string.js
+
+./nextjs-app/node_modules/yaml/dist/schema/core:
+bool.d.ts  bool.js  float.d.ts	float.js  int.d.ts  int.js  schema.d.ts  schema.js
+
+./nextjs-app/node_modules/yaml/dist/schema/json:
+schema.d.ts  schema.js
+
+./nextjs-app/node_modules/yaml/dist/schema/yaml-1.1:
+binary.d.ts  bool.d.ts	float.d.ts  int.d.ts  merge.d.ts  omap.d.ts  pairs.d.ts  schema.d.ts  set.d.ts	timestamp.d.ts
+binary.js    bool.js	float.js    int.js    merge.js	  omap.js    pairs.js	 schema.js    set.js	timestamp.js
+
+./nextjs-app/node_modules/yaml/dist/stringify:
+foldFlowLines.d.ts  stringifyCollection.d.ts  stringifyComment.d.ts  stringifyDocument.d.ts  stringify.d.ts  stringifyNumber.d.ts  stringifyPair.d.ts  stringifyString.d.ts
+foldFlowLines.js    stringifyCollection.js    stringifyComment.js    stringifyDocument.js    stringify.js    stringifyNumber.js    stringifyPair.js    stringifyString.js
+
+./nextjs-app/node_modules/yocto-queue:
+index.d.ts  index.js  license  package.json  readme.md
+
+./nextjs-app/public:
+file.svg  globe.svg  next.svg  vercel.svg  window.svg
+
+./nextjs-app/src:
+app
+
+./nextjs-app/src/app:
+favicon.ico  fonts  globals.css  layout.tsx  page.tsx
+
+./nextjs-app/src/app/fonts:
+GeistMonoVF.woff  GeistVF.woff
+root@Maths:/home/aniketdatta/Desktop/Reactjs# ls --help
+Usage: ls [OPTION]... [FILE]...
+List information about the FILEs (the current directory by default).
+Sort entries alphabetically if none of -cftuvSUX nor --sort is specified.
+
+Mandatory arguments to long options are mandatory for short options too.
+  -a, --all                  do not ignore entries starting with .
+  -A, --almost-all           do not list implied . and ..
+      --author               with -l, print the author of each file
+  -b, --escape               print C-style escapes for nongraphic characters
+      --block-size=SIZE      with -l, scale sizes by SIZE when printing them;
+                             e.g., '--block-size=M'; see SIZE format below
+
+  -B, --ignore-backups       do not list implied entries ending with ~
+  -c                         with -lt: sort by, and show, ctime (time of last
+                             modification of file status information);
+                             with -l: show ctime and sort by name;
+                             otherwise: sort by ctime, newest first
+
+  -C                         list entries by columns
+      --color[=WHEN]         color the output WHEN; more info below
+  -d, --directory            list directories themselves, not their contents
+  -D, --dired                generate output designed for Emacs' dired mode
+  -f                         list all entries in directory order
+  -F, --classify[=WHEN]      append indicator (one of */=>@|) to entries WHEN
+      --file-type            likewise, except do not append '*'
+      --format=WORD          across -x, commas -m, horizontal -x, long -l,
+                             single-column -1, verbose -l, vertical -C
+
+      --full-time            like -l --time-style=full-iso
+  -g                         like -l, but do not list owner
+      --group-directories-first
+                             group directories before files;
+                             can be augmented with a --sort option, but any
+                             use of --sort=none (-U) disables grouping
+
+  -G, --no-group             in a long listing, don't print group names
+  -h, --human-readable       with -l and -s, print sizes like 1K 234M 2G etc.
+      --si                   likewise, but use powers of 1000 not 1024
+  -H, --dereference-command-line
+                             follow symbolic links listed on the command line
+      --dereference-command-line-symlink-to-dir
+                             follow each command line symbolic link
+                             that points to a directory
+
+      --hide=PATTERN         do not list implied entries matching shell PATTERN
+                             (overridden by -a or -A)
+
+      --hyperlink[=WHEN]     hyperlink file names WHEN
+      --indicator-style=WORD
+                             append indicator with style WORD to entry names:
+                             none (default), slash (-p),
+                             file-type (--file-type), classify (-F)
+
+  -i, --inode                print the index number of each file
+  -I, --ignore=PATTERN       do not list implied entries matching shell PATTERN
+  -k, --kibibytes            default to 1024-byte blocks for file system usage;
+                             used only with -s and per directory totals
+
+  -l                         use a long listing format
+  -L, --dereference          when showing file information for a symbolic
+                             link, show information for the file the link
+                             references rather than for the link itself
+
+  -m                         fill width with a comma separated list of entries
+  -n, --numeric-uid-gid      like -l, but list numeric user and group IDs
+  -N, --literal              print entry names without quoting
+  -o                         like -l, but do not list group information
+  -p, --indicator-style=slash
+                             append / indicator to directories
+  -q, --hide-control-chars   print ? instead of nongraphic characters
+      --show-control-chars   show nongraphic characters as-is (the default,
+                             unless program is 'ls' and output is a terminal)
+
+  -Q, --quote-name           enclose entry names in double quotes
+      --quoting-style=WORD   use quoting style WORD for entry names:
+                             literal, locale, shell, shell-always,
+                             shell-escape, shell-escape-always, c, escape
+                             (overrides QUOTING_STYLE environment variable)
+
+  -r, --reverse              reverse order while sorting
+  -R, --recursive            list subdirectories recursively
+  -s, --size                 print the allocated size of each file, in blocks
+  -S                         sort by file size, largest first
+      --sort=WORD            sort by WORD instead of name: none (-U), size (-S),
+                             time (-t), version (-v), extension (-X), width
+
+      --time=WORD            change the default of using modification times;
+                               access time (-u): atime, access, use;
+                               change time (-c): ctime, status;
+                               birth time: birth, creation;
+                             with -l, WORD determines which time to show;
+                             with --sort=time, sort by WORD (newest first)
+
+      --time-style=TIME_STYLE
+                             time/date format with -l; see TIME_STYLE below
+  -t                         sort by time, newest first; see --time
+  -T, --tabsize=COLS         assume tab stops at each COLS instead of 8
+  -u                         with -lt: sort by, and show, access time;
+                             with -l: show access time and sort by name;
+                             otherwise: sort by access time, newest first
+
+  -U                         do not sort; list entries in directory order
+  -v                         natural sort of (version) numbers within text
+  -w, --width=COLS           set output width to COLS.  0 means no limit
+  -x                         list entries by lines instead of by columns
+  -X                         sort alphabetically by entry extension
+  -Z, --context              print any security context of each file
+      --zero                 end each output line with NUL, not newline
+  -1                         list one file per line
+      --help        display this help and exit
+      --version     output version information and exit
+
+The SIZE argument is an integer and optional unit (example: 10K is 10*1024).
+Units are K,M,G,T,P,E,Z,Y (powers of 1024) or KB,MB,... (powers of 1000).
+Binary prefixes can be used, too: KiB=K, MiB=M, and so on.
+
+The TIME_STYLE argument can be full-iso, long-iso, iso, locale, or +FORMAT.
+FORMAT is interpreted like in date(1).  If FORMAT is FORMAT1<newline>FORMAT2,
+then FORMAT1 applies to non-recent files and FORMAT2 to recent files.
+TIME_STYLE prefixed with 'posix-' takes effect only outside the POSIX locale.
+Also the TIME_STYLE environment variable sets the default style to use.
+
+The WHEN argument defaults to 'always' and can also be 'auto' or 'never'.
+
+Using color to distinguish file types is disabled both by default and
+with --color=never.  With --color=auto, ls emits color codes only when
+standard output is connected to a terminal.  The LS_COLORS environment
+variable can change the settings.  Use the dircolors(1) command to set it.
+
+Exit status:
+ 0  if OK,
+ 1  if minor problems (e.g., cannot access subdirectory),
+ 2  if serious trouble (e.g., cannot access command-line argument).
+
+GNU coreutils online help: <https://www.gnu.org/software/coreutils/>
+Full documentation <https://www.gnu.org/software/coreutils/ls>
+or available locally via: info '(coreutils) ls invocation'
+root@Maths:/home/aniketdatta/Desktop/Reactjs# ls */.out
+ls: cannot access '*/.out': No such file or directory
+root@Maths:/home/aniketdatta/Desktop/Reactjs# ls *.out
+a.out
+root@Maths:/home/aniketdatta/Desktop/Reactjs# ls .js
+ls: cannot access '.js': No such file or directory
+root@Maths:/home/aniketdatta/Desktop/Reactjs# ls *.js
+index.js  main.js
+root@Maths:/home/aniketdatta/Desktop/Reactjs# ls *
+a.deb  a.out  index.js	main.js
+
+nextjs-app:
+next.config.ts	next-env.d.ts  node_modules  package.json  package-lock.json  postcss.config.mjs  public  README.md  src  tailwind.config.ts  tsconfig.json
+root@Maths:/home/aniketdatta/Desktop/Reactjs# ls -T
+ls: option requires an argument -- 'T'
+Try 'ls --help' for more information.
+root@Maths:/home/aniketdatta/Desktop/Reactjs# ls -t
+a.out  a.deb  main.js  index.js  nextjs-app
+root@Maths:/home/aniketdatta/Desktop/Reactjs# ls -la
+total 116
+drwxr-xr-x  3 root        root         4096 Oct 25 21:48 .
+drwxr-xr-x 15 aniketdatta aniketdatta  4096 Oct 25 21:15 ..
+-rw-r--r--  1 root        root            0 Oct 25 21:48 a.deb
+-rw-r--r--  1 root        root            0 Oct 25 21:48 a.out
+-rw-r--r--  1 root        root        49753 Oct 25 21:37 index.js
+-rw-r--r--  1 root        root        49317 Oct 25 21:38 main.js
+drwxr-xr-x  5 root        root         4096 Oct 25 21:22 nextjs-app
+root@Maths:/home/aniketdatta/Desktop/Reactjs# ls * -ll
+-rw-r--r-- 1 root root     0 Oct 25 21:48 a.deb
+-rw-r--r-- 1 root root     0 Oct 25 21:48 a.out
+-rw-r--r-- 1 root root 49753 Oct 25 21:37 index.js
+-rw-r--r-- 1 root root 49317 Oct 25 21:38 main.js
+
+nextjs-app:
+total 244
+-rw-r--r--   1 root root    133 Oct 25 21:21 next.config.ts
+-rw-r--r--   1 root root    228 Oct 25 21:21 next-env.d.ts
+drwxr-xr-x 317 root root  12288 Oct 25 21:22 node_modules
+-rw-r--r--   1 root root    580 Oct 25 21:21 package.json
+-rw-r--r--   1 root root 200462 Oct 25 21:22 package-lock.json
+-rw-r--r--   1 root root    135 Oct 25 21:21 postcss.config.mjs
+drwxr-xr-x   2 root root   4096 Oct 25 21:21 public
+-rw-r--r--   1 root root   1450 Oct 25 21:21 README.md
+drwxr-xr-x   3 root root   4096 Oct 25 21:21 src
+-rw-r--r--   1 root root    407 Oct 25 21:21 tailwind.config.ts
+-rw-r--r--   1 root root    602 Oct 25 21:21 tsconfig.json
+
+
+
 grep "shell" file1.txt
 egrep "shell|kernel" file1.txt
 ls x*
