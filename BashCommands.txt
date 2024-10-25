@@ -319,6 +319,7 @@ sudo updatedb
    26  sudo wget -NP /etc/apt/sources.list.d/ https://dl.winehq.org/wine-builds/debian/dists/bookworm/winehq-bookworm.sources
    27  nano
    28  cd Downloads
+   #Disk partitions and devices listing
    29  lslbk
    30  fdisk -ll
    31  fdisk -ls
