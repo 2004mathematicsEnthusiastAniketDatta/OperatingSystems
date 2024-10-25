@@ -21,7 +21,7 @@ wine --help
 wine
 apt remove wine
 su
-lslbk
+lsblk
 su
 nslookup www.google.com
 tcptraceroute 1.1.1.1
