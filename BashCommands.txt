@@ -3787,6 +3787,11 @@ cd Desktop/WebDevelopment/BASICS_QUICKREV/
 /Frontend_Web-main/TypeScript/TYPESCRIPT_DOMMANIPULATION/
 cd Frontend_Web-main/TypeScript/TYPESCRIPT_DOMMANIPULATION/
 tsc --watch
+ps -> checking active processes in terminal
+man -> manual command
+name="shell programming";
+echo $name; -> prints the string stored within name
+
 
 
 
