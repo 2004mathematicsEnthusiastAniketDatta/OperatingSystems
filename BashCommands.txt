@@ -235,6 +235,9 @@ nano leapyear.sh
 chmod +x leapyear.sh
 ./leapyear.sh
 pwd
+pwd -L
+pwd -P
+$PWD
 whoami
 #date
 timedatectl set-timezone <Asia/Kolkata>
