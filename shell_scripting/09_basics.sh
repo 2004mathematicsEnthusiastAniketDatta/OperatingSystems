@@ -1,11 +1,11 @@
 #!/bin/bash
 
-echo -e "Enter the range till which prime numbers are to be printed"
+echo -e "Enter the range till which prime numbers are to be printed \n"
 read r
 
 is_prime() {
     if [ $1 -le 1 ]; then 
-        return 1
+        return 1  #1 -> not prime
     fi
     # $1 refers to the first command-line argument passed to the function.
     for ((i=2; i*i<=$1; i++)); do
@@ -14,7 +14,7 @@ is_prime() {
         fi
     done
     # exit status
-    return 0
+    return 0 #0->prime
 }
 
 # No need to prompt for input again
