@@ -8,4 +8,5 @@ This is the shebang line, which tells the system which interpreter to use to run
 When a script starts with a shebang line, the system will look for the specified interpreter (in this case, /bin/bash) and run the script using that interpreter. This line is only needed if you plan to run the script as an executable (i.e., ./script.sh); if you run it using bash script.sh, the shebang line is ignored.
 COMMENT
 
-echo "Hello world"
+echo "Hello World!" #sending output to terminal
+
