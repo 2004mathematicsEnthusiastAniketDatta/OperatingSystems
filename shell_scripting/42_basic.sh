@@ -18,5 +18,14 @@ echo "the name of the script is: ${0}";
 logger "log from ${0}" 
 
 #debugging scripts
-set -x;
+#set -x;
+#set -e; --exit
+#set -a
+
+#!/bin/bash
+set -e
+pwd
+date
+hostname
+cd /cdrive
 
