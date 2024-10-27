@@ -467,5 +467,6 @@ int main(){
 
 ![SRJF Output](https://github.com/tmsllab/AIML_Dept/blob/main/5th_Sem/OS_Lab/img/SRJF_output.jpg) -->
 
+Output images can be obtained from the code
 
 **End**
