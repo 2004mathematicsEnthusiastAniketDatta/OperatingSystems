@@ -5,3 +5,4 @@ if [[ $UID -eq 0 ]];then
 else 
      echo "User is not root";
 fi
+
