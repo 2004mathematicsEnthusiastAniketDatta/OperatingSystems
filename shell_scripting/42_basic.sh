@@ -17,3 +17,6 @@ echo "the name of the script is: ${0}";
 
 logger "log from ${0}" 
 
+#debugging scripts
+set -x;
+
