@@ -18,6 +18,12 @@ int main(){
     //Input details of processes
     for(i=0;i<n;i++){
         printf("Enter Details of processes %d \n",i);
-        printf("Arrival ")
+        printf("Arrival Time:");
+        scanf("%d",&at[i]);
+        printf("Burst Time: ");
+        scanf("%d",&bt[i]);
     }
+    printf("\n Gantt Chart for FCFS scheduling \n :");
+    printf("time start to end => process number \n");
+    
 }

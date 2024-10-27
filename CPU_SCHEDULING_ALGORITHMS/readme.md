@@ -469,4 +469,25 @@ int main(){
 
 Output images can be obtained from the code
 
+# PROCESS SYSTEM CALLS -FORK,EXIT,WAIT:
+
+- SYSTEM CALLS: This is an interface between process and kernel
+- This is a way for programs to interact with OS
+- Five different types of System calls are available.They are
+              
+    1. Process control
+    2. File Management
+    3. Device management
+    4. Information management
+    5. Communication   
+
+ - Process control System Calls: Deals with process creation , process termination etc
+
+ - fork():  Important system call which is used to create a new process in the system OS.The newly created process is the child process and the caller of the child process is called the parent process. This takes no arguements and returns the process IDs.fork() is called once but returned twice once in parent and once in child.An exact copy of the parent's address space is created and given to the child. Therefore the parent and child processes have seperate address spaces.
+                
+                1. Negative -> New process creation was unsuccessful
+                2. Zero -> returned to child process
+                3. Positive -> returned to parent (caller) process. 
+ -
+
 **End**
