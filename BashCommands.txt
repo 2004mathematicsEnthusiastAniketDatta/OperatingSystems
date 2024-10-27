@@ -3842,6 +3842,9 @@ Full documentation <https://www.gnu.org/software/coreutils/mv>
 or available locally via: info '(coreutils) mv invocation'
 
 
+dirname -> strips directory information and only give filename
+realpath -> gives the real full path of a file
+basename -> basename strip directory info and only gives file name
 
 
 
