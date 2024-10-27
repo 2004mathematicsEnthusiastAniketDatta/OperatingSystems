@@ -25,5 +25,5 @@ int main(){
     }
     printf("\n Gantt Chart for FCFS scheduling \n :");
     printf("time start to end => process number \n");
-    
+
 }
