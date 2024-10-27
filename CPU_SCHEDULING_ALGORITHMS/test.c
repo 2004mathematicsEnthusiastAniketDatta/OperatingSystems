@@ -9,6 +9,10 @@ int main(){
     // #child processes:2*n-1
     //both the child and the parent caller process run simaltaneously
     printf(" 1.First come first serve \n 2.Shortest Job First \n 3.Priority Scheduling \n 4.Round-Robbin \n 5. Shortest Remaining Job first Scheduling \n");
+    //process id
+    //getppid -> getting parent process id
+    printf("Child Process Id:%d \n",getpid());
+    printf("Process ID of parent Process:%d \n",getppid());
     return 0; //newly created process is the child process identified by the return value 0 
     //the caller of the child process is the parent process
 }
