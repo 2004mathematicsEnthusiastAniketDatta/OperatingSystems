@@ -1,0 +1,6 @@
+Smartphone
+Laptop
+Tablet
+Hard_Drive
+keyboard
+mouse
