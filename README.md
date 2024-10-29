@@ -1441,7 +1441,7 @@ Conclusion
 
 9. Problems solving
     
-    To be studied
+    To STUDY
           
 
 
