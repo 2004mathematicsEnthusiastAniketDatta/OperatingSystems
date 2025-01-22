@@ -15,7 +15,7 @@ int main(){
     }
     else {
         printf("Parent Process is Calling\n");
-        printf("Process ID of the Child Process= %d \n",getppid());
+        printf("Process ID of the Parent Process= %d \n",getppid());
         printf("Returned value of the parent process: %d \n",pid);
     }
 }
